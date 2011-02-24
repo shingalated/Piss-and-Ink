@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Piss and INK - Add user</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link href="/var/www/thrColLiqHdr.css" rel="stylesheet" type="text/css">
+	<SCRIPT LANGUAGE="JavaScript">
+	<!-- Begin
+	function validatePwd() {
+	var invalid1 = " ";
+	var invalid2 = "\\";
+	var invalid3 = "\'";
+	var invalid4 = "\"";
+	var minLength = 6;
+	var pw1 = document.input.passwd.value;
+	var pw2 = document.input.passwd2.value;
+	// check for a value in both fields.
+	if (pw1 == '' || pw2 == '') {
+	alert('Please enter your password twice.');
+	return false;
+	}
+	// check for minimum length
+	if (document.input.password.value.length < minLength) {
+	alert('Your password must be at least ' + minLength + ' characters long. Try again.');
+	return false;
+	}
+	// check for spaces
+	if (document.input.password.value.indexOf(invalid) > -1) {
+	alert("Sorry, spaces are not allowed.");
+	return false;
+	}
+	else {
+	if (pw1 != pw2) {
+	alert ("You did not enter the same new password twice. Please re-enter your password.");
+	return false;
+	}
+	else {
+	alert('Nice job.');
+	return true;
+		  }
+	   }
+	}
+	</script>
+</head>
+
+<body>
+	You are about to add a user on this Piss and INK system. <br />
+	<b>You will not regret it.</b><br />
+	<p />
+
+	What is your desired username?<br />
+	<form name="input" action="" method="post">
+		Username: <input type="text" name="user_name" /><br />
+		First name: <input type="text" name="first_name" /><br />
+		Last name:  <input type="text" name="last_name" /><br />
+		Zip code:	<input type="text" name="zip_code" /><br />
+		E-mail:	 <input type="text"	name="email"	/><br />so then
+		<br />
+		Password:	<input type="password" name="passwd" /><br />
+		<br />
+		Please confirm your password, for science:<br />
+		Password:	<input type="password" name="passwd2" /><br /><br />
+		
+		
+			<script type="text/javascript"
+				src="http://www.google.com/recaptcha/api/challenge?k=6LcUcMESAAAAACz95k0Yrob-X-Q5QBNLFZQHtcvk">
+			</script>
+			<noscript>
+			<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LcUcMESAAAAACz95k0Yrob-X-Q5QBNLFZQHtcvk"
+				height="300" width="500" frameborder="0"></iframe><br>
+			 <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+			 </textarea>
+			 <input type="hidden" name="recaptcha_response_field"
+				value="manual_challenge">
+			</noscript>
+			<br />
+		<input type="submit" value="add" />
+	</form>
+	
+
+
+
+
+</body>
+
+
+</html>
