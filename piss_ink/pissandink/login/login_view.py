@@ -17,11 +17,13 @@ def login(request):
 	user_name = request.GET.get('user_name')
 	passwd = request.GET.get('password')
 	#new_user=request.session['user_name']
-	cursor.execute("""SELECT user_name, password FROM user WHERE user_name = '%s' and password = PASSWORD('%s')""" % (user_name, passwd))
-	results = cursor.fetchall()
+	#SELECT user_name FROM `user` WHERE password = PASSWORD('890890ejy')
+	cursor.execute("""SELECT user_name, password FROM user WHERE (SELECT PASSWORD("goatsex") FROM dual;)user_name = '%s'""" % (user_name))
+	results = cursor.fetchall()	
+	#user_password = results[1]		
 	db.close()
-	return render_to_response('login.html', {'results': results})#, context_instance=RequestContext(request))
-	if results != None:
+	return render_to_response('login.html', {'results':results})#,'user_password': user_password})#, context_instance=RequestContext(request))
+	if passwd == user_password:
 		return HttpResponseRedirect('/home/')
 
 @csrf_exempt
@@ -40,8 +42,7 @@ def adduser(request):
 		cursor.execute("""INSERT INTO piss.user(first_name,last_name,zip_code,password,user_name) VALUES('%s', '%s', '%s', PASSWORD('%s'), '%s');""" % (first_name, last_name, zip_code, password, user_name)) 
 		db.commit()		
 		cursor.execute("""INSERT INTO piss.ofUser(username, plainPassword, encryptedPassword, name, email) VALUES('%s','%s', PASSWORD('%s'), '%s', '%s');""" % (user_name, password, password, first_name, email))	
-		cursor.execute("""SELECT * FROM piss.user""")
-		user_results = cursor.fetchone()
+		db.commit()
 		db.close()
 	return render_to_response('adduser.html', {'user_name':user_name, 'first_name':first_name, 'last_name':last_name, 'zip_code':zip_code, 'password1':password, 'password2':password2})# context_instance=RequestContext(request))
 	

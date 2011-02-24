@@ -12,10 +12,10 @@
 	var invalid3 = "\'";
 	var invalid4 = "\"";
 	var minLength = 6;
-	var pw1 = document.input.passwd.value;
-	var pw2 = document.input.passwd2.value;
+	var passwd1 = document.input.passwd.value;
+	var passwd2 = document.input.passwd2.value;
 	// check for a value in both fields.
-	if (pw1 == '' || pw2 == '') {
+	if (passwd1 == '' || passwd2 == '') {
 	alert('Please enter your password twice.');
 	return false;
 	}
@@ -25,12 +25,12 @@
 	return false;
 	}
 	// check for spaces
-	if (document.input.password.value.indexOf(invalid) > -1) {
+	if (document.input.password.value.indexOf(invalid1||invalid2||invalid3||invalid4) > -1) {
 	alert("Sorry, spaces are not allowed.");
 	return false;
 	}
 	else {
-	if (pw1 != pw2) {
+	if (passwd != pw2) {
 	alert ("You did not enter the same new password twice. Please re-enter your password.");
 	return false;
 	}
@@ -49,17 +49,17 @@
 	<p />
 
 	What is your desired username?<br />
-	<form name="input" action="" method="post">
+	<form name="input" action="" method="post" onSubmit="return validatePwd()">
 		Username: <input type="text" name="user_name" /><br />
 		First name: <input type="text" name="first_name" /><br />
 		Last name:  <input type="text" name="last_name" /><br />
 		Zip code:	<input type="text" name="zip_code" /><br />
 		E-mail:	 <input type="text"	name="email"	/><br />so then
 		<br />
-		Password:	<input type="password" name="passwd" /><br />
+		Password:	<input type="password" name="passwd" maxlength=24> <br />
 		<br />
 		Please confirm your password, for science:<br />
-		Password:	<input type="password" name="passwd2" /><br /><br />
+		Password:	<input type="password" name="passwd2" maxlength=24> <br /><br />
 		
 		
 			<script type="text/javascript"
