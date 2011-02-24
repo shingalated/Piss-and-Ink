@@ -11,19 +11,26 @@ import MySQLdb
 
 @csrf_exempt
 def login(request):
-	db = MySQLdb.connect("localhost","piss","pisswithink","piss" )
-	cursor = db.cursor (MySQLdb.cursors.DictCursor)
-	#user = User.objects.all().order_by('-first_name')[:100]
+	#connection to our database
+	conn = MySQLdb.connect("localhost","piss","pisswithink","piss" )
+	cursor = conn.cursor (MySQLdb.cursors.DictCursor)
+	cursor1 = conn.cursor (MySQLdb.cursors.DictCursor)
+	#gets the user name and password from the user for checking
 	user_name = request.GET.get('user_name')
 	passwd = request.GET.get('password')
 	#new_user=request.session['user_name']
-	#SELECT user_name FROM `user` WHERE password = PASSWORD('890890ejy')
-	cursor.execute("""SELECT user_name, password FROM user WHERE (SELECT PASSWORD("goatsex") FROM dual;)user_name = '%s'""" % (user_name))
-	results = cursor.fetchall()	
-	#user_password = results[1]		
-	db.close()
-	return render_to_response('login.html', {'results':results})#,'user_password': user_password})#, context_instance=RequestContext(request))
-	if passwd == user_password:
+	#preforms a query to find the correct password
+	cursor.execute("""SELECT user_name,password FROM user WHERE user_name = '%s'""" % (user_name))
+	results = cursor.fetchallDict()
+	#gets password from the returned query and sets it to correct_password
+	correct_password = results[0]
+	
+	cursor1.execute("""SELECT PASSWORD('%s') FROM dual;""" % (passwd))
+	user_results = cursor1.fetchall()
+	entered_password = user_results[0]			
+	conn.close()
+	return render_to_response('login.html', {'results':results, 'entered_password':entered_password})#,'user_password': user_password})#, context_instance=RequestContext(request))
+	if correct_password == entered_password:
 		return HttpResponseRedirect('/home/')
 
 @csrf_exempt
