@@ -11,26 +11,28 @@
 	var invalid2 = "\\";
 	var invalid3 = "\'";
 	var invalid4 = "\"";
+	var invalid5 = "\;";
 	var minLength = 6;
 	var passwd1 = document.input.passwd.value;
 	var passwd2 = document.input.passwd2.value;
+	var zipcode = document.input.zip_code.value;
 	// check for a value in both fields.
 	if (passwd1 == '' || passwd2 == '') {
 	alert('Please enter your password twice.');
 	return false;
 	}
 	// check for minimum length
-	if (document.input.password.value.length < minLength) {
+	if (document.input.passwd1.value.length < minLength) {
 	alert('Your password must be at least ' + minLength + ' characters long. Try again.');
 	return false;
 	}
 	// check for spaces
-	if (document.input.password.value.indexOf(invalid1||invalid2||invalid3||invalid4) > -1) {
+	if (document.input.passwd1.value.indexOf(invalid1||invalid2||invalid3||invalid4||invalid5) > -1) {
 	alert("Sorry, spaces are not allowed.");
 	return false;
 	}
 	else {
-	if (passwd != pw2) {
+	if (passwd1 != passwd2) {
 	alert ("You did not enter the same new password twice. Please re-enter your password.");
 	return false;
 	}
