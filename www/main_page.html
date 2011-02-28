@@ -1,6 +1,9 @@
 {% extends "index.html"%}
+
 {% if event_list %}
-     {%block first_block%}<form action="/" method="post">
+     {%block first_block%}
+     <p>Welcome to piss and ink {{user}}</p>
+     <form method="post">
      	{% if new_event %}
 			<p>{{new_event}}</p>
 		{% endif %}
@@ -14,23 +17,19 @@
     {%endblock%} 
     
        
-    {%block event_list%}<form action="" method="post">
-    
+    {%block event_list%}
+    <form action="" method="post">
+		
     {% if event_list %}
     
     {% for event in event_list%}
 		{%csrf_token%}		
-		
 		<input type="checkbox" name="event_check" id="event{{ forloop.counter }}" value = "{{ event.event_id }}"/>
 		<label for="event{{ forloop.counter }}">{{ event.title }}</label><br />			
 	{% endfor %}
 	
 	<input type = 'submit' value = 'delete checked'>
-	</form>
-	
-	
-	
-	
+	</form>	
 	{% else %}
 	<p>There are no events created yet</p>
 	{% endif %}

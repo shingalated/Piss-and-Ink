@@ -5,21 +5,21 @@ from django.http import HttpResponseRedirect, HttpResponse
 from django.core.urlresolvers import reverse
 from django.template import RequestContext
 from piss_models.models import *
-from event.models import eventList
+#from event.models import eventList
 from django.views.decorators.csrf import csrf_exempt
 import MySQLdb
 
 @csrf_exempt
-def eventCreate(request):
+def main_modules(request):
 	all_events = Event.objects.all().order_by('-title')[:8]  #gets all of the objects in Events by title
 	#event_list_form = eventCheck(request.POST) #a model for the event list checkbox form
-	
+	username = request.session['username']
 	new_event = request.POST.get('event')  #gets the newly added event from the event form
 	if new_event:
 		add_event = Event(title = new_event)
 		add_event.save()
 	#removal = request.POST.getlist('event_check')
-	return render_to_response('detail.html',{ 'event_list': all_events, 'new_event': new_event}, context_instance=RequestContext(request))
+	return render_to_response('main_page.html',{ 'event_list': all_events, 'new_event': new_event, 'user':username}, context_instance=RequestContext(request))
 
 @csrf_exempt
 def EventDelete(request):

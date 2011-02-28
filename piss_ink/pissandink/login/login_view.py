@@ -18,7 +18,7 @@ def login(request):
 	#gets the user name and password from the user for checking
 	user_name = request.GET.get('user_name')
 	passwd = request.GET.get('password')
-	#new_user=request.session['user_name']
+	request.session['username'] = user_name
 	#preforms a query to find the correct password
 	cursor.execute("""SELECT password FROM user WHERE user_name = '%s'""" % (user_name))
 	results = cursor.fetchone()
@@ -29,10 +29,10 @@ def login(request):
 	entered_results = cursor1.fetchone()
 	entered_password = entered_results			
 	conn.close()
-	if user_name == None:
-		return HttpResponseRedirect('databahn.info/')
+	#if user_name == None:
+		#return HttpResponseRedirect('/')
 	if correct_password == entered_password:
-		return HttpResponseRedirect('home/')
+		return HttpResponseRedirect('home')
 	return render_to_response('login.html', {'correct_password':correct_password, 'entered_password':entered_password})#,'user_password': user_password})#, context_instance=RequestContext(request))
 				
 
@@ -53,6 +53,6 @@ def adduser(request):
 		cursor.execute("""INSERT INTO piss.ofUser(username, plainPassword, encryptedPassword, name, email) VALUES('%s','%s', PASSWORD('%s'), '%s', '%s');""" % (user_name, password, password, first_name, email))	
 		db.commit()
 		db.close()
-		return HttpResponseRedirect('databahn.info')
+		return HttpResponseRedirect('/')
 	return render_to_response('adduser.html', {'user_name':user_name, 'first_name':first_name, 'last_name':last_name, 'zip_code':zip_code, 'password1':password, 'password2':password2})# context_instance=RequestContext(request))
 	
