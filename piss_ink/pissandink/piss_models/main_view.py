@@ -3,6 +3,8 @@ from piss_models.models import *
 from django.shortcuts import render_to_response
 from django.http import HttpResponseRedirect, HttpResponse
 from django.core.urlresolvers import reverse
+import pywapi
+import string
 from django.template import RequestContext
 from piss_models.models import *
 #from event.models import eventList
@@ -15,11 +17,13 @@ def main_modules(request):
 	#event_list_form = eventCheck(request.POST) #a model for the event list checkbox form
 	username = request.session['username']
 	new_event = request.POST.get('event')  #gets the newly added event from the event form
+	google_results = pywapi.get_weather_from_google('05401')
+	weather = google_results['temp_c']
 	if new_event:
 		add_event = Event(title = new_event)
 		add_event.save()
 	#removal = request.POST.getlist('event_check')
-	return render_to_response('main_page.html',{ 'event_list': all_events, 'new_event': new_event, 'user':username}, context_instance=RequestContext(request))
+	return render_to_response('main_page.html',{ 'event_list': all_events, 'new_event': new_event, 'user':username, 'weather': weather}, context_instance=RequestContext(request))
 
 @csrf_exempt
 def EventDelete(request):
