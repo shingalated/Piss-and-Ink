@@ -2,7 +2,8 @@
 
 {% if event_list %}
      {%block first_block%}
-     {{weather}}
+     <p>your zip code is {{zip_code}}</p>
+     <p>the temperatue in {{city}} is {{temperature}}</p>
      <p>Welcome to piss and ink {{user}}</p>
      <form method="post">
      	{% if new_event %}
