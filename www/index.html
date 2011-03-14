@@ -13,37 +13,43 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
 </head>
 
 <body>
-
+{%block head%}
+{%endblock%}
 <div class="container">
   <div class="header"><a href="#"><img src="media/images/tl_menu.png" alt="Piss & INK" name="logomenu" width="20%" height="90" id="logomenu" style="background: 737CA1 #; display:block;" /></a> 
     <!-- end .header --></div>
   <div class="sidebar1">
     <ul class="nav">
+    {%block link_block%}
       <li><a href="#">Link one</a></li>
       <li><a href="#">Link two</a></li>
       <li><a href="#">Link three</a></li>
       <li><a href="#">Link four</a></li>
+      {%endblock%}
     </ul>
-    {%block first_block%}
-    <p>Small modules load here.</p>
-    <p>Modules are moveable and are ordered by number.</p>
-    <p>Modules one to four are loaded in this area.</p>
-    {%endblock%}
-    {%block event_list%}
-    {%endblock%}
+    {%block small_modules%}
+    {%block one%}    
     <p>&nbsp;</p>
     <p>One</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-<p>Two </p>
+    {%endblock%}
+    {%block two%}
+	<p>Two </p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
-<p>Three<!-- end .sidebar1 --></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+    {%endblock%}
+    {%block three%}
+	<p>Three<!-- end .sidebar1 --></p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	{%endblock%}
+	{%block four%}
 <p>Four</p>
   </div>
   <div class="content">
+  {%endblock%}
+  {%endblock small_modules%}
 	
     <h1>Main modules load below</h1>
     <p>Larger modules will load in this main panel.</p>

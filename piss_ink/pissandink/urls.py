@@ -7,7 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns('',	
 	(r'^', include('login.urls')),
 	(r'^home', include('piss_models.urls')),
-	(r'^adduser', 'login.login_view.adduser')
+	(r'^adduser', 'login.login_view.adduser'),
 	(r'^config', 'config.config_view.configuration')
 	#(r'^admin/', include(admin.site.urls)), 
 )

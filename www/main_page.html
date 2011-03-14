@@ -1,45 +1,50 @@
 {% extends "index.html"%}
 
-{% if event_list %}
-     {%block first_block%}
-     <p>your zip code is {{zip_code}}</p>
-     <p>the temperatue in {{city}} is {{temperature}}</p>
+{%block head%}
+<a href="/config">configuration</a>
+{%endblock head%}
+
+     {%block one%}
      <p>Welcome to piss and ink {{user}}</p>
+     <p>the temperatue in {{city}} is {{temperature}}</p>
+     
+     {%endblock one%}
+     {%block two%}
+     {% if event_list %}
      <form method="post">
+		{%csrf_token%}
      	{% if new_event %}
 			<p>{{new_event}}</p>
 		{% endif %}
 		{% if delete_error %}
 		<p>{{delete_error}}</p>
-		{% endif %}			
-		{%csrf_token%}
-			<input type="text" name="event" id="event{{ forloop.counter }}" />
-			<label for="event{{forloop.counter}}">Enter your event</label>
+		{% endif %}						
+			<label for="event">Enter your event</label>
+			<input type="text" name="event" id="event" />
 		    </form>
-    {%endblock%} 
-    
-       
-    {%block event_list%}
-    <form action="" method="post">
-		
-    {% if event_list %}
-    
+		{%endif%}
+	<form action="" method="post">
+	{% if event_list %}
     {% for event in event_list%}
 		{%csrf_token%}		
 		<input type="checkbox" name="event_check" id="event{{ forloop.counter }}" value = "{{ event.event_id }}"/>
 		<label for="event{{ forloop.counter }}">{{ event.title }}</label><br />			
 	{% endfor %}
-	
 	<input type = 'submit' value = 'delete checked'>
 	</form>	
 	{% else %}
 	<p>There are no events created yet</p>
 	{% endif %}
-	{%endblock%}	
+	{%endblock two%}
+     
+    
+       
+    
+    
+	
    
-{% else %}
-    <p>No Events are available.</p>
-{% endif %}
+
+{%comment%}{%endblock small_modules%}{%endcomment%}
 
 
 
