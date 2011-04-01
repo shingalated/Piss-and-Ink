@@ -1,10 +1,53 @@
 @charset "UTF-8";
+.background-size(@x, @y) {
+        -webkit-background-size: @x @y;
+        -moz-background-size: @x @y;
+        -o-background-size: @x @y;
+        background-size: @x @y;
+}
+
 body {
 	font: 100%/1.4 'Ubuntu', Arial, Helvetica, sans-serif;
-	background: #FBFF7D;
 	margin: 0;
 	padding: 0;
 	color: #000000;
+	background-color: #ac0;
+    background-image: -webkit-gradient(linear, 0 100%, 100% 0,
+						color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                        color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                        color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                        to(transparent));
+	background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+						transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+						transparent 75%, transparent);
+	background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+						transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+						transparent 75%, transparent);
+	background-image: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+						transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+						transparent 75%, transparent);
+
+	-webkit-background-size: 150px 150px;
+	-moz-background-size: 150px 150px;
+	background-size: 150px 150px;
+}
+.login {
+-moz-border-radius:50px;
+-webkit-border-radius:50px;
+border-radius:50px;
+-moz-box-shadow:8px 8px 35px #000000;
+-webkit-box-shadow:8px 8px 35px #000000;
+box-shadow:8px 8px 35px #000000;
+background: -moz-linear-gradient(top, #feffe0, #fff954);
+background: -webkit-gradient(linear, center top, center bottom, from(#feffe0), to(#fff954));
+background: -o-linear-gradient(top, #feffe0, #fff954);
+background: linear-gradient(top, #feffe0, #fff954);
+/*--IE9 DOES NOT SUPPORT GRADIENT BACKGROUNDS--*/
+opacity:0.95;
+width: 50%;
+text-align: center;
+margin: 250 auto;
+
 }
 
 /* ~~ Element/tag selectors ~~ */

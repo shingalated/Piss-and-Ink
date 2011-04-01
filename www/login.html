@@ -5,20 +5,21 @@
 <title>Piss and INK login</title> 
 </head> 
 <link href="media/thrColLiqHdr.css" rel="stylesheet" type="text/css"> 
+<link href="media/chrome.css" rel="stylesheet" type="text/css">
 <body> 
-{%comment%}{{entered_password}}{{correct_password}}{%endcomment%}
-<form action='' method ='get'> 
-<label for="username">User name please</label><br /> 
-<input type="text" name="user_name" id="username" /><br /> 
- 
-<input type="password" name="password" id="password" /> 
-<label for="password">Now your password</label><br /> 
- 
-<input type ='submit' value = 'Login'> 
-</form> 
-<form>
-<input type="button" value="Create user" onClick="parent.location='adduser'">
-</form>
+<div class=login>
+	{%comment%}{{entered_password}}{{correct_password}}{%endcomment%}
+	<form action='' method ='get'> 
+	<label for="username">Username:</label><br /> 
+	<input type="text" name="user_name" id="username" /><br /> 
+	<br />
+	<label for="password">Password:</label><br /> 
+	<input type="password" name="password" id="password" /> 	 
+	<br />
+	<input type='button' value="Create user" onClick="parent.location='adduser'">
+	<input type ='submit' value = 'Login'> 
+	</form>
+</div>
 </body> 
  
  

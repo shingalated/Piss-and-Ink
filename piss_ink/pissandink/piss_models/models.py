@@ -52,7 +52,7 @@ class Event(models.Model):
     class Meta:
         db_table = u'event'
     def __unicode__(self):
-	return self.title
+		return self.title
 	
 
 
@@ -89,15 +89,17 @@ class User(models.Model):
 			return self.first_name
         
 
-class UserHasEvent(models.Model):
+class UserEvent(models.Model):
     user = models.ForeignKey(User)
-    user_event = models.ForeignKey(Event)
+    event = models.ForeignKey(Event)
     class Meta:
-        db_table = u'user_has_event'
+        db_table = u'user_event'
 
-class UserHasTasks(models.Model):
+
+class UserTasks(models.Model):
     user = models.ForeignKey(User)
     tasks = models.ForeignKey(Tasks)
     class Meta:
-        db_table = u'user_has_tasks'
+        db_table = u'user_tasks'
+
 

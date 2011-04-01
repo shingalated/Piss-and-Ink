@@ -1,20 +1,21 @@
 {% extends "index.html"%}
 
 {%block head%}
-<a href="/config">configuration</a>
+
 {%endblock head%}
 
      {%block one%}
-     <p>Welcome to piss and ink {{user}}</p>
-     <p>the temperatue in {{city}} is {{temperature}}</p>
+     <p>Welcome to Piss && ink {{user}}</p>
+     <p>The temperature in {{city}} is {{temperature}}&deg </p>
      
      {%endblock one%}
      {%block two%}
-     {% if event_list %}
+     
+     {%comment%}{% if event_list %}{%endcomment%}
      <form method="post">
 		{%csrf_token%}
      	{% if new_event %}
-			<p>{{new_event}}</p>
+			<b><p>{{new_event}}</p></b>
 		{% endif %}
 		{% if delete_error %}
 		<p>{{delete_error}}</p>
@@ -22,21 +23,28 @@
 			<label for="event">Enter your event</label>
 			<input type="text" name="event" id="event" />
 		    </form>
-		{%endif%}
+		    </p>
+		{%comment%}{%endif%}{%endcomment%}
 	<form action="" method="post">
-	{% if event_list %}
-    {% for event in event_list%}
-		{%csrf_token%}		
+	{% for event in event_list%}
+		{%csrf_token%}
 		<input type="checkbox" name="event_check" id="event{{ forloop.counter }}" value = "{{ event.event_id }}"/>
-		<label for="event{{ forloop.counter }}">{{ event.title }}</label><br />			
+		<label for="event{{ forloop.counter }}">{{ event.title }}<br /> date :{%if event.date == None%} Anytime{%else%}{{event.date}}{%endif%}</label></p>			
 	{% endfor %}
-	<input type = 'submit' value = 'delete checked'>
+	<input type = 'submit' onclick = "reload()" value = 'add'>
+	<input type = 'submit' onclick = "sleep(1000) reload()" value = 'delete'>
 	</form>	
-	{% else %}
-	<p>There are no events created yet</p>
+	{% if event_list == Null %}
+	<p>There aren't any events yet</p>
 	{% endif %}
 	{%endblock two%}
-     
+	
+	{% block main1 %}
+	<b>{{user}}'s News feed:</b>
+	{%for i in '123'|make_list%}
+	<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
+	{%endfor%}
+    {%endblock%} 
     
        
     

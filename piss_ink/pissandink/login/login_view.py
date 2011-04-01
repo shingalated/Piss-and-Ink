@@ -8,39 +8,12 @@ from piss_models.models import *
 from django.views.decorators.csrf import csrf_exempt
 import MySQLdb
 #passError = "sorry, the passwords you entered didn't match. Please enter them again"
-import sys
+
 import os
 import xmpp
 
-#THIS IS VERY WRONG!
-def register(JID, password):
-	if sys.argv.count < 3:
-		#print "Syntax: register.py [JID] [Password]"
-		#sys.exita(64)
-
-		jid=xmpp.protocol.JID(sys.argv[1])
-		cli=xmpp.Client(jid.getDomain(), debug=[])
-		cli.connect()
-
-		# getRegInfo has a bug that puts the username as a direct child of the
-		# IQ, instead of inside the query element.  The below will work, but
-		# won't return an error when the user is known, however the register
-		# call will return the error.
-		xmpp.features.getRegInfo(cli,
-								 jid.getDomain(),
-								 #{'username':jid.getNode()},
-								 sync=True)
-
-		if xmpp.features.register(cli,
-								  jid.getDomain(),
-								  {'JID':jid.getNode(),
-								   'password':sys.argv[2]}):
-			sys.stderr.write("Success!\n")
-			sys.exit(0)
-		else:
-			sys.stderr.write("Error!\n")
-			sys.exit(1)
-		return HttpResponseRedirect('/')
+		
+	#return HttpResponseRedirect('/')
 
 
 @csrf_exempt
@@ -53,7 +26,6 @@ def login(request):
 	user_name = request.GET.get('user_name')
 	password = request.GET.get('password')
 	request.session['username'] = user_name
-	#USERNAME = request.session['USERNAME']
 	#preforms a query to find the correct password
 	cursor.execute("""SELECT password FROM user WHERE user_name = '%s'""" % (user_name))
 	results = cursor.fetchone()
@@ -87,14 +59,26 @@ def adduser(request):
 	email = request.POST.get('email')
 #	request.session['USERNAME'] = user_name
 	
+	
 		
 	if password != None and password == password2:
 		cursor.execute("""INSERT INTO piss.user(first_name,last_name,zip_code,password,user_name) VALUES('%s', '%s', '%s', PASSWORD('%s'), '%s');""" % (first_name, last_name, zip_code, password, user_name)) 
-		db.commit()		
+		db.commit()	
+		
+		FormJID = user_name+"@databahn.info"
+		password = request.POST.get('passwd')	
+		
+		addXmpp = os.popen("python /var/piss_ink/addxmpp.py "+FormJID+" "+password,"w")
+		
 		#cursor.execute("""INSERT INTO piss.ofUser(username, plainPassword, encryptedPassword, name, email) VALUES('%s','%s', PASSWORD('%s'), '%s', '%s');""" % (user_name, password, password, first_name, email))	
 		#db.commit()
+		
 		db.close()
 		return HttpResponseRedirect('/')		
 		
 	return render_to_response('adduser.html', {'user_name':user_name, 'first_name':first_name, 'last_name':last_name, 'zip_code':zip_code, 'password1':password, 'password2':password2})# context_instance=RequestContext(request))
-	
+
+def logout(request):
+	for sesskey in request.session.keys():
+            del request.session[sesskey]
+	return HttpResponseRedirect('/')

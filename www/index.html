@@ -10,9 +10,19 @@
 ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
 </style>
 <![endif]-->
+<link href="media/chrome.css" rel="stylesheet" type="text/css"> 
+
 </head>
 
 <body>
+<div class=nslink>
+	<ul class="toolbar" style="background-color: Gray">
+		<li><a style="text-decoration:none" href="config">Configuration</a></li><!--
+		--><li>Messages</li><!--
+		--><li><a style="text-decoration:none" href="home">Home</a></li><!--
+		--><li><a style="text-decoration:none" href="logout">Log off</a></li>
+	</ul>
+</div>
 {%block head%}
 {%endblock%}
 <div class="container">
@@ -52,10 +62,6 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
   {%endblock small_modules%}
 	
     <h1>Main modules load below</h1>
-    <p>Larger modules will load in this main panel.</p>
-    <p>Modules are ordered by number and are moveable and orderable within panels. Modules that are to be placed in the center area can be numbered five to ten.</p>
-    <p>Numbering runs from top to bottom.</p>
-    <p>No more than 15 modules are allowed to be loaded at a time to keep page load times reasonable and to avoid clutter.</p>
     {%block main1%}
     <p>Five</p>
     {%endblock%}
@@ -65,7 +71,9 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
     {%block main3%}    
     <p>Seven</p>
     {%endblock%}
+    {%block main4%}
     <p>Eight</p>
+    {%endblock%}
     <p>Nine </p>
     <p>Ten</p>
     <h2>Clearing Method</h2>
