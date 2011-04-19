@@ -4,8 +4,30 @@
 <meta name="google-site-verification" content="0z9noxcFgy19YHMfrS5ab1P9prZ9VSdhLhtI3_03Ehs" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Piss and INK</title>
+{%comment%}<script type="text/javascript" src="media/js/jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="media/js/jquery-ui-1.7.1.custom.min.js"></script>
+<script type="text/javascript" src="media/js/daterangepicker.jQuery.js"></script>
+<link rel="stylesheet" href="media/css/ui.daterangepicker.css" type="text/css" />
+<link rel="stylesheet" href="media/css/redmond/jquery-ui-1.7.1.custom.css" type="text/css" title="ui-theme" />
+<script type="text/javascript">	
+	$(function(){
+		  $('input').daterangepicker({arrows:true}); 
+	 });
+</script>
+<script type="text/javascript">
+function updatelist(){
+window.location.reload()
+window.loaction.reload()
+</script>
+
+<!-- from here down, demo-related styles and scripts -->
+<style type="text/css">
+	body { font-size: 62.5%; }
+	input {width: 196px; height: 1.1em; display:block;}
+</style>{%endcomment%}		
+<link href="media/chrome.css" rel="stylesheet" type="text/css">
 <link href="media/thrColLiqHdr.css" rel="stylesheet" type="text/css"><!--[if lte IE 7]>
-<style>
+<style> 
 .content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
 ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
 </style>
@@ -18,23 +40,23 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
 <div class=nslink>
 	<ul class="toolbar" style="background-color: Gray">
 		<li><a style="text-decoration:none" href="config">Configuration</a></li><!--
-		--><li>Messages</li><!--
+		--><li><a style="text-decoration:none" href="chat">Messages</a></li><!--
 		--><li><a style="text-decoration:none" href="home">Home</a></li><!--
 		--><li><a style="text-decoration:none" href="logout">Log off</a></li>
 	</ul>
 </div>
-{%block head%}
-{%endblock%}
+
 <div class="container">
   <div class="header"><a href="#"><img src="media/images/tl_menu.png" alt="Piss & INK" name="logomenu" width="20%" height="90" id="logomenu" style="background: 737CA1 #; display:block;" /></a> 
-    <!-- end .header --></div>
+    
+<!-- end .header --></div>
   <div class="sidebar1">
     <ul class="nav">
     {%block link_block%}
-      <li><a href="#">Link one</a></li>
-      <li><a href="#">Link two</a></li>
-      <li><a href="#">Link three</a></li>
-      <li><a href="#">Link four</a></li>
+      <li><a href="http://www.google.com">Google</a></li>
+      <li><a href="http://www.reddit.com">Reddit</a></li>
+      <li><a href="http://www.xkcd.com">XCKD</a></li>
+      <li><a href="http://www.youtube.com">Youtube</a></li>
       {%endblock%}
     </ul>
     {%block small_modules%}
@@ -46,6 +68,30 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
     {%endblock%}
     {%block two%}
 	<p>Two </p>
+	<link rel="STYLESHEET" type="text/css" href="../../codebase/dhtmlxcalendar.css">
+<script>
+window.dhx_globalImgPath = "../../codebase/imgs/";
+</script>
+<script  src="../../codebase/dhtmlxcommon.js"></script>
+<script  src="../../codebase/dhtmlxcalendar.js"></script>
+ 
+<script>
+var mCal;
+function attach(obj) {
+    var dhxCalendarData = {
+        parent: obj,
+        isAutoDraw: false;
+    };
+    mCal = new dhtmlxCalendarObject(dhxCalendarData);
+}
+function create() {
+    obj = document.getElementById('test');
+    obj.innerHTML = '<input type="text" id="calInput" style="width: 200px; font-size:12px;" readonly="true" visible="false">';
+    attach('calInput');
+}
+</script>
+<div id="test"></div>
+<button onclick="create()">New Calendar</button>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     {%endblock%}
@@ -55,46 +101,54 @@ ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it ne
 	<p>&nbsp;</p>
 	{%endblock%}
 	{%block four%}
-<p>Four</p>
+	<p>Four</p>
+	{%endblock%}
   </div>
   <div class="content">
-  {%endblock%}
+  
   {%endblock small_modules%}
-	
+  {%block head%}    	
     <h1>Main modules load below</h1>
-    {%block main1%}
+    {%endblock%}
+    {%block five%}
     <p>Five</p>
     {%endblock%}
-    {%block main2%}
+    {%block six%}
     <p>Six</p>
     {%endblock%}
-    {%block main3%}    
+    {%block seven%}    
     <p>Seven</p>
     {%endblock%}
-    {%block main4%}
+    {%block eight%}
     <p>Eight</p>
     {%endblock%}
-    <p>Nine </p>
-    <p>Ten</p>
-    <h2>Clearing Method</h2>
-    <p>Because all the columns are floated, this layout uses a clear:both declaration in the .footer rule.  This clearing technique forces the .container to understand where the columns end in order to show any borders or background colors you place on the .container. If your design requires you to remove the .footer from the .container, you'll need to use a different clearing method. The most reliable will be to add a &lt;br class=&quot;clearfloat&quot; /&gt; or &lt;div  class=&quot;clearfloat&quot;&gt;&lt;/div&gt; after your final floated column (but before the .container closes). This will have the same clearing effect.</p></p></p>
+    {%comment%}<p>Because all the columns are floated, this layout uses a clear:both declaration in the .footer rule.  This clearing technique forces the .container to understand where the columns end in order to show any borders or background colors you place on the .container. If your design requires you to remove the .footer from the .container, you'll need to use a different clearing method. The most reliable will be to add a &lt;br class=&quot;clearfloat&quot; /&gt; or &lt;div  class=&quot;clearfloat&quot;&gt;&lt;/div&gt; after your final floated column (but before the .container closes). This will have the same clearing effect.</p></p></p>{%endcomment%}
         <!-- end .content --></div>
         
   <div class="sidebar2">
-    <h4>Right panel</h4>
-    <p>This panel is completely optional.</p>
+   {%block config%} <h4>Right panel</h4>
     <p>Small modules load here and are ordered by number.</p>
-    <p>Modules 11-15 are loaded in <!-- end .sidebar2 -->this area.</p>
+    <p>Modules 9-13 are loaded in <!-- end .sidebar2 -->this area.</p>
+    {%endblock%}
+    
+    {%block nine%}
     <p>&nbsp;</p>
-<p>Eleven</p>
+	<p>nine</p>
+	{%endblock%}
+	{%block ten%}
+    <p>&nbsp;</p>
+    <p>Ten</p>
+    {%endblock%}
+    
+    {%block eleven%} 
+    <p>&nbsp;</p>
+    <p>Eleven</p>
+    {%endblock%}
+    
+    {%block twelve%}
     <p>&nbsp;</p>
     <p>Twelve</p>
-    <p>&nbsp;</p>
-    <p>Thirteen</p>
-    <p>&nbsp;</p>
-    <p>Fourteen</p>
-    <p>&nbsp;</p>
-    <p>Fifteen  </p>
+    {%endblock%}    
   </div>
   <div class="footer">
     <p>This .footer contains the declaration position:relative; to give Internet Explorer 6 hasLayout for the .footer and cause it to clear correctly. If you're not required to support IE6, you may remove it.</p>

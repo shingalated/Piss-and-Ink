@@ -31,6 +31,24 @@ body {
 	-moz-background-size: 150px 150px;
 	background-size: 150px 150px;
 }
+.config {
+-moz-border-radius:50px;
+border-radius:50px;
+-moz-box-shadow:8px 8px 35px #000000;
+-webkit-box-shadow:8px 8px 35px #000000;
+box-shadow:8px 8px 35px #000000;
+background: -moz-linear-gradient(top, #feffe0, #fff954);
+background: -webkit-gradient(linear, center top, center bottom, from(#feffe0), to(#fff954));
+background: -o-linear-gradient(top, #feffe0, #fff954);
+background: linear-gradient(top, #feffe0, #fff954);
+/*--IE9 DOES NOT SUPPORT GRADIENT BACKGROUNDS--*/
+opacity:0.95;
+width: 85%;
+text-align: center;
+margin: auto auto;
+
+}
+
 .login {
 -moz-border-radius:50px;
 -webkit-border-radius:50px;
@@ -92,6 +110,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	background: #4E5869;
 }
 
+
 /* ~~ These are the columns for the layout. ~~ 
 
 1) Padding is only placed on the top and/or bottom of the divs. The elements within these divs have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
@@ -105,19 +124,30 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 */
 .sidebar1 {
 	float: left;
-	width: 20%;
-	background: #4E5869;
+	width: 25%;
+	background: #006666;
+	padding: 3px;
 	padding-bottom: 10px;
 	-moz-border-radius-bottomright: 50px;
 	border-bottom-right-radius: 50px;
 	border-bottom-left-radius: 50px;
 	-moz-border-radius-bottomleft: 50px;
-
+	-moz-box-shadow:2px 2px 2px #000000;
+	-webkit-box-shadow:2px 2px 2px #000000;
+	box-shadow:2px 2px 2px #000000;
+	background: -moz-linear-gradient(top, #feffe0, #fff954);
+	background: -webkit-gradient(linear, center top, center bottom, from(#feffe0), to(#fff954));
+	background: -o-linear-gradient(top, #feffe0, #fff954);
+	background: linear-gradient(top, #feffe0, #fff954);
+	/*--IE9 DOES NOT SUPPORT GRADIENT BACKGROUNDS--*/
+	opacity:0.95;
+	text-align: left;
+	margin: 250 250;
 
 }
 .content {
 	padding: 10px 0;
-	width: 60%;
+	width: 50%;
 	float: left;
 	background: #960
 	-moz-border-radius-bottomright: 25px;
@@ -134,13 +164,24 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 .sidebar2 {
 	float: left;
 	width: 20%;
-	background: #4E5869;
-	padding: 10px 0;
+	background: #006666;
+	padding: 3px;
+	padding-bottom: 10px;
 	-moz-border-radius-bottomright: 50px;
 	border-bottom-right-radius: 50px;
 	border-bottom-left-radius: 50px;
 	-moz-border-radius-bottomleft: 50px;
-	
+	-moz-box-shadow:2px 2px 2px #000000;
+	-webkit-box-shadow:2px 2px 2px #000000;
+	box-shadow:2px 2px 2px #000000;
+	background: -moz-linear-gradient(top, #feffe0, #fff954);
+	background: -webkit-gradient(linear, center top, center bottom, from(#feffe0), to(#fff954));
+	background: -o-linear-gradient(top, #feffe0, #fff954);
+	background: linear-gradient(top, #feffe0, #fff954);
+	/*--IE9 DOES NOT SUPPORT GRADIENT BACKGROUNDS--*/
+	opacity:0.95;
+	text-align: left;
+	margin: 250 250;
 }
 
 /* ~~ This grouped selector gives the lists in the .content area space ~~ */

@@ -64,6 +64,17 @@ def adduser(request):
 	if password != None and password == password2:
 		cursor.execute("""INSERT INTO piss.user(first_name,last_name,zip_code,password,user_name) VALUES('%s', '%s', '%s', PASSWORD('%s'), '%s');""" % (first_name, last_name, zip_code, password, user_name)) 
 		db.commit()	
+		cursor.execute("""SELECT user_id FROM user WHERE user_name = '%s'""" % (user_name))
+		results = cursor.fetchone ()
+		cursor.execute("""INSERT INTO piss.Module_order(user_id) VALUES(%d); """ % (results[0]))
+		db.commit()
+		cursor.execute("""INSERT INTO piss.module(user_id) VALUES(%d); """ % (results[0]))
+		db.commit()
+		cursor.execute("""INSERT INTO piss.rss(user_id) VALUES(%d); """ % (results[0]))
+		db.commit()
+		cursor.execute("""INSERT INTO piss.bookmarks(user_id) VALUES(%d); """ % (results[0]))
+		db.commit()
+		db.close()
 		
 		FormJID = user_name+"@databahn.info"
 		password = request.POST.get('passwd')	
@@ -73,7 +84,7 @@ def adduser(request):
 		#cursor.execute("""INSERT INTO piss.ofUser(username, plainPassword, encryptedPassword, name, email) VALUES('%s','%s', PASSWORD('%s'), '%s', '%s');""" % (user_name, password, password, first_name, email))	
 		#db.commit()
 		
-		db.close()
+		
 		return HttpResponseRedirect('/')		
 		
 	return render_to_response('adduser.html', {'user_name':user_name, 'first_name':first_name, 'last_name':last_name, 'zip_code':zip_code, 'password1':password, 'password2':password2})# context_instance=RequestContext(request))
