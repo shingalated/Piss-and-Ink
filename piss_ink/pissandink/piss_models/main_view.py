@@ -28,7 +28,7 @@ def main_modules(request):
 	cursor.execute("""SELECT user_id FROM user WHERE user_name = '%s'""" % (username))
 	results1 = cursor.fetchone ()
 	user_id = results1[0]
-	#######gets the module order from the DB and sets them on the page accordingly
+	#######gets the module order from the DB and sets them on the page according to user
 	module_cursor.execute("""SELECT * FROM Module_order WHERE user_id = %d""" % (user_id))
 	module_order = module_cursor.fetchall()
 	choice1 = str(module_order[0][1])
@@ -43,6 +43,8 @@ def main_modules(request):
 	choice10 = str(module_order[0][10])
 	choice11 = str(module_order[0][11])
 	choice12 = str(module_order[0][12])
+	###puts the choices in a dictionary for easier access and output in the html
+	choice_dict = [choice1, choice2, choice3, choice4, choice5, choice6, choice7, choice8, choice9, choice10, choice11, choice12]
 		
 	removal = request.POST.getlist('event_check')
 	conn = MySQLdb.connect("localhost","piss","pisswithink","piss" )
@@ -88,7 +90,7 @@ def main_modules(request):
 			#Event.objects.get(event_id__in=removal).delete()
 	return render_to_response('main_page.html',{'results':google_results, 'choice1':choice1, 'choice2':choice2, 'choice3':choice3, 'choice4':choice4, 'choice5':choice5,'choice6':choice6, 'choice7':choice7, 'choice8':choice8, 'choice9':choice9, 'choice10':choice10, 'choice11':choice11, 'choice12':choice12, 
 	'event_list': all_events, 'new_event': new_event, 'user':username, 'city': city, 
-	'temperature':temperature, 'feedTitle':feedTitle, 'feedLink':feedLink, 'order':module_order}, context_instance=RequestContext(request))
+	'temperature':temperature, 'feedTitle':feedTitle, 'feedLink':feedLink, 'order':module_order, 'choice_dict':choice_dict}, context_instance=RequestContext(request))
 
 @csrf_exempt
 def EventDelete(request):

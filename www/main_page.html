@@ -5,244 +5,142 @@
 {%endblock head%}	
 		{%block one%}
 			{%if choice1 == '1'%}     
-				<p>{%include "weather.html"%}</p>
+				<p>{%include "mod1.html"%}</p>
 			{%endif%}
 			{%if choice2 == '1'%}
-				{%include "events.html"%}
+				{%include "mod2.html"%}
 			{%endif%}
 			{%if choice3 == '1'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
+				{%include "mod3.html"%}
 			{%endif%}
 			{%if choice4 == '1'%}
-				<p>this is module four</p>
+				{%include "mod4.html"%}
 			{%endif%}			
 			{%if choice5 == '1'%}
-				<b>{{user}}'s News feed:</b>
-			{%for i in '123'|make_list%}
-				<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-			{%endfor%}
-			{%endif%}			
+				{%include "mod5.html"%}
+			{%endif%}
+			{%if choice6 == '1'%}
+				{%include "mod6.html"%}
+			{%endif%}
+			{%if choice7 == '1'%}
+				{%include "mod7.html"%}
+			{%endif%}
+			{%if choice8 == '1'%}
+				{%include "mod8.html"%}
+			{%endif%}
+			{%if choice9 == '1'%}
+				{%include "mod9.html"%}
+			{%endif%}
+			{%if choice10 == '1'%}
+				{%include "mod10.html"%}
+			{%endif%}
+			{%if choice11 == '1'%}
+				{%include "mod11.html"%}
+			{%endif%}
+			{%if choice12 == '1'%}
+				{%include "mod12.html"%}
+			{%endif%}
+						
 		{%endblock one%}
 		{%block two%}
-			{%if choice1 == '2'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '2'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '2'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '2'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '2'%}
-				<b>{{user}}'s News feed:</b>
-			{%for i in '123'|make_list%}
-				<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-			{%endfor%}
-			{%endif%}
+			{%for choice in choice_dict%}
+				{%if choice == '2'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}			
 		{%endblock two%}
 		{%block three%}
-			{%if choice1 == '3'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '3'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '3'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '3'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '3'%}
-				<b>{{user}}'s News feed:</b>
-			{%for i in '123'|make_list%}
-				<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-			{%endfor%}
-			{%endif%}			
+			{%for choice in choice_dict%}
+				{%if choice == '3'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}						
 		{%endblock%}
 				
 		{%block four%}
-			{%if choice1 == '4'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '4'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '4'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '4'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '4'%}
-				<b>{{user}}'s News feed:</b>
-			{%for i in '123'|make_list%}
-				<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-			{%endfor%}
-			{%endif%}			
+			{%for choice in choice_dict%}
+				{%if choice == '4'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}		
 		{%endblock%}
 		{% block five %}
-			{%if choice1 == '5'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '5'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '5'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '5'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '5'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			{%for choice in choice_dict%}
+				{%if choice == '5'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%} 
 		{%block six%}
-			 {%if choice1 == '6'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '6'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '6'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '6'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '6'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '6'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
 		{%block seven%}
-			 {%if choice1 == '7'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '7'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '7'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '7'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '7'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '7'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}							
 		{%endblock%}		
 		{%block eight%}
-			 {%if choice1 == '8'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '8'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '8'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '8'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '8'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '8'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
 		{%block nine%}
-			 {%if choice1 == '9'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '9'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '9'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '9'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '9'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '9'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
 		{%block ten%}
-			 {%if choice1 == '10'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '10'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '10'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '10'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '10'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '10'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
 		{%block eleven%}
-			 {%if choice1 == '11'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '11'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '11'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '11'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '11'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '11'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
 		{%block twelve%}
-			 {%if choice1 == '12'%}     
-				<p>{%include "weather.html"%}</p>
-			{%endif%}
-			{%if choice2 == '12'%}
-				{%include "events.html"%}
-			{%endif%}
-			{%if choice3 == '12'%}
-				<p>I'm Jone'sin for a balsamic vinager beverage</p>
-			{%endif%}
-			{%if choice4 == '12'%}
-				<p>this is module four</p>
-			{%endif%}			
-			{%if choice5 == '12'%}
-				<b>{{user}}'s News feed:</b>
-				{%for i in '123'|make_list%}
-					<a href= {{feedLink}}>{{feedTitle}}</a><br /> 
-				{%endfor%}
-			{%endif%}			
+			 {%for choice in choice_dict%}
+				{%if choice == '12'%}
+					{% with "mod"|add:choice|add:".html" as template %}
+						{%include template%}
+					{%endwith%}
+				{%endif%}
+			{%endfor%}	
 		{%endblock%}
        
     
