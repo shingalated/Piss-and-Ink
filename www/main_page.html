@@ -4,6 +4,7 @@
 <p><h1>Welcome to Piss + ink {{user}}</h1></p>
 {%endblock head%}	
 		{%block one%}
+		{{choice_dict}}
 			{%if choice1 == '1'%}     
 				<p>{%include "mod1.html"%}</p>
 			{%endif%}
@@ -39,24 +40,27 @@
 			{%endif%}
 			{%if choice12 == '1'%}
 				{%include "mod12.html"%}
-			{%endif%}
-						
+			{%endif%}						
 		{%endblock one%}
 		{%block two%}
 			{%for choice in choice_dict%}
-				{%if choice == '2'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+				{%if choice == '2'%}	
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}					
 				{%endif%}
 			{%endfor%}			
 		{%endblock two%}
 		{%block three%}
 			{%for choice in choice_dict%}
 				{%if choice == '3'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}					
 				{%endif%}
 			{%endfor%}						
 		{%endblock%}
@@ -64,81 +68,100 @@
 		{%block four%}
 			{%for choice in choice_dict%}
 				{%if choice == '4'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
+					{{template}}						
 						{%include template%}
 					{%endwith%}
+					{%endwith%}					
 				{%endif%}
 			{%endfor%}		
 		{%endblock%}
 		{% block five %}
 			{%for choice in choice_dict%}
 				{%if choice == '5'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%} 
 		{%block six%}
 			 {%for choice in choice_dict%}
 				{%if choice == '6'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}
 		{%block seven%}
 			 {%for choice in choice_dict%}
 				{%if choice == '7'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}							
 		{%endblock%}		
 		{%block eight%}
 			 {%for choice in choice_dict%}
 				{%if choice == '8'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}
 		{%block nine%}
 			 {%for choice in choice_dict%}
 				{%if choice == '9'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}
 		{%block ten%}
 			 {%for choice in choice_dict%}
 				{%if choice == '10'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}
 		{%block eleven%}
 			 {%for choice in choice_dict%}
 				{%if choice == '11'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}
 		{%block twelve%}
 			 {%for choice in choice_dict%}
 				{%if choice == '12'%}
-					{% with "mod"|add:choice|add:".html" as template %}
+					{% with forloop.counter|stringformat:"s" as loop_choice %}														
+					{% with "mod"|add:loop_choice|add:".html" as template %}
 						{%include template%}
 					{%endwith%}
+					{%endwith%}		
 				{%endif%}
 			{%endfor%}	
 		{%endblock%}

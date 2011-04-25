@@ -26,11 +26,12 @@ def main_modules(request):
 	module_cursor = conn.cursor()
 	##gets the coresponding user_id  
 	cursor.execute("""SELECT user_id FROM user WHERE user_name = '%s'""" % (username))
-	results1 = cursor.fetchone ()
-	user_id = results1[0]
+	results = cursor.fetchone ()
+	user_id = results[0]
 	#######gets the module order from the DB and sets them on the page according to user
 	module_cursor.execute("""SELECT * FROM Module_order WHERE user_id = %d""" % (user_id))
 	module_order = module_cursor.fetchall()
+	#####puts results into choices so they can be sent to the html page for manipulation
 	choice1 = str(module_order[0][1])
 	choice2 = str(module_order[0][2])
 	choice3 = str(module_order[0][3])
@@ -49,7 +50,7 @@ def main_modules(request):
 	removal = request.POST.getlist('event_check')
 	conn = MySQLdb.connect("localhost","piss","pisswithink","piss" )
 	cursor = conn.cursor()
-	all_events = Event.objects.all().order_by('-date')[:8]  #gets all of the objects in Events by title
+	all_events = Event.objects.all().order_by('-title')[:8]  #gets all of the objects in Events by title
 	#event_list_form = eventCheck(request.POST) #a model for the event list checkbox form
 	
 	
@@ -64,15 +65,12 @@ def main_modules(request):
 	temperature = google_results['current_conditions']['temp_f']
 	####end weather app###
 	
-	###Custom Rss Feed Plugin#####
-	#a = 0
-	feed = rssParser()
-	#while a < 2:
-	rand=random.randint(0,20)
-	#a+=1
-	feedTitle = feed.getRssTitle('%s' % ('http://stallman.org/rss/rss.xml'),random.randint(0,20))
-	feedLink = feed.getRssLink('%s' % ('http://stallman.org/rss/rss.xml'),random.randint(0,20))
-	feedDescription = feed.getRssDescription('%s' % ('http://stallman.org/rss/rss.xml'))
+	###Custom Rss Feed Plugin#####	
+	feed = rssParser()	
+	feedTitle1 = feed.getRssTitle('%s' % ('http://rss.cnn.com/rss/cnn_world.rss'),random.randint(0,8))
+	feedLink1 = feed.getRssLink('%s' % ('http://rss.cnn.com/rss/cnn_world.rss'),random.randint(0,8))
+	feedTitle2 = feed.getRssTitle('%s' % ('http://sports.espn.go.com/espn/rss/news'),random.randint(0,8))
+	feedLink2 = feed.getRssLink('%s' % ('http://sports.espn.go.com/espn/rss/news'),random.randint(0,8))
 	####End Custon Rss Feed plugin####
 	
 	if new_event:
@@ -90,7 +88,7 @@ def main_modules(request):
 			#Event.objects.get(event_id__in=removal).delete()
 	return render_to_response('main_page.html',{'results':google_results, 'choice1':choice1, 'choice2':choice2, 'choice3':choice3, 'choice4':choice4, 'choice5':choice5,'choice6':choice6, 'choice7':choice7, 'choice8':choice8, 'choice9':choice9, 'choice10':choice10, 'choice11':choice11, 'choice12':choice12, 
 	'event_list': all_events, 'new_event': new_event, 'user':username, 'city': city, 
-	'temperature':temperature, 'feedTitle':feedTitle, 'feedLink':feedLink, 'order':module_order, 'choice_dict':choice_dict}, context_instance=RequestContext(request))
+	'temperature':temperature, 'feedTitle':feedTitle1, 'feedLink':feedLink1, 'order':module_order, 'choice_dict':choice_dict}, context_instance=RequestContext(request))
 
 @csrf_exempt
 def EventDelete(request):

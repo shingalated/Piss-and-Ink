@@ -72,19 +72,21 @@ def adduser(request):
 		db.commit()
 		cursor.execute("""INSERT INTO piss.rss(user_id) VALUES(%d); """ % (results[0]))
 		db.commit()
-		cursor.execute("""INSERT INTO piss.bookmarks(user_id) VALUES(%d); """ % (results[0]))
-		db.commit()
+		bm_i = 1
+		while bm_i <= 3:
+			cursor.execute("""INSERT INTO piss.bookmarks(user_id) VALUES(%d); """ % (results[0]))
+			db.commit()
+			bm_i+=1
 		db.close()
-		
+			
 		FormJID = user_name+"@databahn.info"
 		password = request.POST.get('passwd')	
 		
 		addXmpp = os.popen("python /var/piss_ink/addxmpp.py "+FormJID+" "+password,"w")
 		
 		#cursor.execute("""INSERT INTO piss.ofUser(username, plainPassword, encryptedPassword, name, email) VALUES('%s','%s', PASSWORD('%s'), '%s', '%s');""" % (user_name, password, password, first_name, email))	
-		#db.commit()
-		
-		
+		#db.commit()		
+		###sends the user back to the login page if their info is correct
 		return HttpResponseRedirect('/')		
 		
 	return render_to_response('adduser.html', {'user_name':user_name, 'first_name':first_name, 'last_name':last_name, 'zip_code':zip_code, 'password1':password, 'password2':password2})# context_instance=RequestContext(request))
