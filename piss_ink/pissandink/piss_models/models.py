@@ -94,6 +94,15 @@ class UserEvent(models.Model):
     event = models.ForeignKey(Event)
     class Meta:
         db_table = u'user_event'
+        
+class Groceries(models.Model):
+    item = models.CharField(max_length=384)
+    quantity = models.IntegerField(null=True, blank=True)
+    itemid = models.IntegerField(primary_key=True)
+    userid = models.IntegerField()
+    class Meta:
+        db_table = u'groceries'
+
 
 
 class UserTasks(models.Model):

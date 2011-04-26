@@ -18,6 +18,12 @@ import xmpp
 
 @csrf_exempt
 def login(request):
+	#####checks if the user has created 
+	if 'new_user' in request.session:
+		new_user = request.session['new_user']
+	else:
+		new_user = 'create user or login!'
+		
 	#connection to our database
 	conn = MySQLdb.connect("localhost","piss","pisswithink","piss" )
 	cursor = conn.cursor()
@@ -43,7 +49,7 @@ def login(request):
 	
 	if correct_password == entered_password:
 		return HttpResponseRedirect('home')
-	return render_to_response('login.html', {'correct_password':correct_password, 'entered_password':entered_password})#,'user_password': user_password})#, context_instance=RequestContext(request))
+	return render_to_response('login.html', {'correct_password':correct_password, 'entered_password':entered_password,'new_user':new_user})#,'user_password': user_password})#, context_instance=RequestContext(request))
 				
 
 @csrf_exempt
@@ -51,6 +57,7 @@ def adduser(request):
 	db = MySQLdb.connect("localhost","piss","pisswithink","piss" )
 	cursor = db.cursor()
 	user_name = request.POST.get('user_name')
+	request.session['new_user'] = user_name
 	first_name = request.POST.get('first_name')
 	last_name = request.POST.get('last_name')
 	zip_code = request.POST.get('zip_code')

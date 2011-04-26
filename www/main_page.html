@@ -4,7 +4,6 @@
 <p><h1>Welcome to Piss + ink {{user}}</h1></p>
 {%endblock head%}	
 		{%block one%}
-		{{choice_dict}}
 			{%if choice1 == '1'%}     
 				<p>{%include "mod1.html"%}</p>
 			{%endif%}
@@ -47,7 +46,7 @@
 				{%if choice == '2'%}	
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}					
 				{%endif%}
@@ -58,7 +57,7 @@
 				{%if choice == '3'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}					
 				{%endif%}
@@ -71,7 +70,7 @@
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
 					{{template}}						
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}					
 				{%endif%}
@@ -82,7 +81,7 @@
 				{%if choice == '5'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -93,7 +92,7 @@
 				{%if choice == '6'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -104,7 +103,7 @@
 				{%if choice == '7'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -115,7 +114,7 @@
 				{%if choice == '8'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -126,7 +125,7 @@
 				{%if choice == '9'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -137,7 +136,7 @@
 				{%if choice == '10'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -148,7 +147,7 @@
 				{%if choice == '11'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
@@ -159,7 +158,7 @@
 				{%if choice == '12'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
 					{% with "mod"|add:loop_choice|add:".html" as template %}
-						{%include template%}
+						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}		
 				{%endif%}
