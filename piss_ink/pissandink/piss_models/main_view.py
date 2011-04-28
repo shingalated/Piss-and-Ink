@@ -53,7 +53,12 @@ def main_modules(request):
 	all_events = Event.objects.all().order_by('-title')[:8]  #gets all of the objects in Events by title
 	#event_list_form = eventCheck(request.POST) #a model for the event list checkbox form
 	
-	
+	######gets the bookmarks from the db according to user
+	cursor.execute("""SELECT bookmark FROM piss.bookmarks WHERE user_id = %d""" % (user_id))
+	bm = cursor.fetchall()
+	bm_list = [bm[0][0],bm[1][0],bm[2][0]]
+	#####adds the bookmark list to the session for access in other views
+	request.session['bm_list'] = bm_list
 	
 	#####gets the weather according to the user zip code###
 	if username==None:
@@ -73,7 +78,7 @@ def main_modules(request):
 	feedLink2 = feed.getRssLink('%s' % ('http://sports.espn.go.com/espn/rss/news'),random.randint(0,8))
 	feedTitle3 = feed.getRssTitle('%s' % ('http://www.dowjones.com/pressroom/press_rss.aspx?mode=u&catid=4'),random.randint(0,8))
 	feedLink3 = feed.getRssLink('%s' % ('http://www.dowjones.com/pressroom/press_rss.aspx?mode=u&catid=4'),random.randint(0,8))
-	####End Custon Rss Feed plugin####
+	####End Custom Rss Feed plugin####
 	
 	if new_event:
 		add_event = Event(title = new_event)
@@ -91,7 +96,7 @@ def main_modules(request):
 	return render_to_response('main_page.html',{'results':google_results, 'choice1':choice1, 'choice2':choice2, 'choice3':choice3, 'choice4':choice4, 'choice5':choice5,'choice6':choice6, 'choice7':choice7, 'choice8':choice8, 'choice9':choice9, 'choice10':choice10, 'choice11':choice11, 'choice12':choice12, 
 	'event_list': all_events, 'new_event': new_event, 'user':username, 'city': city, 
 	'temperature':temperature, 'feedTitle1':feedTitle1, 'feedLink1':feedLink1,'feedTitle2':feedTitle2,'feedLink2':feedLink2,'feedTitle3':feedTitle3,'feedLink3':feedLink3,
-	 'order':module_order, 'choice_dict':choice_dict}, context_instance=RequestContext(request))
+	 'order':module_order, 'choice_dict':choice_dict, 'bm':bm_list}, context_instance=RequestContext(request))
 
 @csrf_exempt
 def EventDelete(request):

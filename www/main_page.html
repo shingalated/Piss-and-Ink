@@ -2,7 +2,17 @@
 
 {%block head%}
 <p><h1>Welcome to Piss + ink {{user}}</h1></p>
-{%endblock head%}	
+{%endblock head%}
+	 {%block link_block%}
+	 {%for bookmark in bm %}
+			{%if bookmark == 'None' or bookmark == None%}
+				<li><a>no bookmark</a></li>
+			{%else%}
+				<li><a href='http://{{bookmark}}'>{{bookmark}}</a></li>
+			{%endif%}		
+	 {% endfor %}
+     
+	 {%endblock%}
 		{%block one%}
 			{%if choice1 == '1'%}     
 				<p>{%include "mod1.html"%}</p>
@@ -68,8 +78,7 @@
 			{%for choice in choice_dict%}
 				{%if choice == '4'%}
 					{% with forloop.counter|stringformat:"s" as loop_choice %}														
-					{% with "mod"|add:loop_choice|add:".html" as template %}
-					{{template}}						
+					{% with "mod"|add:loop_choice|add:".html" as template %}									
 						{%include template%}<br />
 					{%endwith%}
 					{%endwith%}					
