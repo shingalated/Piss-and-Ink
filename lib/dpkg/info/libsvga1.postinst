@@ -1,0 +1,15 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = configure ]; then
+  # remove the mouse type saved in the prerm of packages <= 1.4.3-22
+  rm -f /etc/vga/libvga.installer.mousetype
+fi
+
+# Automatically added by dh_makeshlibs
+if [ "$1" = "configure" ]; then
+	ldconfig
+fi
+# End automatically added section
+
+

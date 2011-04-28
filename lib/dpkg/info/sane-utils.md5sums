@@ -1,0 +1,13 @@
+8ba4ca352860976dac80168cbba6e413  usr/sbin/saned
+88b3e2dc97a4fe37b4358a8eb931f3d2  usr/bin/sane-find-scanner
+e0742bef0511aa3d1bd82afaabb6c56e  usr/bin/scanimage
+b1a506bce12f1e2a3fecf0857429f62d  usr/bin/gamma4scanimage
+115981e2319f1da82881f9a881534a3a  usr/bin/umax_pp
+d48cee24c23308a7bfaad2ebe2a1647c  usr/share/man/man8/saned.8.gz
+b11a09d1b9d62f83025c336aa91887a4  usr/share/man/man1/gamma4scanimage.1.gz
+88012752e40b10958e71efc637031ebc  usr/share/man/man1/scanimage.1.gz
+d2b52198c738a79157b6dcebecbfa2d8  usr/share/man/man1/sane-find-scanner.1.gz
+8dece88398cc4dcb47fb389ac8fe3814  usr/share/doc/sane-utils/README.Debian
+e4795416a4664a7ca4e9f6bc8c419ebd  usr/share/doc/sane-utils/copyright
+49c7c82ac7eb10f8606befe29a0dee58  usr/share/doc/sane-utils/changelog.gz
+fd3b7f1751a9fb862040ca726aed8244  usr/share/doc/sane-utils/changelog.Debian.gz

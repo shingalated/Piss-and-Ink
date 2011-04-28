@@ -1,0 +1,11 @@
+2b078b3ce6d6d52e0f141ba8b5537049  usr/share/doc/python-utidylib/README.Debian
+05984e0b5bbb87c9a567e25ddb8c6103  usr/share/doc/python-utidylib/README.Debian-source
+b2ac935b4d65e8b5c56568f2e763f82f  usr/share/doc/python-utidylib/README.txt
+89a790dd650cbe96606319f28fb98cc6  usr/share/doc/python-utidylib/copyright
+d869643716cb87cf53d18900aa798010  usr/share/doc/python-utidylib/changelog.Debian.gz
+ea5e1b038df481662e550af5772eac90  usr/share/pyshared/uTidylib-0.2-py2.6.egg-info
+b0bc8dc217302987638fa7c5c91fccba  usr/share/pyshared/tidy/lib.py
+66b57fa7cd481d4d91fca0424a6f1b8f  usr/share/pyshared/tidy/error.py
+59fa412cf4100fdc542036bdd91eee52  usr/share/pyshared/tidy/__init__.py
+e4383390255f0ef1757fb4cf26b6dd60  usr/share/pyshared/tidy/test_tidy.py
+ad940a6065a4d9e886bddb9bbb61ce29  usr/share/python-support/python-utidylib.public

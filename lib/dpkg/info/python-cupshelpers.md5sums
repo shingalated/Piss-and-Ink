@@ -1,0 +1,9 @@
+cdb0b35e39297755436176827d12d8a8  usr/share/doc/python-cupshelpers/README
+064e5594f11b0aae103b5476960f027d  usr/share/doc/python-cupshelpers/AUTHORS
+8c3a7450f6e04120d3102343f4695be8  usr/share/doc/python-cupshelpers/copyright
+1d051afb2a5c10dc58e300bc6e862cfc  usr/share/doc/python-cupshelpers/changelog.Debian.gz
+a1406fe2a69531b45faf644680282c00  usr/share/pyshared/cupshelpers/__init__.py
+a48d7c5567356a55429271adc369e535  usr/share/pyshared/cupshelpers/openprinting.py
+4e8344f7afdc44844460178b29e6a732  usr/share/pyshared/cupshelpers/ppds.py
+e9780f5b871a99881b4bca6c490b6aae  usr/share/pyshared/cupshelpers/cupshelpers.py
+b921784c51ddb74f3dcfd616d02aa62a  usr/share/python-support/python-cupshelpers.public

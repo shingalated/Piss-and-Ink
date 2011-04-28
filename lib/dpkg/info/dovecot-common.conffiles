@@ -1,0 +1,6 @@
+/etc/ufw/applications.d/dovecot-common
+/etc/dovecot/dovecot-db-example.conf
+/etc/dovecot/dovecot-dict-sql-example.conf
+/etc/pam.d/dovecot
+/etc/default/dovecot
+/etc/init.d/dovecot

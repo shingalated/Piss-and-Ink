@@ -1,0 +1,58 @@
+Synchronizing remote metadata to local cache...
+Copying duplicity-inc.20110204T153056Z.to.20110205T110001Z.manifest to local cache.
+Copying duplicity-inc.20110205T110001Z.to.20110207T110002Z.manifest to local cache.
+Copying duplicity-inc.20110207T110002Z.to.20110208T110001Z.manifest to local cache.
+Copying duplicity-inc.20110208T110001Z.to.20110209T110001Z.manifest to local cache.
+Copying duplicity-inc.20110209T110001Z.to.20110210T110001Z.manifest to local cache.
+Copying duplicity-inc.20110210T110001Z.to.20110211T110002Z.manifest to local cache.
+Copying duplicity-inc.20110211T110002Z.to.20110212T110001Z.manifest to local cache.
+Copying duplicity-inc.20110212T110001Z.to.20110213T110002Z.manifest to local cache.
+Copying duplicity-inc.20110213T110002Z.to.20110214T110001Z.manifest to local cache.
+Copying duplicity-inc.20110214T110001Z.to.20110215T110001Z.manifest to local cache.
+Copying duplicity-inc.20110215T110001Z.to.20110220T110001Z.manifest to local cache.
+Copying duplicity-inc.20110220T110001Z.to.20110221T110002Z.manifest to local cache.
+Copying duplicity-inc.20110221T110002Z.to.20110222T110001Z.manifest to local cache.
+Copying duplicity-inc.20110222T110001Z.to.20110223T110002Z.manifest to local cache.
+Copying duplicity-inc.20110223T110002Z.to.20110224T110001Z.manifest to local cache.
+Copying duplicity-inc.20110224T110001Z.to.20110225T110001Z.manifest to local cache.
+Copying duplicity-inc.20110225T110001Z.to.20110226T110001Z.manifest to local cache.
+Copying duplicity-inc.20110226T110001Z.to.20110227T110001Z.manifest to local cache.
+Copying duplicity-inc.20110227T110001Z.to.20110228T110002Z.manifest to local cache.
+Copying duplicity-new-signatures.20110204T153056Z.to.20110205T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110205T110001Z.to.20110207T110002Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110207T110002Z.to.20110208T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110208T110001Z.to.20110209T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110209T110001Z.to.20110210T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110210T110001Z.to.20110211T110002Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110211T110002Z.to.20110212T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110212T110001Z.to.20110213T110002Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110213T110002Z.to.20110214T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110214T110001Z.to.20110215T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110215T110001Z.to.20110220T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110220T110001Z.to.20110221T110002Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110221T110002Z.to.20110222T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110222T110001Z.to.20110223T110002Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110223T110002Z.to.20110224T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110224T110001Z.to.20110225T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110225T110001Z.to.20110226T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110226T110001Z.to.20110227T110001Z.sigtar to local cache.
+Copying duplicity-new-signatures.20110227T110001Z.to.20110228T110002Z.sigtar to local cache.
+Last full backup date: Thu Feb  3 22:20:37 2011
+--------------[ Backup Statistics ]--------------
+StartTime 1298936149.47 (Mon Feb 28 18:35:49 2011)
+EndTime 1298936246.90 (Mon Feb 28 18:37:26 2011)
+ElapsedTime 97.44 (1 minute 37.44 seconds)
+SourceFiles 75313
+SourceFileSize 1472377670 (1.37 GB)
+NewFiles 178
+NewFileSize 8247611 (7.87 MB)
+DeletedFiles 4
+ChangedFiles 130
+ChangedFileSize 57770748 (55.1 MB)
+ChangedDeltaSize 0 (0 bytes)
+DeltaEntries 312
+RawDeltaSize 8924030 (8.51 MB)
+TotalDestinationSizeChange 8053377 (7.68 MB)
+Errors 0
+-------------------------------------------------
+

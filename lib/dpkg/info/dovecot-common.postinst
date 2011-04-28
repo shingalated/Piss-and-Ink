@@ -1,0 +1,83 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = "configure" ]; then
+
+  for conffile in dovecot.conf dovecot-ldap.conf dovecot-sql.conf ; do
+    # Tell ucf that the file in /usr/share/dovecot is the latest
+    # maintainer version, and let it handle how to manage the real
+    # configuration file in /etc/dovecot.
+    ucf --three-way /usr/share/dovecot/$conffile /etc/dovecot/$conffile
+    ucfr dovecot-common /etc/dovecot/$conffile
+    if [ "$conffile" != "dovecot.conf" ] && [ -f "/etc/dovecot/$conffile" ]; then
+      chmod 0600 /etc/dovecot/$conffile
+    fi
+  done
+
+  if [ -n "`id -u imapd 2> /dev/null`" ]; then
+    deluser imapd || true
+    delgroup imapd || true
+  fi
+
+  if [ -z "`id -u dovecot 2> /dev/null`" ]; then
+    adduser --system --group --home /usr/lib/dovecot --gecos "Dovecot mail server" \
+            --disabled-password --quiet dovecot || true
+  fi
+
+  ## SSL Certs
+  # Certs and key file
+  SSL_CERT=$( (grep -m 1 "ssl_cert_file" /etc/dovecot/dovecot.conf  || echo '/etc/ssl/certs/dovecot.pem') | cut -d'=' -f2)
+  SSL_KEY=$( (grep -m 1 "ssl_key_file" /etc/dovecot/dovecot.conf || echo '/etc/ssl/private/dovecot.pem') | cut -d'=' -f2)
+  
+  # Generate new certs if needed
+  if [ -e $SSL_CERT ] || [ -e $SSL_KEY ]; then
+    echo "You already have ssl certs for dovecot."
+  else
+    echo "Creating generic self-signed certificate: $SSL_CERT"
+    echo "(replace with hand-crafted or authorized one if needed)."
+    cd /etc/ssl/certs
+    PATH=$PATH:/usr/bin/ssl
+    FQDN=`hostname -f`
+    MAILNAME=`cat /etc/mailname 2> /dev/null || hostname -f`
+    (openssl req -new -x509 -days 365 -nodes -out $SSL_CERT -keyout $SSL_KEY > /dev/null 2>&1 <<+
+.
+.
+.
+Dovecot mail server
+$FQDN
+$FQDN
+root@$MAILNAME
++
+    ) || echo "Warning : Bad SSL config, can't generate certificate."
+
+    if [ -e $SSL_CERT ] && [ -e $SSL_KEY ]; then
+      ucfr dovecot-common $SSL_CERT
+      ucfr dovecot-common $SSL_KEY
+    
+      chown root $SSL_CERT || true
+      chgrp dovecot $SSL_CERT || true
+      chmod 0644 $SSL_CERT || true
+      chown root $SSL_KEY || true
+      chgrp dovecot $SSL_KEY || true
+      chmod 0600 $SSL_KEY || true
+    fi
+  fi
+
+  # migration hooks
+  if [ -f /etc/dovecot/dovecot.conf ] && grep -q default_mail_env /etc/dovecot/dovecot.conf; then
+    sed -i -e 's/^default_mail_env/mail_location/' /etc/dovecot/dovecot.conf
+  fi
+
+fi
+
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/dovecot" ]; then
+	update-rc.d dovecot start 24 2 3 4 5 . stop 76 1 . >/dev/null
+	if [ -x "`which invoke-rc.d 2>/dev/null`" ]; then
+		invoke-rc.d dovecot start || exit $?
+	else
+		/etc/init.d/dovecot start || exit $?
+	fi
+fi
+# End automatically added section
+

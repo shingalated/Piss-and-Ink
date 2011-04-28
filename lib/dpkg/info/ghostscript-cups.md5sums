@@ -1,0 +1,10 @@
+5e97eb2e4e6a9b4137f9e72874437c90  usr/share/cups/mime/pdftoraster.convs
+b12b29c13f5bedf3bd976a135c193b72  usr/share/cups/mime/pstoraster.convs
+f53f31b796c226dc21eae70d85a0c079  usr/share/ppd/ghostscript/model/pxlcolor.ppd
+b043a4ded5941f8a073e08d1bdba73b6  usr/share/ppd/ghostscript/model/pxlmono.ppd
+8aa0fbbaf451de6669f5cb25cddca49a  usr/share/doc/ghostscript-cups/copyright
+79e5f6b38929618ddd270e11f690ded3  usr/share/doc/ghostscript-cups/NEWS.Debian.gz
+7643c9859797d66678a89ab93a2be826  usr/share/doc/ghostscript-cups/changelog.Debian.gz
+5d17be989085b2b1aa141c93b508d85b  usr/lib/cups/filter/pstoraster
+e980e45071f6c0496811fc124e89288b  usr/lib/cups/filter/pdftoraster
+0ef222c3ef6d2fe0f3fb2a94aaac1f69  usr/lib/cups/filter/pstopxl

@@ -1,0 +1,50 @@
+Package: fglrx-installer
+Binary: fglrx, fglrx-dev, fglrx-amdcccle, fglrx-modaliases, xorg-driver-fglrx, fglrx-kernel-source
+Version: 2:8.723.1-0ubuntu5
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: debhelper (>= 7), libxext6, libxrandr2, libice6, libsm6, libfontconfig1, libxi6, libxcursor1, fakeroot, libdrm2, libgl1-mesa-glx, libxinerama1, libqtgui4, execstack
+Architecture: amd64 i386
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/restricted/f/fglrx-installer
+Files:
+ 73958263a89802778bc55e49058238ac 1458 fglrx-installer_8.723.1-0ubuntu5.dsc
+ c5bed046747747b8f8e66f0338c81907 60437662 fglrx-installer_8.723.1.orig.tar.gz
+ f26453fc292f27f88c58e4194b3f9555 29409 fglrx-installer_8.723.1-0ubuntu5.diff.gz
+Uploaders: Mario Limonciello <superm1@ubuntu.com>, Alberto Milone <albertomilone@alice.it>
+Homepage: http://ati.amd.com/support/driver.html
+Checksums-Sha1:
+ 95c3e4aa84614a8375168e58f557295ef538f43f 1458 fglrx-installer_8.723.1-0ubuntu5.dsc
+ 8fefcda2b2482ad80c9c6379724a530e4e03ff09 60437662 fglrx-installer_8.723.1.orig.tar.gz
+ 986e726b083ce64e5c41deabe42d2ac223ce904d 29409 fglrx-installer_8.723.1-0ubuntu5.diff.gz
+Checksums-Sha256:
+ 3d794af63347c8fc61304426618df01caad4f07ec731647a799300de9a425790 1458 fglrx-installer_8.723.1-0ubuntu5.dsc
+ 01ada33bb47a6cc90b7c7b098ba18b02d02947527d555ab668f13eb24948d937 60437662 fglrx-installer_8.723.1.orig.tar.gz
+ 7c9c1562e31172a0be397b04c1d99f216d9845a8aaa87497f4224607ddfe6203 29409 fglrx-installer_8.723.1-0ubuntu5.diff.gz
+
+Package: nvidia-graphics-drivers
+Binary: nvidia-current, nvidia-current-dev, nvidia-current-modaliases, nvidia-glx-185, nvidia-glx-185-dev, nvidia-185-kernel-source, nvidia-185-modaliases, nvidia-185-libvdpau, nvidia-185-libvdpau-dev
+Version: 195.36.24-0ubuntu1~10.04
+Priority: optional
+Section: restricted/misc
+Maintainer: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: debhelper (>= 6.0.7~), sed (>> 3.0), libxext6, bzip2, xserver-xorg-dev (>= 2:1.4), execstack, cdbs, libc6
+Architecture: i386 amd64 lpia
+Standards-Version: 3.8.0
+Format: 1.0
+Directory: pool/restricted/n/nvidia-graphics-drivers
+Files:
+ 213bc0a7b2df636fbe6f0eafce1ffe2a 1458 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.dsc
+ aff71c9dbeb4ba85634fa450aaa4b133 64292031 nvidia-graphics-drivers_195.36.24.orig.tar.gz
+ f79364de817b093b435a6663cb840150 37973 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.diff.gz
+Checksums-Sha1:
+ b359c29267ae20b2d3a8393a43a634c5b9b947fd 1458 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.dsc
+ f9ad0108963a72dc26ad2bc56d572053d8efdc94 64292031 nvidia-graphics-drivers_195.36.24.orig.tar.gz
+ 9e2ec45909e3a514b7a0a28abff98286324bb43c 37973 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.diff.gz
+Checksums-Sha256:
+ bb1ee6f73adee9da6ad944633b79ce6255b7917f4a58de9814fd14a21f8d52f2 1458 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.dsc
+ 54711e3f3e4e0c05b12b31ace1ffcb6b15bb2bc0a8187e49124b682a92c28911 64292031 nvidia-graphics-drivers_195.36.24.orig.tar.gz
+ f8f658c320d0b798e4ce43086107097bb60dbbe7af79492721f792b37fab3de7 37973 nvidia-graphics-drivers_195.36.24-0ubuntu1~10.04.diff.gz
+

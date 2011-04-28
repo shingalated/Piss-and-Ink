@@ -1,0 +1,9 @@
+auto
+/usr/bin/tnameserv
+tnameserv.1.gz
+/usr/share/man/man1/tnameserv.1.gz
+
+/usr/lib/jvm/java-6-sun/jre/bin/tnameserv
+63
+/usr/lib/jvm/java-6-sun/jre/man/man1/tnameserv.1.gz
+

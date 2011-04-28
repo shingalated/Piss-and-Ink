@@ -1,0 +1,25 @@
+#!/bin/sh
+
+set -e
+
+for pyver in 2.6; do
+	#pylib=$(python$pyver -c 'from distutils import sysconfig; print sysconfig.get_python_lib()')
+	case "$pyver" in
+	  2.3|2.4|2.5) pylib=/usr/lib/python$pyver/site-packages;;
+	  *) pylib=/usr/lib/python$pyver/dist-packages;;
+	esac
+	mkdir -p $pylib
+	update-alternatives --install $pylib/wx.pth  wx$pyver.pth \
+				/usr/lib/wx/python/wx2.8.pth	28
+done;
+
+# Automatically added by dh_pycentral
+rm -f /var/lib/pycentral/python-wxgtk2.8.pkgremove
+if which pycentral >/dev/null 2>&1; then
+	pycentral pkginstall python-wxgtk2.8
+	if grep -qs '^python-wxgtk2.8$' /var/lib/pycentral/delayed-pkgs; then
+		sed -i '/^python-wxgtk2.8$/d' /var/lib/pycentral/delayed-pkgs
+	fi
+fi
+# End automatically added section
+

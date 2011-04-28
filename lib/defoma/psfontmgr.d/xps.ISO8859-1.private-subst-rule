@@ -1,0 +1,37 @@
+Courier-Bold --Weight,2 Bold --Shape,2 Upright Serif --Width Fixed --FontName,2 NimbusMonL-Bold --GeneralFamily,2 Typewriter
+HelveticaNarrow-Oblique --Weight,2 Regular --Shape,2 NoSerif Italic Condensed --Width Variable --FontName,2 NimbusSanL-ReguCondItal --GeneralFamily,2 SansSerif
+Helvetica-BoldOblique --Weight,2 Bold --Shape,2 NoSerif Italic --Width Variable --FontName,2 NimbusSanL-BoldItal --GeneralFamily,2 SansSerif
+Helvetica-Narrow --Weight,2 Regular --Shape,2 NoSerif Upright Condensed --Width Variable --FontName,2 NimbusSanL-ReguCond --GeneralFamily,2 SansSerif
+Bookman-LightItalic --Weight,2 Regular --Shape,2 Italic Serif --Width Variable --FontName,2 URWBookmanL-LighItal --GeneralFamily,2 Roman
+AvantGarde-BookOblique --Weight,2 Book --Shape,2 NoSerif Oblique --Width Variable --FontName,2 URWGothicL-BookObli --GeneralFamily,2 Gothic
+Palatino-BoldItalic --Weight,2 Bold --Shape,2 Serif Italic --Width Variable --FontName,2 URWPalladioL-BoldItal --GeneralFamily,2 Roman
+HelveticaNarrow-Bold --Weight,2 Bold --Shape,2 NoSerif Upright Condensed --Width Variable --FontName,2 NimbusSanL-BoldCond --GeneralFamily,2 SansSerif
+Times-Italic --Weight,2 Regular --Shape,2 Serif Italic --Width Variable --FontName,2 NimbusRomNo9L-ReguItal --GeneralFamily,2 Roman
+Palatino-Italic --Weight,2 Regular --Shape,2 Serif Italic --Width Variable --FontName,2 URWPalladioL-Ital --GeneralFamily,2 Roman
+Palatino-Bold --Weight,2 Bold --Shape,2 Serif Upright --Width Variable --FontName,2 URWPalladioL-Bold --GeneralFamily,2 Roman
+Bookman-Demi --Weight,2 Bold --Shape,2 Upright Serif --Width Variable --FontName,2 URWBookmanL-DemiBold --GeneralFamily,2 Roman
+Helvetica-Oblique --Weight,2 Regular --Shape,2 NoSerif Italic --Width Variable --FontName,2 NimbusSanL-ReguItal --GeneralFamily,2 SansSerif
+Palatino-Roman --Weight,2 Roman --Shape,2 Serif Upright --Width Variable --FontName,2 URWPalladioL-Roma --GeneralFamily,2 Roman
+Courier-Oblique --Weight,2 Regular --Shape,2 Oblique Serif --Width Fixed --FontName,2 NimbusMonL-ReguObli --GeneralFamily,2 Typewriter
+Bookman-DemiItalic --Weight,2 Bold --Shape,2 Italic Serif --Width Variable --FontName,2 URWBookmanL-DemiBoldItal --GeneralFamily,2 Roman
+Helvetica-Narrow-BoldOblique --Weight,2 Bold --Shape,2 NoSerif Italic Condensed --Width Variable --FontName,2 NimbusSanL-BoldCondItal --GeneralFamily,2 SansSerif
+Times-Roman --Weight,2 Regular --Shape,2 Serif Upright --Width Variable --FontName,2 NimbusRomNo9L-Regu --GeneralFamily,2 Roman
+AvantGarde-Book --Weight,2 Book --Shape,2 NoSerif Upright --Width Variable --FontName,2 URWGothicL-Book --GeneralFamily,2 Gothic
+AvantGarde-Demi --Weight,2 Demi --Shape,2 NoSerif Upright --Width Variable --FontName,2 URWGothicL-Demi --GeneralFamily,2 Gothic
+Times-BoldItalic --Weight,2 Bold --Shape,2 Serif Italic --Width Variable --FontName,2 NimbusRomNo9L-MediItal --GeneralFamily,2 Roman
+NewCenturySchlbk-Italic --Weight,2 Regular --Shape,2 Italic Serif --Width Variable --FontName,2 CenturySchL-Ital --GeneralFamily,2 Roman
+ZapfChancery-MediumItalic --Weight,2 Medium --Shape,2 Serif Italic --Width Variable --FontName,2 URWChanceryL-MediItal --GeneralFamily,2 Roman
+AvantGarde-DemiOblique --Weight,2 Demi --Shape,2 NoSerif Oblique --Width Variable --FontName,2 URWGothicL-DemiObli --GeneralFamily,2 Gothic
+Helvetica-Narrow-Bold --Weight,2 Bold --Shape,2 NoSerif Upright Condensed --Width Variable --FontName,2 NimbusSanL-BoldCond --GeneralFamily,2 SansSerif
+Helvetica-Narrow-Oblique --Weight,2 Regular --Shape,2 NoSerif Italic Condensed --Width Variable --FontName,2 NimbusSanL-ReguCondItal --GeneralFamily,2 SansSerif
+NewCenturySchlbk-BoldItalic --Weight,2 Bold --Shape,2 Italic Serif --Width Variable --FontName,2 CenturySchL-BoldItal --GeneralFamily,2 Roman
+Bookman-Light --Weight,2 Medium --Shape,2 Upright Serif --Width Variable --FontName,2 URWBookmanL-Ligh --GeneralFamily,2 Roman
+HelveticaNarrow-BoldOblique --Weight,2 Bold --Shape,2 NoSerif Italic Condensed --Width Variable --FontName,2 NimbusSanL-BoldCondItal --GeneralFamily,2 SansSerif
+NewCenturySchlbk-Bold --Weight,2 Bold --Shape,2 Upright Serif --Width Variable --FontName,2 CenturySchL-Bold --GeneralFamily,2 Roman
+Times-Bold --Weight,2 Bold --Shape,2 Serif Upright --Width Variable --FontName,2 NimbusRomNo9L-Medi --GeneralFamily,2 Roman
+HelveticaNarrow --Weight,2 Regular --Shape,2 NoSerif Upright Condensed --Width Variable --FontName,2 NimbusSanL-ReguCond --GeneralFamily,2 SansSerif
+Helvetica-Bold --Weight,2 Bold --Shape,2 NoSerif Upright --Width Variable --FontName,2 NimbusSanL-Bold --GeneralFamily,2 SansSerif
+Courier --Weight,2 Regular --Shape,2 Upright Serif --Width Fixed --FontName,2 NimbusMonL-Regu --GeneralFamily,2 Typewriter
+NewCenturySchlbk-Roman --Weight,2 Roman --Shape,2 Upright Serif --Width Variable --FontName,2 CenturySchL-Roma --GeneralFamily,2 Roman
+Helvetica --Weight,2 Regular --Shape,2 NoSerif Upright --Width Variable --FontName,2 NimbusSanL-Regu --GeneralFamily,2 SansSerif
+Courier-BoldOblique --Weight,2 Bold --Shape,2 Oblique Serif --Width Fixed --FontName,2 NimbusMonL-BoldObli --GeneralFamily,2 Typewriter

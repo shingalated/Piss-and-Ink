@@ -1,0 +1,14 @@
+[2011/01/20 20:48:27,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/20 20:48:27,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/21 09:26:24,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED
+[2011/01/21 09:26:28,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED
+[2011/01/21 09:26:29,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED
+[2011/01/21 09:26:40,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED
+[2011/01/21 09:26:53,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED

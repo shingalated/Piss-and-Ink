@@ -1,0 +1,381 @@
+Package: libpci3
+Auto-Installed: 1
+
+Package: pciutils
+Auto-Installed: 1
+
+Package: wireless-crda
+Auto-Installed: 1
+
+Package: linux-headers-2.6.32-24
+Auto-Installed: 1
+
+Package: linux-headers-2.6.32-24-generic-pae
+Auto-Installed: 1
+
+Package: iso-codes
+Auto-Installed: 1
+
+Package: python-apt
+Auto-Installed: 1
+
+Package: libedit2
+Auto-Installed: 1
+
+Package: python-support
+Auto-Installed: 1
+
+Package: bind9-host
+Auto-Installed: 1
+
+Package: libx11-data
+Auto-Installed: 1
+
+Package: libdns64
+Auto-Installed: 1
+
+Package: xauth
+Auto-Installed: 1
+
+Package: psmisc
+Auto-Installed: 1
+
+Package: xml-core
+Auto-Installed: 1
+
+Package: libbsd0
+Auto-Installed: 1
+
+Package: libxmuu1
+Auto-Installed: 1
+
+Package: libisccc60
+Auto-Installed: 1
+
+Package: libexpat1
+Auto-Installed: 1
+
+Package: geoip-database
+Auto-Installed: 1
+
+Package: openssh-client
+Auto-Installed: 1
+
+Package: libxcb1
+Auto-Installed: 1
+
+Package: libxau6
+Auto-Installed: 1
+
+Package: liblwres60
+Auto-Installed: 1
+
+Package: libxdmcp6
+Auto-Installed: 1
+
+Package: libxml2
+Auto-Installed: 1
+
+Package: libbind9-60
+Auto-Installed: 1
+
+Package: python-gnupginterface
+Auto-Installed: 1
+
+Package: wget
+Auto-Installed: 1
+
+Package: sgml-base
+Auto-Installed: 1
+
+Package: gettext-base
+Auto-Installed: 1
+
+Package: libgeoip1
+Auto-Installed: 1
+
+Package: libisccfg60
+Auto-Installed: 1
+
+Package: python-gdbm
+Auto-Installed: 1
+
+Package: libx11-6
+Auto-Installed: 1
+
+Package: libisc60
+Auto-Installed: 1
+
+Package: libxext6
+Auto-Installed: 1
+
+Package: grub-common
+Auto-Installed: 1
+
+Package: libsvn1
+Auto-Installed: 1
+
+Package: libneon27-gnutls
+Auto-Installed: 1
+
+Package: php5-gd
+Auto-Installed: 1
+
+Package: wwwconfig-common
+Auto-Installed: 1
+
+Package: libmcrypt4
+Auto-Installed: 1
+
+Package: libjs-mootools
+Auto-Installed: 1
+
+Package: libt1-5
+Auto-Installed: 1
+
+Package: libxpm4
+Auto-Installed: 1
+
+Package: libgd2-xpm
+Auto-Installed: 1
+
+Package: php5-mcrypt
+Auto-Installed: 1
+
+Package: javascript-common
+Auto-Installed: 1
+
+Package: dbconfig-common
+Auto-Installed: 1
+
+Package: libts-0.0-0
+Auto-Installed: 1
+
+Package: libsvga1
+Auto-Installed: 1
+
+Package: libx86-1
+Auto-Installed: 1
+
+Package: libdirectfb-1.2-0
+Auto-Installed: 1
+
+Package: tsconf
+Auto-Installed: 1
+
+Package: libsysfs2
+Auto-Installed: 1
+
+Package: xsltproc
+Auto-Installed: 1
+
+Package: libxslt1.1
+Auto-Installed: 1
+
+Package: python-subversion
+Auto-Installed: 1
+
+Package: libconfig-inifiles-perl
+Auto-Installed: 1
+
+Package: libsvn-perl
+Auto-Installed: 1
+
+Package: java-common
+Auto-Installed: 1
+
+Package: odbcinst
+Auto-Installed: 1
+
+Package: sun-java6-bin
+Auto-Installed: 1
+
+Package: unixodbc
+Auto-Installed: 1
+
+Package: odbcinst1debian1
+Auto-Installed: 1
+
+Package: libasound2
+Auto-Installed: 1
+
+Package: libxtst6
+Auto-Installed: 1
+
+Package: libxi6
+Auto-Installed: 1
+
+Package: gsfonts-x11
+Auto-Installed: 1
+
+Package: python-dnspython
+Auto-Installed: 1
+
+Package: librsync1
+Auto-Installed: 1
+
+Package: liberror-perl
+Auto-Installed: 1
+
+Package: libdigest-sha1-perl
+Auto-Installed: 1
+
+Package: python-libxml2
+Auto-Installed: 1
+
+Package: python-m2crypto
+Auto-Installed: 1
+
+Package: python-utidylib
+Auto-Installed: 1
+
+Package: libtidy-0.99-0
+Auto-Installed: 1
+
+Package: python-chardet
+Auto-Installed: 1
+
+Package: libgtk2.0-common
+Auto-Installed: 1
+
+Package: libatk1.0-0
+Auto-Installed: 1
+
+Package: libxfixes3
+Auto-Installed: 1
+
+Package: shared-mime-info
+Auto-Installed: 1
+
+Package: libxcb-render-util0
+Auto-Installed: 1
+
+Package: libgstreamer0.10-0
+Auto-Installed: 1
+
+Package: libpixman-1-0
+Auto-Installed: 1
+
+Package: libwxgtk2.6-0
+Auto-Installed: 1
+
+Package: libwxgtk2.8-0
+Auto-Installed: 1
+
+Package: libxxf86vm1
+Auto-Installed: 1
+
+Package: libglu1-mesa
+Auto-Installed: 1
+
+Package: esound-common
+Auto-Installed: 1
+
+Package: libcairo2
+Auto-Installed: 1
+
+Package: libpango1.0-common
+Auto-Installed: 1
+
+Package: libxcb-render0
+Auto-Installed: 1
+
+Package: hicolor-icon-theme
+Auto-Installed: 1
+
+Package: libdatrie1
+Auto-Installed: 1
+
+Package: fontconfig
+Auto-Installed: 1
+
+Package: libgconf2-4
+Auto-Installed: 1
+
+Package: libpango1.0-0
+Auto-Installed: 1
+
+Package: libesd0
+Auto-Installed: 1
+
+Package: libgtk2.0-bin
+Auto-Installed: 1
+
+Package: libxft2
+Auto-Installed: 1
+
+Package: libwxbase2.6-0
+Auto-Installed: 1
+
+Package: libxcomposite1
+Auto-Installed: 1
+
+Package: libwxbase2.8-0
+Auto-Installed: 1
+
+Package: libice6
+Auto-Installed: 1
+
+Package: libthai0
+Auto-Installed: 1
+
+Package: libidl0
+Auto-Installed: 1
+
+Package: libatk1.0-data
+Auto-Installed: 1
+
+Package: libxrender1
+Auto-Installed: 1
+
+Package: libaudiofile0
+Auto-Installed: 1
+
+Package: gconf2-common
+Auto-Installed: 1
+
+Package: python-wxversion
+Auto-Installed: 1
+
+Package: libjasper1
+Auto-Installed: 1
+
+Package: libthai-data
+Auto-Installed: 1
+
+Package: libgl1-mesa-dri
+Auto-Installed: 1
+
+Package: liborbit2
+Auto-Installed: 1
+
+Package: libgl1-mesa-glx
+Auto-Installed: 1
+
+Package: libsm6
+Auto-Installed: 1
+
+Package: libxdamage1
+Auto-Installed: 1
+
+Package: python-wxgtk2.8
+Auto-Installed: 1
+
+Package: esound-clients
+Auto-Installed: 1
+
+Package: libxcursor1
+Auto-Installed: 1
+
+Package: libxinerama1
+Auto-Installed: 1
+
+Package: libgstreamer-plugins-base0.10-0
+Auto-Installed: 1
+
+Package: libxrandr2
+Auto-Installed: 1
+
+Package: libgtk2.0-0
+Auto-Installed: 1
+

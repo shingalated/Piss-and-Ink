@@ -1,0 +1,5 @@
+6a49c543930ce36020bc9a3292cca93e  usr/lib/apt/methods/https
+36989cdb9cd1a7c00d0e0896d8a54fda  usr/share/doc/apt-transport-https/apt-transport-https.README
+fa9fc3fde34b734ee15aecd2066df5b1  usr/share/doc/apt-transport-https/copyright
+cfc6d42a77e19db8ac9d51e1788f87de  usr/share/doc/apt-transport-https/changelog.gz
+b559a8effd0d236ef8f7fa7849040acb  usr/share/doc/apt-transport-https/NEWS.Debian.gz

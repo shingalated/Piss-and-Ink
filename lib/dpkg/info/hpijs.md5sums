@@ -1,0 +1,12 @@
+7cabc5ad2cdaa770067b6f05b5d71080  usr/share/ppd/hplip/HP/HP-Fax-hpijs.ppd.gz
+ecdf4c7f096d69a9bcc09fb4f001dc94  usr/share/ppd/hplip/HP/HP-Fax2-hpijs.ppd.gz
+8a79721bb0c2be399ebe38b45105c63b  usr/share/ppd/hplip/HP/HP-Fax3-hpijs.ppd.gz
+7cb4ae2963dd9a080a1ce9e3ee08dadc  usr/share/cups/drv/hpijs.drv
+368f5a65613d7b3f56783297ac47c262  usr/share/doc/hpijs/changelog.Debian.gz
+9c23edd1790287457c5c3df080c3c29b  usr/share/doc/hpijs/users-guide.txt
+d0c72ee82ca0bdcf7eb18223a4b44e99  usr/share/doc/hpijs/README.Debian
+a512efaaa637483a47ba1f511b385282  usr/share/doc/hpijs/copyright
+ab46fc5c81feb6348cfa8250ff0f818b  usr/share/doc/hpijs/NEWS.Debian.gz
+dce55cfd95a5314617f5b1f16baf1b90  usr/share/doc/hpijs/gdevijs-krgb-1.5-gs8.61.patch.gz
+2f90797c0fa675878634b3b3c3739b27  usr/share/man/man1/hpijs.1.gz
+5ab7bb70114ffb86d81f57dca0a87733  usr/bin/hpijs

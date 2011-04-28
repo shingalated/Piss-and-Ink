@@ -1,0 +1,512 @@
+Apr 24 06:49:37 ausfahrt rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="550" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Apr 25 06:54:35 ausfahrt rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="550" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Apr 25 11:51:31 databahn kernel: imklog 4.2.0, log source = /proc/kmsg started.
+Apr 25 11:51:31 databahn rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="519" x-info="http://www.rsyslog.com"] (re)start
+Apr 25 11:51:31 databahn rsyslogd: rsyslogd's groupid changed to 103
+Apr 25 11:51:31 databahn rsyslogd: rsyslogd's userid changed to 101
+Apr 25 11:51:31 databahn kernel: [    0.000000] Initializing cgroup subsys cpuset
+Apr 25 11:51:31 databahn kernel: [    0.000000] Initializing cgroup subsys cpu
+Apr 25 11:51:31 databahn kernel: [    0.000000] Linux version 2.6.32-24-generic-pae (buildd@rothera) (gcc version 4.4.3 (Ubuntu 4.4.3-4ubuntu5) ) #39-Ubuntu SMP Wed Jul 28 07:39:26 UTC 2010 (Ubuntu 2.6.32-24.39-generic-pae 2.6.32.15+drm33.5)
+Apr 25 11:51:31 databahn kernel: [    0.000000] KERNEL supported cpus:
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Intel GenuineIntel
+Apr 25 11:51:31 databahn kernel: [    0.000000]   AMD AuthenticAMD
+Apr 25 11:51:31 databahn kernel: [    0.000000]   NSC Geode by NSC
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Cyrix CyrixInstead
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Centaur CentaurHauls
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Transmeta GenuineTMx86
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Transmeta TransmetaCPU
+Apr 25 11:51:31 databahn kernel: [    0.000000]   UMC UMC UMC UMC
+Apr 25 11:51:31 databahn kernel: [    0.000000] BIOS-provided physical RAM map:
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 0000000000000000 - 000000000008f000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000000008f000 - 00000000000a0000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 00000000000e0000 - 0000000000100000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 0000000000100000 - 000000007f534000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f534000 - 000000007f53c000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f53c000 - 000000007f5cd000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f5cd000 - 000000007f5d1000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f5d1000 - 000000007f660000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f660000 - 000000007f6f0000 (ACPI NVS)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f6f0000 - 000000007f6f3000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f6f3000 - 000000007f6ff000 (ACPI data)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f6ff000 - 000000007f700000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 000000007f700000 - 0000000080000000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  BIOS-e820: 00000000f0000000 - 0000000100000000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000] DMI 2.4 present.
+Apr 25 11:51:31 databahn kernel: [    0.000000] last_pfn = 0x7f700 max_arch_pfn = 0x1000000
+Apr 25 11:51:31 databahn kernel: [    0.000000] x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+Apr 25 11:51:31 databahn kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Apr 25 11:51:31 databahn kernel: [    0.000000] modified physical RAM map:
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 0000000000000000 - 0000000000002000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 0000000000002000 - 0000000000006000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 0000000000006000 - 000000000008f000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000000008f000 - 00000000000a0000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 00000000000e0000 - 0000000000100000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 0000000000100000 - 000000007f534000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f534000 - 000000007f53c000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f53c000 - 000000007f5cd000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f5cd000 - 000000007f5d1000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f5d1000 - 000000007f660000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f660000 - 000000007f6f0000 (ACPI NVS)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f6f0000 - 000000007f6f3000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f6f3000 - 000000007f6ff000 (ACPI data)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f6ff000 - 000000007f700000 (usable)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 000000007f700000 - 0000000080000000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000]  modified: 00000000f0000000 - 0000000100000000 (reserved)
+Apr 25 11:51:31 databahn kernel: [    0.000000] init_memory_mapping: 0000000000000000-00000000379fe000
+Apr 25 11:51:31 databahn kernel: [    0.000000] NX (Execute Disable) protection: active
+Apr 25 11:51:31 databahn kernel: [    0.000000] RAMDISK: 37863000 - 37fef744
+Apr 25 11:51:31 databahn kernel: [    0.000000] Allocated new RAMDISK: 0093f000 - 010cb744
+Apr 25 11:51:31 databahn kernel: [    0.000000] Move RAMDISK from 0000000037863000 - 0000000037fef743 to 0093f000 - 010cb743
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: RSDP 000fe020 00014 (v00 INTEL )
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: RSDT 7f6fd038 00038 (v01 INTEL  D945GLF2 0000008C      01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: FACP 7f6fc000 00074 (v01 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: DSDT 7f6f7000 045EC (v01 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: FACS 7f6a3000 00040
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: APIC 7f6f6000 00078 (v01 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: WDDT 7f6f5000 00040 (v01 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: MCFG 7f6f4000 0003C (v01 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: ASF! 7f6f3000 000A6 (v32 INTEL  D945GLF2 0000008C MSFT 01000013)
+Apr 25 11:51:31 databahn kernel: [    0.000000] 1149MB HIGHMEM available.
+Apr 25 11:51:31 databahn kernel: [    0.000000] 889MB LOWMEM available.
+Apr 25 11:51:31 databahn kernel: [    0.000000]   mapped low ram: 0 - 379fe000
+Apr 25 11:51:31 databahn kernel: [    0.000000]   low ram: 0 - 379fe000
+Apr 25 11:51:31 databahn kernel: [    0.000000]   node 0 low ram: 00000000 - 379fe000
+Apr 25 11:51:31 databahn kernel: [    0.000000]   node 0 bootmap 00009000 - 0000ff40
+Apr 25 11:51:31 databahn kernel: [    0.000000] (9 early reservations) ==> bootmem [0000000000 - 00379fe000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #0 [0000000000 - 0000001000]   BIOS data page ==> [0000000000 - 0000001000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #1 [0000001000 - 0000002000]    EX TRAMPOLINE ==> [0000001000 - 0000002000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #2 [0000006000 - 0000007000]       TRAMPOLINE ==> [0000006000 - 0000007000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #3 [0000100000 - 00009367f8]    TEXT DATA BSS ==> [0000100000 - 00009367f8]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #4 [000009fc00 - 0000100000]    BIOS reserved ==> [000009fc00 - 0000100000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #5 [0000937000 - 000093e16e]              BRK ==> [0000937000 - 000093e16e]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #6 [0000007000 - 0000009000]          PGTABLE ==> [0000007000 - 0000009000]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #7 [000093f000 - 00010cb744]      NEW RAMDISK ==> [000093f000 - 00010cb744]
+Apr 25 11:51:31 databahn kernel: [    0.000000]   #8 [0000009000 - 0000010000]          BOOTMAP ==> [0000009000 - 0000010000]
+Apr 25 11:51:31 databahn kernel: [    0.000000] found SMP MP-table at [c00fe200] fe200
+Apr 25 11:51:31 databahn kernel: [    0.000000] Zone PFN ranges:
+Apr 25 11:51:31 databahn kernel: [    0.000000]   DMA      0x00000000 -> 0x00001000
+Apr 25 11:51:31 databahn kernel: [    0.000000]   Normal   0x00001000 -> 0x000379fe
+Apr 25 11:51:31 databahn kernel: [    0.000000]   HighMem  0x000379fe -> 0x0007f700
+Apr 25 11:51:31 databahn kernel: [    0.000000] Movable zone start PFN for each node
+Apr 25 11:51:31 databahn kernel: [    0.000000] early_node_map[7] active PFN ranges
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x00000000 -> 0x00000002
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x00000006 -> 0x0000008f
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x00000100 -> 0x0007f534
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x0007f53c -> 0x0007f5cd
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x0007f5d1 -> 0x0007f660
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x0007f6f0 -> 0x0007f6f3
+Apr 25 11:51:31 databahn kernel: [    0.000000]     0: 0x0007f6ff -> 0x0007f700
+Apr 25 11:51:31 databahn kernel: [    0.000000] Using APIC driver default
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: PM-Timer IO Port: 0x408
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x02] enabled)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x03] enabled)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] dfl dfl lint[0x1])
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] dfl dfl lint[0x1])
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: IOAPIC (id[0x02] address[0xfec00000] gsi_base[0])
+Apr 25 11:51:31 databahn kernel: [    0.000000] IOAPIC[0]: apic_id 2, version 32, address 0xfec00000, GSI 0-23
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Apr 25 11:51:31 databahn kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Apr 25 11:51:31 databahn kernel: [    0.000000] SMP: Allowing 4 CPUs, 0 hotplug CPUs
+Apr 25 11:51:31 databahn kernel: [    0.000000] PM: Registered nosave memory: 0000000000002000 - 0000000000006000
+Apr 25 11:51:31 databahn kernel: [    0.000000] PM: Registered nosave memory: 000000000008f000 - 00000000000a0000
+Apr 25 11:51:31 databahn kernel: [    0.000000] PM: Registered nosave memory: 00000000000a0000 - 00000000000e0000
+Apr 25 11:51:31 databahn kernel: [    0.000000] PM: Registered nosave memory: 00000000000e0000 - 0000000000100000
+Apr 25 11:51:31 databahn kernel: [    0.000000] Allocating PCI resources starting at 80000000 (gap: 80000000:70000000)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Booting paravirtualized kernel on bare hardware
+Apr 25 11:51:31 databahn kernel: [    0.000000] NR_CPUS:8 nr_cpumask_bits:8 nr_cpu_ids:4 nr_node_ids:1
+Apr 25 11:51:31 databahn kernel: [    0.000000] PERCPU: Embedded 15 pages/cpu @c2200000 s39480 r0 d21960 u524288
+Apr 25 11:51:31 databahn kernel: [    0.000000] pcpu-alloc: s39480 r0 d21960 u524288 alloc=1*2097152
+Apr 25 11:51:31 databahn kernel: [    0.000000] pcpu-alloc: [0] 0 1 2 3 
+Apr 25 11:51:31 databahn kernel: [    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 517620
+Apr 25 11:51:31 databahn kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-2.6.32-24-generic-pae root=UUID=ac7afa7c-bd96-4fda-8646-f64af14f7fb5 ro quiet
+Apr 25 11:51:31 databahn kernel: [    0.000000] PID hash table entries: 4096 (order: 2, 16384 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Enabling fast FPU save and restore... done.
+Apr 25 11:51:31 databahn kernel: [    0.000000] Enabling unmasked SIMD FPU exception support... done.
+Apr 25 11:51:31 databahn kernel: [    0.000000] Initializing CPU#0
+Apr 25 11:51:31 databahn kernel: [    0.000000] allocated 10439680 bytes of page_cgroup
+Apr 25 11:51:31 databahn kernel: [    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+Apr 25 11:51:31 databahn kernel: [    0.000000] Initializing HighMem for node 0 (000379fe:0007f700)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Memory: 2041840k/2087936k available (4832k kernel code, 43804k reserved, 2221k data, 676k init, 1175912k highmem)
+Apr 25 11:51:31 databahn kernel: [    0.000000] virtual kernel memory layout:
+Apr 25 11:51:31 databahn kernel: [    0.000000]     fixmap  : 0xfff1d000 - 0xfffff000   ( 904 kB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]     pkmap   : 0xffa00000 - 0xffc00000   (2048 kB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]     vmalloc : 0xf81fe000 - 0xff9fe000   ( 120 MB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]     lowmem  : 0xc0000000 - 0xf79fe000   ( 889 MB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]       .init : 0xc07e4000 - 0xc088d000   ( 676 kB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]       .data : 0xc05b821b - 0xc07e3828   (2221 kB)
+Apr 25 11:51:31 databahn kernel: [    0.000000]       .text : 0xc0100000 - 0xc05b821b   (4832 kB)
+Apr 25 11:51:31 databahn kernel: [    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+Apr 25 11:51:31 databahn kernel: [    0.000000] SLUB: Genslabs=13, HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+Apr 25 11:51:31 databahn kernel: [    0.000000] Hierarchical RCU implementation.
+Apr 25 11:51:31 databahn kernel: [    0.000000] NR_IRQS:2304 nr_irqs:440
+Apr 25 11:51:31 databahn kernel: [    0.000000] Console: colour VGA+ 80x25
+Apr 25 11:51:31 databahn kernel: [    0.000000] console [tty0] enabled
+Apr 25 11:51:31 databahn kernel: [    0.000000] Fast TSC calibration using PIT
+Apr 25 11:51:31 databahn kernel: [    0.000000] Detected 1595.967 MHz processor.
+Apr 25 11:51:31 databahn kernel: [    0.008012] Calibrating delay loop (skipped), value calculated using timer frequency.. 3191.93 BogoMIPS (lpj=6383868)
+Apr 25 11:51:31 databahn kernel: [    0.008052] Security Framework initialized
+Apr 25 11:51:31 databahn kernel: [    0.008101] AppArmor: AppArmor initialized
+Apr 25 11:51:31 databahn kernel: [    0.008119] Mount-cache hash table entries: 512
+Apr 25 11:51:31 databahn kernel: [    0.008382] Initializing cgroup subsys ns
+Apr 25 11:51:31 databahn kernel: [    0.008393] Initializing cgroup subsys cpuacct
+Apr 25 11:51:31 databahn kernel: [    0.008403] Initializing cgroup subsys memory
+Apr 25 11:51:31 databahn kernel: [    0.008418] Initializing cgroup subsys devices
+Apr 25 11:51:31 databahn kernel: [    0.008424] Initializing cgroup subsys freezer
+Apr 25 11:51:31 databahn kernel: [    0.008430] Initializing cgroup subsys net_cls
+Apr 25 11:51:31 databahn kernel: [    0.008469] CPU: L1 I cache: 32K, L1 D cache: 24K
+Apr 25 11:51:31 databahn kernel: [    0.008476] CPU: L2 cache: 512K
+Apr 25 11:51:31 databahn kernel: [    0.008482] CPU: Physical Processor ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.008487] CPU: Processor Core ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.008494] mce: CPU supports 5 MCE banks
+Apr 25 11:51:31 databahn kernel: [    0.008508] CPU0: Thermal monitoring enabled (TM1)
+Apr 25 11:51:31 databahn kernel: [    0.008517] using mwait in idle threads.
+Apr 25 11:51:31 databahn kernel: [    0.008530] Performance Events: Atom events, Intel PMU driver.
+Apr 25 11:51:31 databahn kernel: [    0.008544] ... version:                3
+Apr 25 11:51:31 databahn kernel: [    0.008549] ... bit width:              40
+Apr 25 11:51:31 databahn kernel: [    0.008553] ... generic registers:      2
+Apr 25 11:51:31 databahn kernel: [    0.008559] ... value mask:             000000ffffffffff
+Apr 25 11:51:31 databahn kernel: [    0.008564] ... max period:             000000007fffffff
+Apr 25 11:51:31 databahn kernel: [    0.008569] ... fixed-purpose events:   3
+Apr 25 11:51:31 databahn kernel: [    0.008574] ... event mask:             0000000700000003
+Apr 25 11:51:31 databahn kernel: [    0.008583] Checking 'hlt' instruction... OK.
+Apr 25 11:51:31 databahn kernel: [    0.024009] Disabling 4MB page tables to avoid TLB bug
+Apr 25 11:51:31 databahn kernel: [    0.028557] ACPI: Core revision 20090903
+Apr 25 11:51:31 databahn kernel: [    0.040023] ftrace: converting mcount calls to 0f 1f 44 00 00
+Apr 25 11:51:31 databahn kernel: [    0.040034] ftrace: allocating 22411 entries in 44 pages
+Apr 25 11:51:31 databahn kernel: [    0.044120] Enabling APIC mode:  Flat.  Using 1 I/O APICs
+Apr 25 11:51:31 databahn kernel: [    0.044465] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+Apr 25 11:51:31 databahn kernel: [    0.086702] CPU0: Intel(R) Atom(TM) CPU  330   @ 1.60GHz stepping 02
+Apr 25 11:51:31 databahn kernel: [    0.088001] APIC calibration not consistent with PM-Timer: 104ms instead of 100ms
+Apr 25 11:51:31 databahn kernel: [    0.088001] APIC delta adjusted to PM-Timer: 831251 (864550)
+Apr 25 11:51:31 databahn kernel: [    0.088001] Booting processor 1 APIC 0x2 ip 0x6000
+Apr 25 11:51:31 databahn kernel: [    0.012000] Initializing CPU#1
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L1 I cache: 32K, L1 D cache: 24K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L2 cache: 512K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Physical Processor ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Processor Core ID: 1
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU1: Thermal monitoring enabled (TM1)
+Apr 25 11:51:31 databahn kernel: [    0.172096] CPU1: Intel(R) Atom(TM) CPU  330   @ 1.60GHz stepping 02
+Apr 25 11:51:31 databahn kernel: [    0.172115] checking TSC synchronization [CPU#0 -> CPU#1]:
+Apr 25 11:51:31 databahn kernel: [    0.176001] Measured 24 cycles TSC warp between CPUs, turning off TSC clock.
+Apr 25 11:51:31 databahn kernel: [    0.176001] Marking TSC unstable due to check_tsc_sync_source failed
+Apr 25 11:51:31 databahn kernel: [    0.176214] Booting processor 2 APIC 0x1 ip 0x6000
+Apr 25 11:51:31 databahn kernel: [    0.012000] Initializing CPU#2
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L1 I cache: 32K, L1 D cache: 24K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L2 cache: 512K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Physical Processor ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Processor Core ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU2: Thermal monitoring enabled (TM1)
+Apr 25 11:51:31 databahn kernel: [    0.264059] CPU2: Intel(R) Atom(TM) CPU  330   @ 1.60GHz stepping 02
+Apr 25 11:51:31 databahn kernel: [    0.264343] Booting processor 3 APIC 0x3 ip 0x6000
+Apr 25 11:51:31 databahn kernel: [    0.012000] Initializing CPU#3
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L1 I cache: 32K, L1 D cache: 24K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: L2 cache: 512K
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Physical Processor ID: 0
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU: Processor Core ID: 1
+Apr 25 11:51:31 databahn kernel: [    0.012000] CPU3: Thermal monitoring enabled (TM1)
+Apr 25 11:51:31 databahn kernel: [    0.352138] CPU3: Intel(R) Atom(TM) CPU  330   @ 1.60GHz stepping 02
+Apr 25 11:51:31 databahn kernel: [    0.352190] Brought up 4 CPUs
+Apr 25 11:51:31 databahn kernel: [    0.352197] Total of 4 processors activated (12768.36 BogoMIPS).
+Apr 25 11:51:31 databahn kernel: [    0.354426] devtmpfs: initialized
+Apr 25 11:51:31 databahn kernel: [    0.354426] regulator: core version 0.5
+Apr 25 11:51:31 databahn kernel: [    0.354426] Time: 15:51:29  Date: 04/25/11
+Apr 25 11:51:31 databahn kernel: [    0.354426] NET: Registered protocol family 16
+Apr 25 11:51:31 databahn kernel: [    0.354426] Trying to unpack rootfs image as initramfs...
+Apr 25 11:51:31 databahn kernel: [    0.356250] EISA bus registered
+Apr 25 11:51:31 databahn kernel: [    0.356275] ACPI: bus type pci registered
+Apr 25 11:51:31 databahn kernel: [    0.356416] PCI: MCFG configuration 0: base f0000000 segment 0 buses 0 - 127
+Apr 25 11:51:31 databahn kernel: [    0.356424] PCI: MCFG area at f0000000 reserved in E820
+Apr 25 11:51:31 databahn kernel: [    0.356429] PCI: Using MMCONFIG for extended config space
+Apr 25 11:51:31 databahn kernel: [    0.356433] PCI: Using configuration type 1 for base access
+Apr 25 11:51:31 databahn kernel: [    0.358503] bio: create slab <bio-0> at 0
+Apr 25 11:51:31 databahn kernel: [    0.365849] ACPI: Interpreter enabled
+Apr 25 11:51:31 databahn kernel: [    0.365865] ACPI: (supports S0 S1 S3 S4 S5)
+Apr 25 11:51:31 databahn kernel: [    0.365919] ACPI: Using IOAPIC for interrupt routing
+Apr 25 11:51:31 databahn kernel: [    0.374487] ACPI: No dock devices found.
+Apr 25 11:51:31 databahn kernel: [    0.376710] ACPI: PCI Root Bridge [PCI0] (0000:00)
+Apr 25 11:51:31 databahn kernel: [    0.377074] pci 0000:00:1b.0: PME# supported from D0 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.377081] pci 0000:00:1b.0: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.377164] pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.377172] pci 0000:00:1c.0: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.377256] pci 0000:00:1c.2: PME# supported from D0 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.377264] pci 0000:00:1c.2: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.377348] pci 0000:00:1c.3: PME# supported from D0 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.377355] pci 0000:00:1c.3: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.377751] pci 0000:00:1d.7: PME# supported from D0 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.377759] pci 0000:00:1d.7: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.377936] pci 0000:00:1f.0: quirk: region 0400-047f claimed by ICH6 ACPI/GPIO/TCO
+Apr 25 11:51:31 databahn kernel: [    0.377945] pci 0000:00:1f.0: quirk: region 0500-053f claimed by ICH6 GPIO
+Apr 25 11:51:31 databahn kernel: [    0.377953] pci 0000:00:1f.0: ICH7 LPC Generic IO decode 1 PIO at 0680 (mask 007f)
+Apr 25 11:51:31 databahn kernel: [    0.378194] pci 0000:00:1f.2: PME# supported from D3hot
+Apr 25 11:51:31 databahn kernel: [    0.378201] pci 0000:00:1f.2: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.378478] pci 0000:01:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+Apr 25 11:51:31 databahn kernel: [    0.378486] pci 0000:01:00.0: PME# disabled
+Apr 25 11:51:31 databahn kernel: [    0.378748] pci 0000:00:1e.0: transparent bridge
+Apr 25 11:51:31 databahn kernel: [    0.389450] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 7 9 10 *11 12)
+Apr 25 11:51:31 databahn kernel: [    0.389672] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 7 9 10 11 12) *0, disabled.
+Apr 25 11:51:31 databahn kernel: [    0.389894] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 7 *9 10 11 12)
+Apr 25 11:51:31 databahn kernel: [    0.390115] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 5 7 9 10 *11 12)
+Apr 25 11:51:31 databahn kernel: [    0.390335] ACPI: PCI Interrupt Link [LNKE] (IRQs 3 4 5 7 9 10 11 12) *0, disabled.
+Apr 25 11:51:31 databahn kernel: [    0.390556] ACPI: PCI Interrupt Link [LNKF] (IRQs 3 4 5 7 9 10 11 12) *0, disabled.
+Apr 25 11:51:31 databahn kernel: [    0.390778] ACPI: PCI Interrupt Link [LNKG] (IRQs 3 4 5 7 *9 10 11 12)
+Apr 25 11:51:31 databahn kernel: [    0.390997] ACPI: PCI Interrupt Link [LNKH] (IRQs 3 4 5 7 9 *10 11 12)
+Apr 25 11:51:31 databahn kernel: [    0.391242] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Apr 25 11:51:31 databahn kernel: [    0.391263] vgaarb: loaded
+Apr 25 11:51:31 databahn kernel: [    0.391532] SCSI subsystem initialized
+Apr 25 11:51:31 databahn kernel: [    0.392088] usbcore: registered new interface driver usbfs
+Apr 25 11:51:31 databahn kernel: [    0.392122] usbcore: registered new interface driver hub
+Apr 25 11:51:31 databahn kernel: [    0.392166] usbcore: registered new device driver usb
+Apr 25 11:51:31 databahn kernel: [    0.392170] ACPI: WMI: Mapper loaded
+Apr 25 11:51:31 databahn kernel: [    0.392170] PCI: Using ACPI for IRQ routing
+Apr 25 11:51:31 databahn kernel: [    0.392438] NetLabel: Initializing
+Apr 25 11:51:31 databahn kernel: [    0.392443] NetLabel:  domain hash size = 128
+Apr 25 11:51:31 databahn kernel: [    0.392447] NetLabel:  protocols = UNLABELED CIPSOv4
+Apr 25 11:51:31 databahn kernel: [    0.392474] NetLabel:  unlabeled traffic allowed by default
+Apr 25 11:51:31 databahn kernel: [    0.392734] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+Apr 25 11:51:31 databahn kernel: [    0.392744] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+Apr 25 11:51:31 databahn kernel: [    0.392756] hpet0: 3 comparators, 64-bit 14.318180 MHz counter
+Apr 25 11:51:31 databahn kernel: [    0.400357] Switching to clocksource hpet
+Apr 25 11:51:31 databahn kernel: [    0.404728] AppArmor: AppArmor Filesystem Enabled
+Apr 25 11:51:31 databahn kernel: [    0.404777] pnp: PnP ACPI init
+Apr 25 11:51:31 databahn kernel: [    0.404815] ACPI: bus type pnp registered
+Apr 25 11:51:31 databahn kernel: [    0.409539] pnp: PnP ACPI: found 9 devices
+Apr 25 11:51:31 databahn kernel: [    0.409546] ACPI: ACPI bus type pnp unregistered
+Apr 25 11:51:31 databahn kernel: [    0.409554] PnPBIOS: Disabled by ACPI PNP
+Apr 25 11:51:31 databahn kernel: [    0.409583] system 00:01: iomem range 0xf0000000-0xf3ffffff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409591] system 00:01: iomem range 0xfed13000-0xfed13fff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409599] system 00:01: iomem range 0xfed14000-0xfed17fff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409607] system 00:01: iomem range 0xfed18000-0xfed18fff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409614] system 00:01: iomem range 0xfed19000-0xfed19fff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409622] system 00:01: iomem range 0xfed1c000-0xfed1ffff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409630] system 00:01: iomem range 0xfed20000-0xfed3ffff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409637] system 00:01: iomem range 0xfed45000-0xfed99fff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409645] system 00:01: iomem range 0xc0000-0xdffff could not be reserved
+Apr 25 11:51:31 databahn kernel: [    0.409653] system 00:01: iomem range 0xe0000-0xfffff could not be reserved
+Apr 25 11:51:31 databahn kernel: [    0.409672] system 00:06: ioport range 0x500-0x53f has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409679] system 00:06: ioport range 0x400-0x47f has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.409686] system 00:06: ioport range 0x680-0x6ff has been reserved
+Apr 25 11:51:31 databahn kernel: [    0.444754] pci 0000:00:1c.0: PCI bridge, secondary bus 0000:01
+Apr 25 11:51:31 databahn kernel: [    0.444762] pci 0000:00:1c.0:   IO window: 0x1000-0x1fff
+Apr 25 11:51:31 databahn kernel: [    0.444771] pci 0000:00:1c.0:   MEM window: 0x90100000-0x901fffff
+Apr 25 11:51:31 databahn kernel: [    0.444781] pci 0000:00:1c.0:   PREFETCH window: 0x00000090000000-0x000000900fffff
+Apr 25 11:51:31 databahn kernel: [    0.444792] pci 0000:00:1c.2: PCI bridge, secondary bus 0000:02
+Apr 25 11:51:31 databahn kernel: [    0.444798] pci 0000:00:1c.2:   IO window: 0x3000-0x3fff
+Apr 25 11:51:31 databahn kernel: [    0.444807] pci 0000:00:1c.2:   MEM window: 0x90300000-0x904fffff
+Apr 25 11:51:31 databahn kernel: [    0.444816] pci 0000:00:1c.2:   PREFETCH window: 0x00000090500000-0x000000906fffff
+Apr 25 11:51:31 databahn kernel: [    0.444826] pci 0000:00:1c.3: PCI bridge, secondary bus 0000:03
+Apr 25 11:51:31 databahn kernel: [    0.444833] pci 0000:00:1c.3:   IO window: 0x4000-0x4fff
+Apr 25 11:51:31 databahn kernel: [    0.444843] pci 0000:00:1c.3:   MEM window: 0x90700000-0x908fffff
+Apr 25 11:51:31 databahn kernel: [    0.444851] pci 0000:00:1c.3:   PREFETCH window: 0x00000090900000-0x00000090afffff
+Apr 25 11:51:31 databahn kernel: [    0.444862] pci 0000:00:1e.0: PCI bridge, secondary bus 0000:04
+Apr 25 11:51:31 databahn kernel: [    0.444867] pci 0000:00:1e.0:   IO window: disabled
+Apr 25 11:51:31 databahn kernel: [    0.444876] pci 0000:00:1e.0:   MEM window: disabled
+Apr 25 11:51:31 databahn kernel: [    0.444882] pci 0000:00:1e.0:   PREFETCH window: disabled
+Apr 25 11:51:31 databahn kernel: [    0.444928] pci 0000:00:1c.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+Apr 25 11:51:31 databahn kernel: [    0.444967] pci 0000:00:1c.2: PCI INT C -> GSI 18 (level, low) -> IRQ 18
+Apr 25 11:51:31 databahn kernel: [    0.445003] pci 0000:00:1c.3: PCI INT D -> GSI 19 (level, low) -> IRQ 19
+Apr 25 11:51:31 databahn kernel: [    0.445208] NET: Registered protocol family 2
+Apr 25 11:51:31 databahn kernel: [    0.445429] IP route cache hash table entries: 32768 (order: 5, 131072 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.446136] TCP established hash table entries: 131072 (order: 8, 1048576 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.447120] TCP bind hash table entries: 65536 (order: 7, 524288 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.447630] TCP: Hash tables configured (established 131072 bind 65536)
+Apr 25 11:51:31 databahn kernel: [    0.447638] TCP reno registered
+Apr 25 11:51:31 databahn kernel: [    0.447890] NET: Registered protocol family 1
+Apr 25 11:51:31 databahn kernel: [    0.448907] cpufreq-nforce2: No nForce2 chipset.
+Apr 25 11:51:31 databahn kernel: [    0.448976] Scanning for low memory corruption every 60 seconds
+Apr 25 11:51:31 databahn kernel: [    0.449275] audit: initializing netlink socket (disabled)
+Apr 25 11:51:31 databahn kernel: [    0.449301] type=2000 audit(1303746689.448:1): initialized
+Apr 25 11:51:31 databahn kernel: [    0.467538] highmem bounce pool size: 64 pages
+Apr 25 11:51:31 databahn kernel: [    0.467551] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Apr 25 11:51:31 databahn kernel: [    0.471198] VFS: Disk quotas dquot_6.5.2
+Apr 25 11:51:31 databahn kernel: [    0.471343] Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Apr 25 11:51:31 databahn kernel: [    0.472860] fuse init (API version 7.13)
+Apr 25 11:51:31 databahn kernel: [    0.473101] msgmni has been set to 1693
+Apr 25 11:51:31 databahn kernel: [    0.473855] alg: No test for stdrng (krng)
+Apr 25 11:51:31 databahn kernel: [    0.474018] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+Apr 25 11:51:31 databahn kernel: [    0.474025] io scheduler noop registered
+Apr 25 11:51:31 databahn kernel: [    0.474030] io scheduler anticipatory registered
+Apr 25 11:51:31 databahn kernel: [    0.474034] io scheduler deadline registered
+Apr 25 11:51:31 databahn kernel: [    0.474131] io scheduler cfq registered (default)
+Apr 25 11:51:31 databahn kernel: [    0.475052] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Apr 25 11:51:31 databahn kernel: [    0.475245] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Apr 25 11:51:31 databahn kernel: [    0.475446] input: Sleep Button as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0C0E:00/input/input0
+Apr 25 11:51:31 databahn kernel: [    0.475462] ACPI: Sleep Button [SLPB]
+Apr 25 11:51:31 databahn kernel: [    0.475585] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input1
+Apr 25 11:51:31 databahn kernel: [    0.475593] ACPI: Power Button [PWRF]
+Apr 25 11:51:31 databahn kernel: [    0.476081] processor LNXCPU:00: registered as cooling_device0
+Apr 25 11:51:31 databahn kernel: [    0.476190] processor LNXCPU:01: registered as cooling_device1
+Apr 25 11:51:31 databahn kernel: [    0.476302] processor LNXCPU:02: registered as cooling_device2
+Apr 25 11:51:31 databahn kernel: [    0.476395] processor LNXCPU:03: registered as cooling_device3
+Apr 25 11:51:31 databahn kernel: [    0.479625] isapnp: Scanning for PnP cards...
+Apr 25 11:51:31 databahn kernel: [    0.484229] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Apr 25 11:51:31 databahn kernel: [    0.488114] brd: module loaded
+Apr 25 11:51:31 databahn kernel: [    0.489645] loop: module loaded
+Apr 25 11:51:31 databahn kernel: [    0.489947] input: Macintosh mouse button emulation as /devices/virtual/input/input2
+Apr 25 11:51:31 databahn kernel: [    0.490331] ata_piix 0000:00:1f.1: PCI INT A -> GSI 18 (level, low) -> IRQ 18
+Apr 25 11:51:31 databahn kernel: [    0.490640] scsi0 : ata_piix
+Apr 25 11:51:31 databahn kernel: [    0.490912] scsi1 : ata_piix
+Apr 25 11:51:31 databahn kernel: [    0.492119] ata1: PATA max UDMA/100 cmd 0x1f0 ctl 0x3f6 bmdma 0x20b0 irq 14
+Apr 25 11:51:31 databahn kernel: [    0.492129] ata2: PATA max UDMA/100 cmd 0x170 ctl 0x376 bmdma 0x20b8 irq 15
+Apr 25 11:51:31 databahn kernel: [    0.492193] ata_piix 0000:00:1f.2: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+Apr 25 11:51:31 databahn kernel: [    0.492205] ata_piix 0000:00:1f.2: MAP [ P0 P2 P1 P3 ]
+Apr 25 11:51:31 databahn kernel: [    0.492506] scsi2 : ata_piix
+Apr 25 11:51:31 databahn kernel: [    0.492765] scsi3 : ata_piix
+Apr 25 11:51:31 databahn kernel: [    0.493219] ata3: SATA max UDMA/133 cmd 0x20c8 ctl 0x20ec bmdma 0x20a0 irq 19
+Apr 25 11:51:31 databahn kernel: [    0.493228] ata4: SATA max UDMA/133 cmd 0x20c0 ctl 0x20e8 bmdma 0x20a8 irq 19
+Apr 25 11:51:31 databahn kernel: [    0.494313] Fixed MDIO Bus: probed
+Apr 25 11:51:31 databahn kernel: [    0.494429] PPP generic driver version 2.4.2
+Apr 25 11:51:31 databahn kernel: [    0.494578] tun: Universal TUN/TAP device driver, 1.6
+Apr 25 11:51:31 databahn kernel: [    0.494584] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Apr 25 11:51:31 databahn kernel: [    0.494869] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Apr 25 11:51:31 databahn kernel: [    0.494944] ehci_hcd 0000:00:1d.7: PCI INT A -> GSI 23 (level, low) -> IRQ 23
+Apr 25 11:51:31 databahn kernel: [    0.494996] ehci_hcd 0000:00:1d.7: EHCI Host Controller
+Apr 25 11:51:31 databahn kernel: [    0.495100] ehci_hcd 0000:00:1d.7: new USB bus registered, assigned bus number 1
+Apr 25 11:51:31 databahn kernel: [    0.495144] ehci_hcd 0000:00:1d.7: using broken periodic workaround
+Apr 25 11:51:31 databahn kernel: [    0.495162] ehci_hcd 0000:00:1d.7: debug port 1
+Apr 25 11:51:31 databahn kernel: [    0.499081] ehci_hcd 0000:00:1d.7: irq 23, io mem 0x902c4000
+Apr 25 11:51:31 databahn kernel: [    0.512031] ehci_hcd 0000:00:1d.7: USB 2.0 started, EHCI 1.00
+Apr 25 11:51:31 databahn kernel: [    0.512316] usb usb1: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    0.512407] hub 1-0:1.0: USB hub found
+Apr 25 11:51:31 databahn kernel: [    0.512434] hub 1-0:1.0: 8 ports detected
+Apr 25 11:51:31 databahn kernel: [    0.512604] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Apr 25 11:51:31 databahn kernel: [    0.512649] uhci_hcd: USB Universal Host Controller Interface driver
+Apr 25 11:51:31 databahn kernel: [    0.512746] uhci_hcd 0000:00:1d.0: PCI INT A -> GSI 23 (level, low) -> IRQ 23
+Apr 25 11:51:31 databahn kernel: [    0.512774] uhci_hcd 0000:00:1d.0: UHCI Host Controller
+Apr 25 11:51:31 databahn kernel: [    0.512886] uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus number 2
+Apr 25 11:51:31 databahn kernel: [    0.512928] uhci_hcd 0000:00:1d.0: irq 23, io base 0x00002080
+Apr 25 11:51:31 databahn kernel: [    0.513189] usb usb2: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    0.513287] hub 2-0:1.0: USB hub found
+Apr 25 11:51:31 databahn kernel: [    0.513309] hub 2-0:1.0: 2 ports detected
+Apr 25 11:51:31 databahn kernel: [    0.513430] uhci_hcd 0000:00:1d.1: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+Apr 25 11:51:31 databahn kernel: [    0.513455] uhci_hcd 0000:00:1d.1: UHCI Host Controller
+Apr 25 11:51:31 databahn kernel: [    0.513569] uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus number 3
+Apr 25 11:51:31 databahn kernel: [    0.513610] uhci_hcd 0000:00:1d.1: irq 19, io base 0x00002060
+Apr 25 11:51:31 databahn kernel: [    0.513877] usb usb3: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    0.513961] hub 3-0:1.0: USB hub found
+Apr 25 11:51:31 databahn kernel: [    0.513981] hub 3-0:1.0: 2 ports detected
+Apr 25 11:51:31 databahn kernel: [    0.514104] uhci_hcd 0000:00:1d.2: PCI INT C -> GSI 18 (level, low) -> IRQ 18
+Apr 25 11:51:31 databahn kernel: [    0.514129] uhci_hcd 0000:00:1d.2: UHCI Host Controller
+Apr 25 11:51:31 databahn kernel: [    0.514240] uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus number 4
+Apr 25 11:51:31 databahn kernel: [    0.514296] uhci_hcd 0000:00:1d.2: irq 18, io base 0x00002040
+Apr 25 11:51:31 databahn kernel: [    0.514565] usb usb4: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    0.514646] hub 4-0:1.0: USB hub found
+Apr 25 11:51:31 databahn kernel: [    0.514666] hub 4-0:1.0: 2 ports detected
+Apr 25 11:51:31 databahn kernel: [    0.514802] uhci_hcd 0000:00:1d.3: PCI INT D -> GSI 16 (level, low) -> IRQ 16
+Apr 25 11:51:31 databahn kernel: [    0.514825] uhci_hcd 0000:00:1d.3: UHCI Host Controller
+Apr 25 11:51:31 databahn kernel: [    0.514928] uhci_hcd 0000:00:1d.3: new USB bus registered, assigned bus number 5
+Apr 25 11:51:31 databahn kernel: [    0.514981] uhci_hcd 0000:00:1d.3: irq 16, io base 0x00002020
+Apr 25 11:51:31 databahn kernel: [    0.515243] usb usb5: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    0.515325] hub 5-0:1.0: USB hub found
+Apr 25 11:51:31 databahn kernel: [    0.515345] hub 5-0:1.0: 2 ports detected
+Apr 25 11:51:31 databahn kernel: [    0.515596] PNP: No PS/2 controller found. Probing ports directly.
+Apr 25 11:51:31 databahn kernel: [    0.518738] serio: i8042 KBD port at 0x60,0x64 irq 1
+Apr 25 11:51:31 databahn kernel: [    0.518758] serio: i8042 AUX port at 0x60,0x64 irq 12
+Apr 25 11:51:31 databahn kernel: [    0.519040] mice: PS/2 mouse device common for all mice
+Apr 25 11:51:31 databahn kernel: [    0.519358] rtc_cmos 00:03: RTC can wake from S4
+Apr 25 11:51:31 databahn kernel: [    0.519470] rtc_cmos 00:03: rtc core: registered rtc_cmos as rtc0
+Apr 25 11:51:31 databahn kernel: [    0.519512] rtc0: alarms up to one month, 114 bytes nvram, hpet irqs
+Apr 25 11:51:31 databahn kernel: [    0.519835] device-mapper: uevent: version 1.0.3
+Apr 25 11:51:31 databahn kernel: [    0.520214] device-mapper: ioctl: 4.15.0-ioctl (2009-04-01) initialised: dm-devel@redhat.com
+Apr 25 11:51:31 databahn kernel: [    0.520646] device-mapper: multipath: version 1.1.0 loaded
+Apr 25 11:51:31 databahn kernel: [    0.520655] device-mapper: multipath round-robin: version 1.0.0 loaded
+Apr 25 11:51:31 databahn kernel: [    0.521025] EISA: Probing bus 0 at eisa.0
+Apr 25 11:51:31 databahn kernel: [    0.521040] Cannot allocate resource for EISA slot 1
+Apr 25 11:51:31 databahn kernel: [    0.521047] Cannot allocate resource for EISA slot 2
+Apr 25 11:51:31 databahn kernel: [    0.521054] Cannot allocate resource for EISA slot 3
+Apr 25 11:51:31 databahn kernel: [    0.521061] Cannot allocate resource for EISA slot 4
+Apr 25 11:51:31 databahn kernel: [    0.521091] EISA: Detected 0 cards.
+Apr 25 11:51:31 databahn kernel: [    0.521684] cpuidle: using governor ladder
+Apr 25 11:51:31 databahn kernel: [    0.521691] cpuidle: using governor menu
+Apr 25 11:51:31 databahn kernel: [    0.522982] TCP cubic registered
+Apr 25 11:51:31 databahn kernel: [    0.523473] NET: Registered protocol family 10
+Apr 25 11:51:31 databahn kernel: [    0.524861] lo: Disabled Privacy Extensions
+Apr 25 11:51:31 databahn kernel: [    0.525819] NET: Registered protocol family 17
+Apr 25 11:51:31 databahn kernel: [    0.525982] Using IPI No-Shortcut mode
+Apr 25 11:51:31 databahn kernel: [    0.526279] registered taskstats version 1
+Apr 25 11:51:31 databahn kernel: [    0.526856]   Magic number: 7:795:892
+Apr 25 11:51:31 databahn kernel: [    0.526964] bdi default: hash matches
+Apr 25 11:51:31 databahn kernel: [    0.527019] rtc_cmos 00:03: setting system clock to 2011-04-25 15:51:29 UTC (1303746689)
+Apr 25 11:51:31 databahn kernel: [    0.527028] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Apr 25 11:51:31 databahn kernel: [    0.527034] EDD information not available.
+Apr 25 11:51:31 databahn kernel: [    0.672832] ata3.00: ATA-7: STT_FTM8GL25V, 090928S, max UDMA/133
+Apr 25 11:51:31 databahn kernel: [    0.672843] ata3.00: 15744960 sectors, multi 1: LBA48 
+Apr 25 11:51:31 databahn kernel: [    0.680882] ata3.00: configured for UDMA/133
+Apr 25 11:51:31 databahn kernel: [    0.742789] Freeing initrd memory: 7729k freed
+Apr 25 11:51:31 databahn kernel: [    0.833013] isapnp: No Plug & Play device found
+Apr 25 11:51:31 databahn kernel: [    0.833397] scsi 2:0:0:0: Direct-Access     ATA      STT_FTM8GL25V    0909 PQ: 0 ANSI: 5
+Apr 25 11:51:31 databahn kernel: [    0.833811] sd 2:0:0:0: [sda] 15744960 512-byte logical blocks: (8.06 GB/7.50 GiB)
+Apr 25 11:51:31 databahn kernel: [    0.833882] sd 2:0:0:0: Attached scsi generic sg0 type 0
+Apr 25 11:51:31 databahn kernel: [    0.834050] sd 2:0:0:0: [sda] Write Protect is off
+Apr 25 11:51:31 databahn kernel: [    0.834155] sd 2:0:0:0: [sda] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+Apr 25 11:51:31 databahn kernel: [    0.834625]  sda: sda1 sda2 < sda5 >
+Apr 25 11:51:31 databahn kernel: [    0.955077] sd 2:0:0:0: [sda] Attached SCSI disk
+Apr 25 11:51:31 databahn kernel: [    0.955126] Freeing unused kernel memory: 676k freed
+Apr 25 11:51:31 databahn kernel: [    0.955774] Write protecting the kernel text: 4836k
+Apr 25 11:51:31 databahn kernel: [    0.955923] Write protecting the kernel read-only data: 1880k
+Apr 25 11:51:31 databahn kernel: [    0.997208] udev: starting version 151
+Apr 25 11:51:31 databahn kernel: [    1.136137] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+Apr 25 11:51:31 databahn kernel: [    1.136184] r8169 0000:01:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Apr 25 11:51:31 databahn kernel: [    1.138348] eth0: RTL8168c/8111c at 0xf822c000, 00:1c:c0:cd:a3:fd, XID 1c4000c0 IRQ 27
+Apr 25 11:51:31 databahn kernel: [    1.141189] usb 3-2: new full speed USB device using uhci_hcd and address 2
+Apr 25 11:51:31 databahn kernel: [    1.190298] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Apr 25 11:51:31 databahn kernel: [    1.327953] usb 3-2: configuration #1 chosen from 1 choice
+Apr 25 11:51:31 databahn kernel: [    1.794803] Adding 387064k swap on /dev/sda5.  Priority:-1 extents:1 across:387064k SS
+Apr 25 11:51:31 databahn kernel: [    1.895022] udev: starting version 151
+Apr 25 11:51:31 databahn kernel: [    2.096255] Linux agpgart interface v0.103
+Apr 25 11:51:31 databahn kernel: [    2.097532] intel_rng: Firmware space is locked read-only. If you can't or
+Apr 25 11:51:31 databahn kernel: [    2.097538] intel_rng: don't want to disable this in firmware setup, and if
+Apr 25 11:51:31 databahn kernel: [    2.097542] intel_rng: you are certain that your system has a functional
+Apr 25 11:51:31 databahn kernel: [    2.097545] intel_rng: RNG, try using the 'no_fwh_detect' option.
+Apr 25 11:51:31 databahn kernel: [    2.153447] agpgart-intel 0000:00:00.0: Intel 945G Chipset
+Apr 25 11:51:31 databahn kernel: [    2.154081] agpgart-intel 0000:00:00.0: detected 7932K stolen memory
+Apr 25 11:51:31 databahn kernel: [    2.171846] lp: driver loaded but no devices found
+Apr 25 11:51:31 databahn kernel: [    2.175021] agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x80000000
+Apr 25 11:51:31 databahn kernel: [    2.309682] usblp0: USB Bidirectional printer dev 2 if 0 alt 0 proto 2 vid 0x03F0 pid 0x6204
+Apr 25 11:51:31 databahn kernel: [    2.309748] usbcore: registered new interface driver usblp
+Apr 25 11:51:31 databahn kernel: [    2.425247] type=1505 audit(1303746691.396:2):  operation="profile_load" pid=536 name="/sbin/dhclient3"
+Apr 25 11:51:31 databahn kernel: [    2.426030] type=1505 audit(1303746691.396:3):  operation="profile_load" pid=536 name="/usr/lib/NetworkManager/nm-dhcp-client.action"
+Apr 25 11:51:31 databahn kernel: [    2.426688] type=1505 audit(1303746691.396:4):  operation="profile_load" pid=536 name="/usr/lib/connman/scripts/dhclient-script"
+Apr 25 11:51:31 databahn kernel: [    2.437057] [drm] Initialized drm 1.1.0 20060810
+Apr 25 11:51:31 databahn kernel: [    2.533332] r8169: eth0: link down
+Apr 25 11:51:31 databahn kernel: [    2.533364] r8169: eth0: link down
+Apr 25 11:51:31 databahn kernel: [    2.537127] ADDRCONF(NETDEV_UP): eth0: link is not ready
+Apr 25 11:51:31 databahn kernel: [    2.618601] i915 0000:00:02.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+Apr 25 11:51:31 databahn kernel: [    2.643425] [drm] set up 7M of stolen space
+Apr 25 11:51:31 databahn kernel: [    2.699559] type=1505 audit(1303746691.669:5):  operation="profile_replace" pid=636 name="/sbin/dhclient3"
+Apr 25 11:51:31 databahn kernel: [    2.700170] type=1505 audit(1303746691.673:6):  operation="profile_replace" pid=636 name="/usr/lib/NetworkManager/nm-dhcp-client.action"
+Apr 25 11:51:31 databahn kernel: [    2.700537] type=1505 audit(1303746691.673:7):  operation="profile_replace" pid=636 name="/usr/lib/connman/scripts/dhclient-script"
+Apr 25 11:51:31 databahn kernel: [    2.707944] type=1505 audit(1303746691.676:8):  operation="profile_load" pid=637 name="/usr/lib/cups/backend/cups-pdf"
+Apr 25 11:51:31 databahn kernel: [    2.708726] type=1505 audit(1303746691.680:9):  operation="profile_load" pid=637 name="/usr/sbin/cupsd"
+Apr 25 11:51:31 databahn kernel: [    2.713932] type=1505 audit(1303746691.685:10):  operation="profile_load" pid=638 name="/usr/sbin/mysqld"
+Apr 25 11:51:31 databahn kernel: [    2.839431] r8169: eth0: link up
+Apr 25 11:51:31 databahn kernel: [    2.839855] ADDRCONF(NETDEV_CHANGE): eth0: link becomes ready
+Apr 25 11:51:32 databahn kernel: [    3.314450] [drm] initialized overlay support
+Apr 25 11:51:32 databahn kernel: [    3.438500] fb0: inteldrmfb frame buffer device
+Apr 25 11:51:32 databahn kernel: [    3.438509] registered panic notifier
+Apr 25 11:51:32 databahn kernel: [    3.438534] [drm] Initialized i915 1.6.0 20080730 for 0000:00:02.0 on minor 0
+Apr 25 11:51:32 databahn kernel: [    3.438928] HDA Intel 0000:00:1b.0: PCI INT A -> GSI 22 (level, low) -> IRQ 22
+Apr 25 11:51:32 databahn kernel: [    3.448271] vga16fb: mapped to 0xc00a0000
+Apr 25 11:51:32 databahn kernel: [    3.448282] vga16fb: not registering due to another framebuffer present
+Apr 25 11:51:32 databahn kernel: [    3.585371] hda_codec: ALC662 rev1: BIOS auto-probing.
+Apr 25 11:51:32 databahn kernel: [    3.587071] input: HDA Digital PCBeep as /devices/pci0000:00/0000:00:1b.0/input/input3
+Apr 25 11:51:32 databahn kernel: [    3.653476] Console: switching to colour frame buffer device 128x48
+Apr 25 11:51:33 databahn kernel: [    4.377163] ppdev: user-space parallel port driver
+Apr 25 11:50:43 databahn kernel: [    4.733275] usblp0: removed
+Apr 26 06:53:44 databahn rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="519" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Apr 26 06:53:44 databahn rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="519" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.
+Apr 26 10:36:42 databahn kernel: [81964.416081] usb 3-2: USB disconnect, address 2
+Apr 26 10:36:45 databahn kernel: [81966.716033] usb 3-2: new full speed USB device using uhci_hcd and address 3
+Apr 26 10:36:45 databahn kernel: [81966.901500] usb 3-2: configuration #1 chosen from 1 choice
+Apr 26 10:36:45 databahn kernel: [81966.908990] usblp0: USB Bidirectional printer dev 3 if 0 alt 0 proto 2 vid 0x03F0 pid 0x6204
+Apr 26 10:36:45 databahn kernel: [81966.940311] usblp0: removed
+Apr 26 10:37:03 databahn kernel: [81985.000095] usb 3-2: USB disconnect, address 3
+Apr 26 10:37:05 databahn kernel: [81987.272034] usb 3-2: new full speed USB device using uhci_hcd and address 4
+Apr 26 10:37:05 databahn kernel: [81987.456470] usb 3-2: configuration #1 chosen from 1 choice
+Apr 26 10:37:05 databahn kernel: [81987.463545] usblp0: USB Bidirectional printer dev 4 if 0 alt 0 proto 2 vid 0x03F0 pid 0x6204
+Apr 26 10:41:49 databahn kernel: [82271.145490] usblp0: removed
+Apr 27 06:54:12 databahn rsyslogd: [origin software="rsyslogd" swVersion="4.2.0" x-pid="519" x-info="http://www.rsyslog.com"] rsyslogd was HUPed, type 'lightweight'.

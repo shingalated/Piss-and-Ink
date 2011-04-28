@@ -1,0 +1,14 @@
+563d4abe742dc13eee18be1eda77aa75  usr/share/lintian/overrides/libv4l-0
+e15da36452abb30108205a29146b1621  usr/share/doc/libv4l-0/changelog.gz
+081d527e43bdb6d3b5224917e9c958d9  usr/share/doc/libv4l-0/README.gz
+85a01c42d9bce49697faedf192f18e25  usr/share/doc/libv4l-0/README.multi-threading
+a18847c7ba16cb4769c10605e18ad28b  usr/share/doc/libv4l-0/TODO
+a01d4593cd6f6f3c841779124bce804c  usr/share/doc/libv4l-0/copyright
+df9ead914abed2816d94ba95ed87c221  usr/share/doc/libv4l-0/changelog.Debian.gz
+bbfc07af8b48aa77fc25cf2e132cd0f6  usr/lib/libv4l1.so.0
+ce55716e6389318445563bffa87114d1  usr/lib/libv4l2.so.0
+9e9ae7960694fbe6523abd59d5458c48  usr/lib/libv4lconvert.so.0
+4352f843a24dc1e39cf414c99da09f52  usr/lib/libv4l/v4l1compat.so
+48e4e2e065a8eed676e8a79ae35d34fb  usr/lib/libv4l/v4l2convert.so
+c010fc43529f754c11f3c5438aab191f  usr/lib/libv4l/ov511-decomp
+301086813e83b84ab367e6496d6cc964  usr/lib/libv4l/ov518-decomp

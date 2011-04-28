@@ -1,0 +1,5 @@
+d37d13d3f504d8d10b98214bf3d43f55  usr/share/doc/libgl1-mesa-glx/copyright
+f9da47daaea1ba6045d7baf32848254c  usr/share/doc/libgl1-mesa-glx/changelog.Debian.gz
+c529caf84844de5058c322b71ddc3703  usr/share/lintian/overrides/libgl1-mesa-glx
+b3c7dfc3d1ff4f9e762be5ed487cc60d  usr/lib/mesa/libGL.so.1.2
+72669031301c94daac24322b86ad7090  usr/lib/mesa/ld.so.conf

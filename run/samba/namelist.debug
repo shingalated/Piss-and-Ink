@@ -1,0 +1,116 @@
+Subnet 192.168.1.193
+----------------------
+	Name = WORKGROUP<1e>	Source = SELF_NAME
+b_flags = 84	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:37 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = WORKGROUP<00>	Source = SELF_NAME
+b_flags = 84	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:37 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<00>	Source = SELF_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:37 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<03>	Source = SELF_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:37 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<20>	Source = SELF_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:37 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = __SAMBA__<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = __SAMBA__<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+Subnet UNICAST_SUBNET
+----------------------
+	Name = WORKGROUP<1e>	Source = PERMANENT_NAME
+b_flags = 84	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = WORKGROUP<00>	Source = PERMANENT_NAME
+b_flags = 84	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<00>	Source = PERMANENT_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<03>	Source = PERMANENT_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = AUSFAHRT<20>	Source = PERMANENT_NAME
+b_flags = 6	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = __SAMBA__<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = __SAMBA__<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+Subnet REMOTE_BROADCAST_SUBNET
+----------------------
+	Name = __SAMBA__<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = __SAMBA__<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<20>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+
+	Name = *<00>	Source = PERMANENT_NAME
+b_flags = 4	death_time = PERMANENT	refresh_time = Mon Apr 25 11:51:33 2011
+
+		number of IPS = 1	192.168.1.193
+

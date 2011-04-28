@@ -1,0 +1,6 @@
+a0fd88b24a0ec861c42a010497ba2390  usr/share/doc/libaprutil1/changelog.gz
+26c2c7ddf7d00715f818f5094b288d84  usr/share/doc/libaprutil1/copyright
+f9605cfa766f732971d9e4e83330c065  usr/share/doc/libaprutil1/changelog.Debian.gz
+d48e63d631f91ae4bc6829562725dd5c  usr/share/lintian/overrides/libaprutil1
+82340a9c27ded538b25431bd655729cf  usr/lib/libaprutil-1.so.0.3.9
+61c8dbda14f7d069d523544d1ac99c10  usr/lib/apr-util-1/apr_dbm_db-1.so

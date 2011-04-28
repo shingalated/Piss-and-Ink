@@ -1,0 +1,4 @@
+/etc/bash_completion.d/subversion
+/etc/subversion/config
+/etc/subversion/servers
+/etc/emacs/site-start.d/50psvn.el

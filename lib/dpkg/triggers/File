@@ -1,0 +1,17 @@
+/usr/lib/gio/modules libglib2.0-0
+/etc/init ureadahead
+/etc/init.d ureadahead
+/usr/share/info install-info
+/usr/man man-db
+/usr/share/man man-db
+/usr/local/man man-db
+/usr/local/share/man man-db
+/usr/X11R6/man man-db
+/opt/man man-db
+/etc/ufw/applications.d ufw
+/etc/php5/conf.d libapache2-mod-php5
+/usr/share/fonts fontconfig
+/usr/share/ghostscript/fonts fontconfig
+/usr/share/texmf/fonts fontconfig
+/usr/share/icons/hicolor hicolor-icon-theme
+/usr/share/mime/packages shared-mime-info

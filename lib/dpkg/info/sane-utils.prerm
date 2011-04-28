@@ -1,0 +1,11 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_installinit
+if [ -x "/etc/init.d/saned" ]; then
+	if [ -x "`which invoke-rc.d 2>/dev/null`" ]; then
+		invoke-rc.d saned stop || saned_eh
+	else
+		/etc/init.d/saned stop || saned_eh
+	fi
+fi
+# End automatically added section

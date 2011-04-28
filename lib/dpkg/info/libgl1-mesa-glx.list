@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgl1-mesa-glx
+/usr/share/doc/libgl1-mesa-glx/copyright
+/usr/share/doc/libgl1-mesa-glx/changelog.Debian.gz
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libgl1-mesa-glx
+/usr/lib
+/usr/lib/mesa
+/usr/lib/mesa/libGL.so.1.2
+/usr/lib/mesa/ld.so.conf
+/usr/lib/xorg
+/usr/lib/xorg/x11-extra-modules
+/usr/lib/mesa/libGL.so.1

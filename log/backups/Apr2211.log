@@ -1,0 +1,6 @@
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #1)
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #2)
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #3)
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #4)
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #5)
+Giving up trying to execute 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' after 5 attempts

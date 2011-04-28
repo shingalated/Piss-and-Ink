@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>django-pubsub Demo</title>
+
+    <script type="text/javascript" src="{{ MEDIA_URL }}demo/js/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}demo/js/jquery-ui-1.8.7.custom.min.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}demo/js/jquery.tmpl.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}demo/js/jquery.form.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}demo/js/jquery.linkify.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}pubsub/js/strophe.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}pubsub/js/strophe.pubsub.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}pubsub/js/pubsub.settings.js"></script>
+    <script type="text/javascript" src="{{ MEDIA_URL }}pubsub/js/pubsub.client.js"></script>
+
+    <script type="text/javascript">
+        function event_cb(entry, pubsub) {
+            console.log(entry.text());
+            eval("context="+entry.text());
+            $("#template").tmpl(context).linkify().prependTo($("ul")).effect("highlight", 5000);
+
+            if (!pubsub.focus) {
+                pubsub.unread++;
+                title = document.title;
+                if (title.indexOf("[") == -1) {
+                    title = "[" + pubsub.unread + "]  " + document.title;
+                }
+                else {
+                    title = title.replace(pubsub.unread-1, pubsub.unread);
+                }
+                document.title = title;
+            }
+        }
+        pubsub = new PubSubClient({
+                'nick': '{{ unique_nick }}',
+                'node': '/demo/Status',
+                'event_cb': event_cb
+        });
+
+
+        $(document).ready(function() {
+            $("form").ajaxForm({
+                'resetForm': true
+            });
+        });
+
+        /* resore title on focus */
+        $(window).focus(function() {
+            document.title = document.title.replace(/ *\[[^)]*\] */g, "");
+        });
+
+        $(window).unload(function() {
+            pubsub.disconnect();
+        });
+
+    </script>
+
+    <script id="template" type="text/x-jquery-tmpl">
+        <li>
+            <span class="nick">
+                ${ nick } says:
+            </span>
+            <br />
+            <span class="message">
+                ${ message }
+            </span>
+            <br />
+            <span class="time">
+                ${ time }
+            </span>
+        </li>
+    </script>
+
+    <style type="text/css">
+        body {
+            font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+            text-align:center; /* for IE */
+            margin:0 auto; /* for the rest */
+        }
+        .time {
+            font-size: 0.8em;
+        }
+        .message {
+            font-size: 1.4em;
+        }
+        li {
+            list-style: none;
+            border-bottom: 1px solid #d2d2d2;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        table#message_form {
+            font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+         }
+         table#message_form th {
+             font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+             font-size: 14px;
+             font-weight: normal;
+         }
+    </style>
+
+</head>
+<body>
+
+<form action="{% url pubsub_status_new %}" method="POST">
+    {% csrf_token %}
+    <table id="message_form" align="center">
+        {{ form.as_table }}
+    </table>
+    <input type="submit" name="post" value="Post">
+</form>
+
+<ul>
+    {% for status in object_list %}
+    <li>
+        <span class="nick">
+            {{ status.nick }} says:
+        </span>
+        <br />
+        <span class="message">
+            {{ status.message|urlize }}
+        </span>
+        <br />
+        <span class="time">
+            {{ status.time }}
+        </span>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="https://github.com/agiliq/django-pubsub">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
+</a>
+
+</body>
+</html>

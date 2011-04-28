@@ -1,0 +1,12 @@
+/etc/cups/cupsd.conf
+/etc/cups/cupsd.conf.default
+/etc/cups/snmp.conf
+/etc/cups/pdftops.conf
+/etc/cups/acroread.conf
+/etc/default/cups
+/etc/init.d/cups
+/etc/pam.d/cups
+/etc/logrotate.d/cups
+/etc/fonts/conf.d/99pdftoopvp.conf
+/etc/apparmor.d/usr.sbin.cupsd
+/etc/ufw/applications.d/cups

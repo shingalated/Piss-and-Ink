@@ -1,0 +1,22 @@
+Synchronizing remote metadata to local cache...
+Copying duplicity-inc.20110228T110002Z.to.20110228T233504Z.manifest to local cache.
+Copying duplicity-new-signatures.20110228T110002Z.to.20110228T233504Z.sigtar to local cache.
+Last full backup date: Thu Feb  3 22:20:37 2011
+--------------[ Backup Statistics ]--------------
+StartTime 1298977208.57 (Tue Mar  1 06:00:08 2011)
+EndTime 1298977304.53 (Tue Mar  1 06:01:44 2011)
+ElapsedTime 95.95 (1 minute 35.95 seconds)
+SourceFiles 75370
+SourceFileSize 1474006407 (1.37 GB)
+NewFiles 119
+NewFileSize 1747649 (1.67 MB)
+DeletedFiles 7
+ChangedFiles 66
+ChangedFileSize 24723060 (23.6 MB)
+ChangedDeltaSize 0 (0 bytes)
+DeltaEntries 192
+RawDeltaSize 1654205 (1.58 MB)
+TotalDestinationSizeChange 1315465 (1.25 MB)
+Errors 0
+-------------------------------------------------
+

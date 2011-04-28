@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-jabberbot
+/usr/share/doc/python-jabberbot/copyright
+/usr/share/doc/python-jabberbot/examples
+/usr/share/doc/python-jabberbot/examples/broadcast.py
+/usr/share/doc/python-jabberbot/examples/twitterbot.py
+/usr/share/doc/python-jabberbot/changelog.Debian.gz
+/usr/share/pyshared
+/usr/share/pyshared/jabberbot-0.8.egg-info
+/usr/share/pyshared/jabberbot.py
+/usr/share/python-support
+/usr/share/python-support/python-jabberbot.public

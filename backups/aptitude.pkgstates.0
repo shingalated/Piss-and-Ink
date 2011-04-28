@@ -1,0 +1,6624 @@
+Package: popularity-contest
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sg3-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-crypto
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vsftpd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcglib-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sane-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libkeyutils1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: checksecurity
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-collections3-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aspell-en
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpci3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dmsetup
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libedit2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-fstab
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pwgen
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsdl1.2debian
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdlmcontrol3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libkrb5-3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: powernap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-lazr.restfulclient
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: jsvc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libconvert-binhex-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsdl1.2debian-alsa
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-freefont
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam0g
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libts-0.0-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtalloc2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpopt0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libshadow-ruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: backuppc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nano
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-dejavu-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libstdc++6
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libusb-0.1-4
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: linux-image-2.6.32-24-generic
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hdparm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vblade
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: plymouth-theme-ubuntu-text
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-twisted-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: junit4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bzip2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libnih-dbus1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libtomcat6-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: shared-mime-info
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-gst0.10
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: siege
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: byobu
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libio-string-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libncurses5
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libc-bin
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: rpm2cpio
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: console-terminus
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: eucalyptus-java-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libkrb5support0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: iproute
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libpolkit-gobject-1-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pnm2ppa
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libecj-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-pool-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librpmbuild0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bind9
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: krb5-user
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: munin-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mlocate
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vim-common
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libcompress-raw-zlib-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liboro-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: traceroute
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-j2ee-connector-1.5-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libntfs10
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bzrtools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpth20
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: efibootmgr
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcb-render-util0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-support
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fakeroot
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: base-files
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libopenipmi0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgphoto2-port0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxpp3-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-opie
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libevent-1.4-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: authbind
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: etckeeper
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libv4l-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblcms1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sasl2-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssh-blacklist-extra
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfence4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python2.6-minimal
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: python-pexpect
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ifenslave-2.6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: janino
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnfsidmap2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: munin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdmraid1.0.0.rc16
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bind9-host
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libasm3-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: diffstat
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: irqbalance
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libblkid1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: mime-support
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: procps
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: tomcat6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libidn11
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libgstreamer0.10-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios-plugins-basic
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: db4.8-util
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: debhelper
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aspell
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: open-iscsi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dhcp3-client
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: irb1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsensors4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwrap0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-image-virtual
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-modules
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libapparmor1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-libvirt
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: telnet
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios-plugins-standard
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lshw
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-headers-2.6.32-24
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libcupscgi1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-zope.interface
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nut-snmp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: intltool-debian
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: elilo
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libacl1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libcomerr2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libplymouth2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libsnmp15
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsof
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libselinux1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libyaml-syck-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wireless-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lvm2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apport-symptoms
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-xsl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libicu42
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libkadm5clnt-mit7
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbackport-util-concurrent-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjug-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: smbclient
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: whiptail
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libupsclient1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-daemon-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ldap-auth-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: migrationtools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nmap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-snmp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubuntu-standard
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblog-log4perl-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: freetds-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-snmp-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iso-codes
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-syntax-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iputils-tracepath
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bash-completion
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: avahi-daemon
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-dejavu-extra
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-cloud
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: memtest86+
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: uec-component-listener
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libopenais3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-paramiko
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liburi-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpixman-1-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaugeas0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-python
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: re2c
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgwt-user-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: debian-goodies
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libx11-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-twisted-web
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rrdtool
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ncurses-base
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: liblocale-gettext-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: clamav
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: antlr
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dnsutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-namespacesupport-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: command-not-found
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaprutil1-dbd-sqlite3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: jfsutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: puppet
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxom-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios-images
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: update-manager-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libclass-accessor-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: nagios3-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-jta-1.0.1b-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bind9utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-wadllib
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcrypt-openssl-rsa-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbz2-1.0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: patchutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libavahi-common-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdbus-1-3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libaio1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsane
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: g++-4.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lzma
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: install-info
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: junit
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nut-cgi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: slapd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: util-linux
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: unzip
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: corosync
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iputils-ping
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: seabios
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-pycurl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmail-spf-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmockobjects-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjaxme-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-image-generic
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: diffutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ipvsadm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdbus-glib-1-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapparmor-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-walrus
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-contrib
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: clamav-freshclam
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-reload-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: awstats
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libc3p0-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tftpd-hpa
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcap2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: mutt
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-runtime
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dovecot-imapd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcdb1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-pyicu
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: unifont
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: manpages-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-libxml2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libregexp-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: krb5-config
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtml-template-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblogthread3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-newt
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdbi-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: opie-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsctp1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hpijs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dnstracer
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: radiusclient1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-client-core-5.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2.2-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfont-afm-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-mnesia
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmailtools-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdbd-mysql-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libeucalyptus-commons-ext-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-discovery-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: acct
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libklibc
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libccs3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: smbfs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bridge-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ocfs2-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cups-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apt-transport-https
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-image-generic-pae
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libieee1284-3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcupsmime1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libc-dev-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: logrotate
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: autofs5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsocket6-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-server-5.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rgmanager
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjson-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpcap0.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lockfile-progs
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libx86-1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: screen
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtml-parser-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsasl2-modules
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: bc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdns64
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdrm-intel1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libgeronimo-jpa-3.0-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjs-jquery
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hplip
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-sqlite
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: m4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: munin-node
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-ejb-3.0-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: at
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssl-blacklist
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: strace
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: java-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dosfstools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ed
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xauth
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblog4j1.2-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librpmio0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubiquity-frontend-debconf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapr1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cu
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: command-not-found-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librpm0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxslt1.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: update-notifier-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfile-copy-recursive-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rpm-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ipsec-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librrd4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: po-debconf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: perl-base
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ncurses-term
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aptitude
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: radvd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libterm-readkey-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgomp1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rdoc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libstdc++6-4.4-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpcre3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: postgresql-doc-8.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-jms-1.1-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-apt
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libantlr-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libeggdbus-1-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnspr4-0d
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xinetd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-sd-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsqlite0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-client-5.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libslp1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: groff-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: whois
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-xwhois-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: quota
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-httpclient-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcorosync4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcairo2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aide
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfontconfig1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bash
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libjdom1-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnss-ldap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libatm1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ldap-auth-config
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: checkbox
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaprutil1-ldap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-simplejson
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-sax-expat-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fontconfig-config
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgnutls26
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: liberror-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnetaddr-ip-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dhcp3-common
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: clamav-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: module-init-tools
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libsqlite3-0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: erlang-os-mon
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libconvert-uulib-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: klibc-utils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: policykit-1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: computer-janitor
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fortune-mod
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-mount
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix-ldap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: initramfs-tools-bin
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: icedtea-6-jre-cacao
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: odbcinst
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apport
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libvorbisenc2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: psmisc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapt-pkg-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-tidy
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubiquity
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: g++
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-client-8.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xml-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-libc-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbsd0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: login
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: librpc-xml-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpod-coverage-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: debconf-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libclamav6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: spamassassin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxmuu1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtext-charwidth-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libaio-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpango1.0-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcwidget3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: python2.6
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libruby
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdebian-installer4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libarchive-zip-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcurl3-gnutls
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libtasn1-3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libapache2-mod-macro
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2-mpm-prefork
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libparted0debian1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-snmp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-gd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cups-driver-gutenprint
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcb-render0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-radius-auth
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-cli-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgphoto2-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: foomatic-db-engine
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-minimal
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libslf4j-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: e2fsprogs
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: parted
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: grub-pc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpaper-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-parser-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-auth-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-image-store-proxy
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmime-tools-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rabbitmq-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-cracklib
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-common-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfribidi0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libisccc60
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libexpat1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tdb-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gcc-4.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xfonts-unifont
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: avahi-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdevmapper1.02.1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: friendly-recovery
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-director-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cpu-checker
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubiquity-casper
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libplrpc-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cracklib-runtime
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpciaccess0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: kpartx
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: geoip-database
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libk5crypto3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libfuse2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpcsclite1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: checkbox-cli
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgssrpc4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pppconfig
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libp11-1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdlm3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apt-utils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: liblzma1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-configobj
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tcpd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tcpdump
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mtr-tiny
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aoetools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cryptsetup
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnss-mdns
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dnsmasq-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: initramfs-tools
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: vim-tiny
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libck-connector0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmail-sendmail-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: unixodbc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: procmail
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: insserv
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libsvn1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libossp-uuid16
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssh-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdatrie1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-auth-kerb
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xkb-data
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: fontconfig
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-serial
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libecryptfs0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: reiserfsprogs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-beautifulsoup
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: spamc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbcel-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-genshi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vbetool
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-docs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rdate
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ethtool
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libc6-i686
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libparse-debianchangelog-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libbsd-resource-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dash
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: acl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tasksel-data
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libxfont1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-pam
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mysql-server-core-5.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: uuid-runtime
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-auth-plain
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librecode0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-cc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-openssl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libffi5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdirectfb-1.2-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libelf1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: setserial
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fortunes-ubuntu-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: coreutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: oem-config-debconf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgcc1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libyaml-0-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdevel-symdump-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xfsprogs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-gl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcupsppdc1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: readline-common
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: snmpd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-lazr.uri
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dbus
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtidy-0.99-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: udev
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dovecot-pop3d
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-io-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gettext
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcb1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: passwd
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libaxis2c0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-telnet-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-nc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php-pear
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lupin-support
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: time
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcrypt-openssl-bignum-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apt
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libapache-mod-auth-kerb
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gfs2-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: samba-common-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdrm2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: snmp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libvirt0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ruby
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libstringtemplate-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-sc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-logging-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cman
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: locales
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: librpcsecgss3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-sd-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cups-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: powermgmt-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: samba-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxau6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: logwatch
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhpmud0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2.2-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-m2crypto
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: attr
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-codec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblwres60
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cpp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpango1.0-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iptraf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgmp3c2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-user
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-imaging
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-fileupload-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: qemu-kvm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-curl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libijs-0.35
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgdbm3
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: installation-report
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libdrools-core-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcups2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libt1-5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sysstat
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gcc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: netbase
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: bzr
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mailman
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhal1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cvs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcurl3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbcprov-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsigc++-2.0-0c2a
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libxen3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hal
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: odbcinst1debian1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bogl-bterm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-python-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: clvm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: busybox-static
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: perl-suid
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgcj-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgnumail-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-svn
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-image-2.6.32-24-generic-pae
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libept0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libjibx-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: mouseemu
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ifupdown
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: bsdutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: cpio
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: drbd8-source
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sudo
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libio-stringy-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubuntu-virt-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubuntu-keyring
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ftp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxft2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjaxp1.3-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pciutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: openjdk-6-jre-headless
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbsf-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: base-passwd
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dkms
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libproxool-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-libxml-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eucalyptus-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: kbd
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: vgabios
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dictionaries-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgutenprint2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: unattended-upgrades
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openipmi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-auth-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-common-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: drbd8-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsub-name-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: mysql-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmail-dkim-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-examples
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: devscripts
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcroco3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tzdata-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-director-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libio-dirent-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-central
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: clamav-daemon
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cron
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: facter
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-pspell
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-sax-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libipc-run-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libice6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpoppler5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: update-inetd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxpp2-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-ip-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjetty-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dhcp3-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ca-certificates
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: open-iscsi-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ivy
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxdmcp6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openais
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: w3m
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgcrypt11
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: lm-sensors
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssh-blacklist
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: smartmontools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libthai0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: makedev
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dctrl-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ssl-cert
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: samba-doc-pdf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dpkg
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libhal-storage1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rsync
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openbsd-inetd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjline-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-dbus
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libasm2-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: findutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: postfix-pcre
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libauthen-sasl-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpython2.6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vlan
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: kvm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openjdk-6-jre-lib
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: manpages
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-dbcp-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbind9-60
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-gnupginterface
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxerces2-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxapian15
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: nbd-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libexcalibur-logkit-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubuntu-minimal
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: wget
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cups
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwoodstox-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: curl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libio-socket-inet6-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pax
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdrm-nouveau1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libnet-dns-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-problem-report
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-daemon-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblzo2-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dput
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mtx
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-perl2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gawk
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-boto
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sensible-utils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libgpm2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: debianutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: bacula
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pm-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-p11
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: file
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ntp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wakeonlan
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-xmlrpc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcupsdriver1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libglib2.0-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nut
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libasound2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: squid-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: net-tools
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libqdox-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rdoc1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bsdmainutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhx22
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxpm4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libflac8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gcc-4.4-base
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libgpg-error0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: php5-pgsql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-launchpadlib
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: samba
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ppp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libconvert-tnef-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: keepalived
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sed
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libxrender1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: adduser
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libradius1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iputils-arping
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmvel-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsb-base
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libparse-debcontrol-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: quagga
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-collections-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdate-manip-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tar
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: tftp-hpa
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sgml-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lksctp-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fancontrol
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix-cdb
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios3-cgi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsscsi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwbclient0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-security-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtimedate-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: powerwake
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dpkg-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rpm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-beanutils-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ucf
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: landscape-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-oauth
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: multipath-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtext-iconv-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: os-prober
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdevmapper-event1.02.1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ibmasm-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openprinting-ppds
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpkcs11-helper1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxalan2-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdnsjava-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: e2fslibs
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: gettext-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zlib1g
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ssh
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ufw
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tasksel
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libdrm-radeon1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libiw30
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgd2-xpm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios3-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgs8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-console
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-server-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: update-motd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vim
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-recode
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cups-bsd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: redhat-cluster-suite
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ldap-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postfix-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtiff4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfontenc1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: perl-modules
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: oem-config
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: psfontmgr
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsybdb5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpng12-0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: squid
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ntfsprogs
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtie-ixhash-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-dejavu
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgnuinet-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjpeg62
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcrack2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-crypto
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtext-wrapi18n-perl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: wireless-crda
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libcap-ng0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwsdl4j-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmpfr1ldbl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xfonts-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeoip1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-unifont
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libperl5.10
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: likewise-open
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-jacc-1.1-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libunix-syslog-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libudev0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: xz-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: console-setup
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libnewt0.52
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ecryptfs-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-client-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wpasupplicant
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sysvinit-utils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: bacula-fd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-ldap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsepol1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: laptop-detect
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ubiquity-ubuntu-artwork
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmysqlclient16
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libldap-2.4-2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libdaemon0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-ck-connector
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfreetype6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxtst6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libthai-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libisccfg60
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bcrelay
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: usbutils
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: smartdimmer
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libuuid1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libhtml-format-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zip
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libio-pty-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-gdbm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: opie-client
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaugeas-ruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libavahi-client3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libc6-dev
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-generic-pae
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libnl1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apparmor
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgoogle-collections-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libglib2.0-0
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: tzdata
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libcupsimage2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-sd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pptpd
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblua5.1-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: language-selector-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zsh
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tsconf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ghostscript
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gpgv
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: pppoeconf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdebconfclient0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vim-runtime
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpolkit-backend-1-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: x11-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apache2-mpm-worker
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: foomatic-filters
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librrds-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgeronimo-interceptor-3.0-spec-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: poppler-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libssl0.9.8
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: librampart0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: grep
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libdb4.7
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdb4.8
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libsnmp-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsysfs2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-director-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libio-multiplex-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libx11-6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-pkg-resources
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libezmorph-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnet-cidr-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: foomatic-db
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-ldap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsasl2-2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ntpdate
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libhamcrest-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpq5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libberkeleydb-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtommath0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bsd-mailx
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgpgme11
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cloud-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhsqldb-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: debconf
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: nagios-plugins
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-virtual
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsgutils2-2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: man-db
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: amavisd-new
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios-nrpe-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ubuntu-serverguide
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gnupg-curl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: html2text
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-yaml
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-krb5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libservlet2.5-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: radeontool
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: grub
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssl
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: samba-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libncursesw5
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: erlang-ssl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rsyslog
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libapache2-mod-axis2c
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nfs-kernel-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsm6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cpp-4.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-mysql
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssl-blacklist-extra
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mount
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libpulse0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtml-tree-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-headers-2.6.32-24-generic-pae
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libwss4j-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgc1c2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: euca2ools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcman3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: groovy
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hal-info
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libss2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dbconfig-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-smartpm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: miscfiles
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: apparmor-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dmraid
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ltrace
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: patch
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjavassist-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-cgi
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgssapi-krb5-2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: apache2-mpm-event
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: puppet-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-lang-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openvpn
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwww-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: puppetmaster
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdigest-hmac-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: winbind
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fuse-utils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: default-jre-headless
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: grub-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpam-smbpass
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-cli
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: info
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-apport
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libexif12
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ureadahead
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: upstart
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: sysv-rc
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libdom4j-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: debconf-i18n
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libisc60
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: busybox-initramfs
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libaxiom-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-runtime-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxi6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ca-certificates-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libvorbis0a
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libvirt-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: watershed
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgssglue1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsb-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mountall
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: linux-headers-generic-pae
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libfile-rsyncp-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bacula-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libc6
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: postgresql-contrib-8.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapache2-mod-php5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libattr1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: gfs-tools
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gzip
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: xfonts-encodings
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libavahi-common3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: auth-client-config
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aide-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: binutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lintian
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: landscape-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: min12xxw
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtml-tagset-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: alien
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openssh-server
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libopenssl-ruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: portmap
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mdadm
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libslang2
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libxext6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgstreamer-plugins-base0.10-0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libreadline-ruby1.8
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-gmp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaprutil1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: initscripts
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: defoma
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: antlr3
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nagios3-core
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-generic
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libreadline5
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libreadline6
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: linux-image-2.6.32-24-virtual
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libopenssl-ruby
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnetty-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: iptables
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nfs-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: eject
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: squid-langpack
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dovecot-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-admin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtest-pod-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnss3-1d
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-twisted-bin
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-jxpath-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libterm-size-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: postgresql-8.4
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libavahi-core6
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ntfs-3g
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: chkrootkit
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsb-release
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: dpatch
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: keyutils
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: x-ttcidfont-conf
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsndfile1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-firmware
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libsys-hostname-long-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmx4j-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaspell15
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bind9-doc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dmidecode
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: kerneloops-daemon
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnih1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: python-httplib2
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: make
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: netcat-openbsd
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: augeas-lenses
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openvpn-blacklist
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ncurses-bin
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: gsfonts
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: plymouth
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: hostname
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libneon27-gnutls
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: less
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libpaper1
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php5-sybase
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libltdl7
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmagic1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: php5-odbc
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxstream-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdigest-sha1-perl
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gnupg
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: python-urlgrabber
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hplip-data
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-base
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-gobject
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lftp
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: erlang-public-key
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgnujaf-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblockfile1
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ghostscript-cups
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mawk
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libogg0
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wdiff
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lsb-cxx
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxmlrpc-ruby
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openprinting-ppds-extra
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjaxen-java
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libntfs-3g75
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: linux-headers-virtual
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: build-essential
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: qemu-common
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: consolekit
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+

@@ -1,0 +1,11 @@
+#! /bin/sh
+set -e
+
+ucf /usr/share/gconf/default.path /etc/gconf/2/path
+
+if dpkg --compare-versions "$2" lt-nl "2.26.2-0ubuntu2" && \
+   dpkg --compare-versions "$2" ge-nl "2.26.0-1ubuntu1"; then
+    chmod a+rx /etc/gconf/gconf.xml.system # Bug 383461
+fi
+
+

@@ -1,0 +1,14 @@
+73aabde64d32886fcf17b8ba9dff4f88  usr/sbin/dnssec-keygen
+3bab95396d3ef1b91a0ccfaea1eae8bc  usr/sbin/dnssec-signzone
+049fb12f51b712a0810b88be1aa9e43f  usr/sbin/named-checkconf
+eacf76927a524770edd12c509366b97e  usr/sbin/named-checkzone
+67ee493dc38bcacd4c73f4ff2d4bd8ea  usr/sbin/rndc
+09b2e9e9c99b701f8bacda5edba34786  usr/sbin/rndc-confgen
+1292b392128e1f9877cf16f057f188b3  usr/share/man/man8/named-checkconf.8.gz
+b7c1a24456e0a49c89f55d3c91ed336d  usr/share/man/man8/named-checkzone.8.gz
+55caa5622a48e61a196c059c00f94547  usr/share/man/man8/rndc-confgen.8.gz
+d4364e50481b38aa13ac4abc5c3d4cbf  usr/share/man/man8/rndc.8.gz
+e76a48b26f4e2c29bdb47cadf9a4921b  usr/share/man/man8/dnssec-keygen.8.gz
+0813f1881948a6f19c3771d67a5fc4fa  usr/share/man/man8/dnssec-signzone.8.gz
+a8cc73fe7e00948ce59253fb4d68741a  usr/share/doc/bind9utils/copyright
+e4511941ce97e5086fe2e9ba9aae064b  usr/share/doc/bind9utils/changelog.Debian.gz

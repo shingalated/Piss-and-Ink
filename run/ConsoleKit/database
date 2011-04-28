@@ -1,0 +1,85 @@
+
+[Seat /org/freedesktop/ConsoleKit/Seat24]
+kind=1
+sessions=/org/freedesktop/ConsoleKit/Session23
+devices=
+
+[Seat /org/freedesktop/ConsoleKit/Seat25]
+kind=1
+sessions=/org/freedesktop/ConsoleKit/Session24
+devices=
+
+[Seat /org/freedesktop/ConsoleKit/Seat1]
+kind=0
+sessions=
+devices=
+
+[Seat /org/freedesktop/ConsoleKit/Seat15]
+kind=1
+sessions=/org/freedesktop/ConsoleKit/Session14
+devices=
+
+[Seat /org/freedesktop/ConsoleKit/Seat22]
+kind=1
+sessions=/org/freedesktop/ConsoleKit/Session21
+devices=
+
+[Session /org/freedesktop/ConsoleKit/Session23]
+uid=1001
+seat=/org/freedesktop/ConsoleKit/Seat24
+display_device=/dev/ssh
+remote_host_name=192.168.1.116
+is_active=false
+is_local=false
+creation_time=2011-04-28T02:04:32.372562Z
+
+[Session /org/freedesktop/ConsoleKit/Session24]
+uid=0
+seat=/org/freedesktop/ConsoleKit/Seat25
+display_device=/dev/ssh
+remote_host_name=192.168.1.1
+is_active=false
+is_local=false
+creation_time=2011-04-28T02:06:14.429730Z
+
+[Session /org/freedesktop/ConsoleKit/Session14]
+uid=0
+seat=/org/freedesktop/ConsoleKit/Seat15
+display_device=/dev/ssh
+remote_host_name=192.168.1.139
+is_active=false
+is_local=false
+creation_time=2011-04-27T00:37:27.025906Z
+
+[Session /org/freedesktop/ConsoleKit/Session21]
+uid=1000
+seat=/org/freedesktop/ConsoleKit/Seat22
+display_device=/dev/ssh
+remote_host_name=192.168.1.1
+is_active=false
+is_local=false
+creation_time=2011-04-28T01:56:51.495321Z
+
+[SessionLeader /org/freedesktop/ConsoleKit/Session14]
+session=/org/freedesktop/ConsoleKit/Session14
+uid=0
+pid=5906
+service_name=:1.29
+
+[SessionLeader /org/freedesktop/ConsoleKit/Session21]
+session=/org/freedesktop/ConsoleKit/Session21
+uid=0
+pid=8066
+service_name=:1.38
+
+[SessionLeader /org/freedesktop/ConsoleKit/Session23]
+session=/org/freedesktop/ConsoleKit/Session23
+uid=0
+pid=8349
+service_name=:1.40
+
+[SessionLeader /org/freedesktop/ConsoleKit/Session24]
+session=/org/freedesktop/ConsoleKit/Session24
+uid=0
+pid=8446
+service_name=:1.41

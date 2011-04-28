@@ -1,0 +1,366 @@
+Package: acroread
+Binary: acroread
+Version: 9.4.2-0lucid1
+Section: text
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5), bzip2, libgtk2.0-0, libgl1-mesa-glx, libglu1-mesa, libxml2, libxt6, libice6, libsm6, libidn11, libatk1.0-0, libfontconfig1, libfreetype6, libpango1.0-0, libx11-6, libxext6, zlib1g, ia32-libs [amd64]
+Architecture: i386 amd64
+Standards-Version: 3.7.2
+Format: 1.0
+Directory: pool/partner/a/acroread
+Files:
+ 326d9d3339c21d7994bad8473d20f5fd 62706354 acroread_9.4.2.orig.tar.gz
+ 5f9623fb952683d00cc2cc62c3ee7633 5979 acroread_9.4.2-0lucid1.diff.gz
+ 1c392a5ca24704d7906d4d5e2179e283 1199 acroread_9.4.2-0lucid1.dsc
+Checksums-Sha1: b74eb955ab7c07536542a3412277efed25f5be52 62706354 acroread_9.4.2.orig.tar.gz
+ d37eb4a5d15d8d3be8c01437c8f4a07e9b631dc5 5979 acroread_9.4.2-0lucid1.diff.gz
+Checksums-Sha256: 8e9cc1b97f986573e45bf6f7527f6aafec0043953a13e6fcdfbd892147d3e151 62706354 acroread_9.4.2.orig.tar.gz
+ afcee0c9edcd7970a74df43c244c321d77a59fcb3d8858866e1f882fb3234148 5979 acroread_9.4.2-0lucid1.diff.gz
+
+Package: adobe-flashplugin
+Binary: adobe-flashplugin
+Version: 10.2.159.1-0lucid1
+Section: web
+Maintainer: DL-Flash Player Ubuntu <FlashPlayerUbuntu@adobe.com>
+Build-Depends: debhelper (>= 5), cdbs, libgtk2.0-0, libxt6, libice6, libsm6
+Architecture: i386 lpia
+Standards-Version: 3.7.2
+Format: 1.0
+Directory: pool/partner/a/adobe-flashplugin
+Files:
+ fe375ec544f16c5feaf8f1172b169cb6 4945652 adobe-flashplugin_10.2.159.1.orig.tar.gz
+ 2ade821b82b94b7eb861f489ac63b26b 3696 adobe-flashplugin_10.2.159.1-0lucid1.diff.gz
+ 719bb1e7f8436fffc77c085c643bea04 1153 adobe-flashplugin_10.2.159.1-0lucid1.dsc
+Checksums-Sha1: 89db827d4dad8a970679295cc6ac5f019856bac6 4945652 adobe-flashplugin_10.2.159.1.orig.tar.gz
+ f69d25a71087e33dd1373a4bf961615a5a9e127c 3696 adobe-flashplugin_10.2.159.1-0lucid1.diff.gz
+Checksums-Sha256: 6776e75e77496ec5513158a8beecd7f7bbc3898b2cae0ccbe4e9113755aa095c 4945652 adobe-flashplugin_10.2.159.1.orig.tar.gz
+ d6658b1e5d706e769a7971c00a64cb2abf8cd91593c376d8b8eedeacb93256ee 3696 adobe-flashplugin_10.2.159.1-0lucid1.diff.gz
+
+Package: adobeair
+Binary: adobeair
+Version: 1:2.6.0.19120-0lucid1
+Section: utils
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5)
+Architecture: i386
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/partner/a/adobeair
+Files:
+ 1fbe77d0fd80ba830cbf6038f85d8e15 14703799 adobeair_2.6.0.19120.orig.tar.gz
+ b197ba76dd364e17979892fd691010aa 4336 adobeair_2.6.0.19120-0lucid1.diff.gz
+ d09cd4b9cfd6973ff6c4267e11472bf0 1068 adobeair_2.6.0.19120-0lucid1.dsc
+Checksums-Sha1: 3df1c04f4db1c3188bb425b3879c084a17471aa7 14703799 adobeair_2.6.0.19120.orig.tar.gz
+ 0c28c368cfb6aa853c6863e3faedd6e1c8f7116e 4336 adobeair_2.6.0.19120-0lucid1.diff.gz
+Homepage: http://www.adobe.com
+Checksums-Sha256: a8e3599677ee3bddd1689eae6d1b713219646b74adf8edffd1a825a9e8ec3ff7 14703799 adobeair_2.6.0.19120.orig.tar.gz
+ 4c0a5bcf15b64c2c6baeae3f80cad751ab909381cf8c6587ab6c635aefca9485 4336 adobeair_2.6.0.19120-0lucid1.diff.gz
+
+Package: adobereader-deu
+Binary: adobereader-deu
+Version: 9.4.2-0lucid1
+Section: text
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5), bzip2, libgtk2.0-0, libgl1-mesa-glx, libglu1-mesa, libxml2, libxt6, libice6, libsm6, libidn11, libatk1.0-0, libfontconfig1, libfreetype6, libpango1.0-0, libx11-6, libxext6, zlib1g, ia32-libs [amd64]
+Architecture: i386 amd64
+Standards-Version: 3.7.2
+Format: 1.0
+Directory: pool/partner/a/adobereader-deu
+Files:
+ c7676a94e00024fe25a456530839f955 68871089 adobereader-deu_9.4.2.orig.tar.gz
+ e3c77219369bcde7d6c4ee1081514607 5077 adobereader-deu_9.4.2-0lucid1.diff.gz
+ 185c0ee8701a794b41f19ace35269637 1255 adobereader-deu_9.4.2-0lucid1.dsc
+Checksums-Sha1: afbde2c924e3c48ce4767ad857eff22faed7beef 68871089 adobereader-deu_9.4.2.orig.tar.gz
+ 14ac68896aef1ee865a5e763417e27ad234962af 5077 adobereader-deu_9.4.2-0lucid1.diff.gz
+Checksums-Sha256: 069ed1de06d49c0bb6a1415dfc7ecbfa78f130390f483d2d076b338e0916f339 68871089 adobereader-deu_9.4.2.orig.tar.gz
+ d142e3c6a4197e04a6b620d4b4ad2165972275743277d88601e71295cf82952d 5077 adobereader-deu_9.4.2-0lucid1.diff.gz
+
+Package: arkeia
+Binary: arkeia, arkpldap, arkppostgres, arkobk, arkpmysql, arkwui
+Version: 8.2.10-1
+Section: utils
+Maintainer: Arkeia Software <packager@arkeia.com>
+Build-Depends: debhelper (>= 5), libxml2-dev, libpq-dev, libldap2-dev
+Architecture: i386 amd64
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/a/arkeia
+Files:
+ 86b00acb36f36941f4afce1637acf726 50354706 arkeia_8.2.10.orig.tar.gz
+ 5e11ce9ad9ffa26ec3b3c57ebd8d90bd 4976 arkeia_8.2.10-1.diff.gz
+ e000e15b5002221578172b95833f82d5 1047 arkeia_8.2.10-1.dsc
+Checksums-Sha1: 8012e293b4711d640403346b7b88a55370f6d309 50354706 arkeia_8.2.10.orig.tar.gz
+ fb601c8f461809ccccd494d8cc7c34998c9d4dba 4976 arkeia_8.2.10-1.diff.gz
+Checksums-Sha256: 7bc7c31c08f95e31d47f50c7eb9ad5fb78fb506dfb027457e6ab1d72021f492f 50354706 arkeia_8.2.10.orig.tar.gz
+ 54564c439fc1480aadeb83e4422a6983ce7d507b2d9d934fec549d7d2f4dff3d 4976 arkeia_8.2.10-1.diff.gz
+
+Package: canonical-census
+Binary: canonical-census
+Version: 0.1
+Section: admin
+Maintainer: Martin Pitt <martin.pitt@canonical.com>
+Build-Depends: debhelper (>= 7)
+Architecture: all
+Standards-Version: 3.9.0
+Format: 3.0 (native)
+Directory: pool/partner/c/canonical-census
+Files:
+ 47497d75f3c2c410d63ac49bba877622 14280 canonical-census_0.1.tar.gz
+ 9c73e61c2e2d1cd24028bccc6ea6fa58 829 canonical-census_0.1.dsc
+
+Package: centrifydc
+Binary: centrifydc
+Version: 4.4.2-310-0ubuntu1
+Section: admin
+Maintainer: Centrify Corporation <support@centrify.com>
+Build-Depends: debhelper (>= 7.0.50), libstdc++6
+Architecture: i386 amd64
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/c/centrifydc
+Files:
+ 404c861a1e2ccbd864610b05365d1c90 19575438 centrifydc_4.4.2-310.orig.tar.gz
+ a417a22c998d2c1f7db64fc58d6b66ef 6599 centrifydc_4.4.2-310-0ubuntu1.diff.gz
+ 4965aebe29b7d3b2d4b9d0731f0e354e 1096 centrifydc_4.4.2-310-0ubuntu1.dsc
+Checksums-Sha1: b665c89a95798008cdef78f5e31f088796efd300 19575438 centrifydc_4.4.2-310.orig.tar.gz
+ 5d0fad77264c24a712f3974cebe4c30435a9cdf7 6599 centrifydc_4.4.2-310-0ubuntu1.diff.gz
+Homepage: http://www.centrify.com
+Checksums-Sha256: 7cd99b369133bb362d9853a3c005b0dd7ddbc0dab167631c2deff6b33c8a3cec 19575438 centrifydc_4.4.2-310.orig.tar.gz
+ b5cdf4bfbbdc0167a3023061c0ec83498800b6529eea3a79553bf1104848bb9e 6599 centrifydc_4.4.2-310-0ubuntu1.diff.gz
+
+Package: convirt2
+Binary: convirt2
+Version: 2.0.1-0lucid1
+Section: utils
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 7.0.50~), python-support, po-debconf
+Architecture: all
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/c/convirt2
+Files:
+ 1a847d0f750a95aab84ce9c78bbb54e2 2208112 convirt2_2.0.1.orig.tar.gz
+ 82bbd86791e2b4624d087eb6ad04889f 6440 convirt2_2.0.1-0lucid1.diff.gz
+ b77aa0ec2cad5de8391afdf4159d8bcf 1059 convirt2_2.0.1-0lucid1.dsc
+Checksums-Sha1: bfe2f9bc29813a52444770dacb17107262a97235 2208112 convirt2_2.0.1.orig.tar.gz
+ f90963e086a3c12703d876bb10e48769831cad71 6440 convirt2_2.0.1-0lucid1.diff.gz
+Homepage: http://www.convirture.com
+Checksums-Sha256: 4c01e359c9eb4209aacf1a25f874499d38e534901ee3f67e8c531e336ce514ae 2208112 convirt2_2.0.1.orig.tar.gz
+ e6ce72812acd25fba568d665cab543cbd373d3fa062cc7e6744ab85ce63399db 6440 convirt2_2.0.1-0lucid1.diff.gz
+
+Package: convirture-tools
+Binary: convirture-tools
+Version: 2.0.1-0lucid2
+Section: web
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 7)
+Architecture: all
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/c/convirture-tools
+Files:
+ 5d0af3fe9daeeff676ab2b7eff72f260 18298 convirture-tools_2.0.1.orig.tar.gz
+ 1f1a3a6051c8602f420fb9c90e7adc02 2260 convirture-tools_2.0.1-0lucid2.diff.gz
+ 34eb81c547b3d1c075e156f3ea6f167d 1083 convirture-tools_2.0.1-0lucid2.dsc
+Checksums-Sha1: 1f65a3e27f0f00fd8e27a4f3e16704236ee84b68 18298 convirture-tools_2.0.1.orig.tar.gz
+ c31d38caf18a29a713f8c442a114940afe3e3947 2260 convirture-tools_2.0.1-0lucid2.diff.gz
+Homepage: http://www.convirture.com
+Checksums-Sha256: 1488af1b00a3c69e5efee458ce9cab309010730520499985b3515633adbb9c06 18298 convirture-tools_2.0.1.orig.tar.gz
+ 5088bf73c920c9fa062087709e55d13d11fba3e4d74f0397eb5cc4c041c47ee7 2260 convirture-tools_2.0.1-0lucid2.diff.gz
+
+Package: db2exc
+Binary: db2exc
+Version: 9.7.2-10
+Section: devel
+Maintainer: DB2 Express-C Community <askdata@ca.ibm.com>
+Build-Depends: debhelper (>= 5)
+Architecture: i386
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/partner/d/db2exc
+Files:
+ 4fa94b4fe59dbffdca260a2c55a1bdba 427642278 db2exc_9.7.2.orig.tar.gz
+ c4a02125731d926fd53cd234a8f7e32b 3580 db2exc_9.7.2-10.diff.gz
+ 6adb50c5ec841c7b72df512d6178d2f7 959 db2exc_9.7.2-10.dsc
+
+Package: db2exc-amd64
+Binary: db2exc
+Version: 9.7.2-14
+Section: devel
+Maintainer: DB2 Express-C Community <askdata@ca.ibm.com>
+Build-Depends: debhelper (>= 5)
+Architecture: amd64
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/partner/d/db2exc-amd64
+Files:
+ 9f6825e755ffcbd7b7c33c92db7fec99 480289369 db2exc-amd64_9.7.2.orig.tar.gz
+ 225e04f25fd03d7a1fa420fec716c8e1 5250 db2exc-amd64_9.7.2-14.diff.gz
+ b0d25d82bd6182a413cd80a0d92211b7 1002 db2exc-amd64_9.7.2-14.dsc
+
+Package: gstreamer0.10-fluendo-plugins-partner
+Binary: gstreamer0.10-fluendo-plugins-mp3-partner
+Version: 7.0.20100316-3
+Section: sound
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5), libgstreamer-plugins-base0.10-dev
+Architecture: i386 lpia
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/partner/g/gstreamer0.10-fluendo-plugins-partner
+Files:
+ 81964e42c9d1dbe814570e49d347e2f6 86404 gstreamer0.10-fluendo-plugins-partner_7.0.20100316.orig.tar.gz
+ 210ba73b9eb8cdbf1cf122e8028e6e99 5766 gstreamer0.10-fluendo-plugins-partner_7.0.20100316-3.diff.gz
+ b24ba38af27aea17bba1305d12c458cb 1285 gstreamer0.10-fluendo-plugins-partner_7.0.20100316-3.dsc
+
+Package: gstreamer0.10-fluendo-plugins-partner-x86-64
+Binary: gstreamer0.10-fluendo-plugins-mp3-partner
+Version: 7.0.20100316-3
+Section: sound
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5), libgstreamer-plugins-base0.10-dev
+Architecture: amd64
+Standards-Version: 3.8.3
+Format: 1.0
+Directory: pool/partner/g/gstreamer0.10-fluendo-plugins-partner-x86-64
+Files:
+ 4e60fba1e707b31bc640440bb2017bd0 311926 gstreamer0.10-fluendo-plugins-partner-x86-64_7.0.20100316.orig.tar.gz
+ 657eb6e724e2c18d359fbc618f5ad956 5755 gstreamer0.10-fluendo-plugins-partner-x86-64_7.0.20100316-3.diff.gz
+ 21a268ca78f2b2c014821175529c32ef 1333 gstreamer0.10-fluendo-plugins-partner-x86-64_7.0.20100316-3.dsc
+
+Package: openbravo-erp-openjdk
+Binary: openbravo-erp
+Version: 2.50MP-25EU1-1lucid1
+Section: web
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 6.0.7), bzip2
+Architecture: all
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/o/openbravo-erp-openjdk
+Files:
+ 5f1853b8d4a865b62f59c14c16d9ab1a 121361869 openbravo-erp-openjdk_2.50MP-25EU1.orig.tar.gz
+ d47151d46c82ca83fed1c1b658e61e15 9687 openbravo-erp-openjdk_2.50MP-25EU1-1lucid1.diff.gz
+ 30cc8e0a5e3a5ba6ca9a5e63d1bd1619 1198 openbravo-erp-openjdk_2.50MP-25EU1-1lucid1.dsc
+Uploaders: Gorka Gil <gorka.gil@openbravo.com>
+Checksums-Sha1: c47ea70c1f8bae700a54af0afae0f6cf5189393a 121361869 openbravo-erp-openjdk_2.50MP-25EU1.orig.tar.gz
+ cbfe081f59d7fe55380366d3db484fa7db2c21d1 9687 openbravo-erp-openjdk_2.50MP-25EU1-1lucid1.diff.gz
+Checksums-Sha256: 5d0a14bb8b4d353f6d6345f7ef84e9dc8236ae5ac6b74d51cc2128a772dcedec 121361869 openbravo-erp-openjdk_2.50MP-25EU1.orig.tar.gz
+ 235e10b41c65e6fd691dda6cca21aec685b49e8118f113c9d4de3d85acddbed2 9687 openbravo-erp-openjdk_2.50MP-25EU1-1lucid1.diff.gz
+
+Package: skype
+Binary: skype
+Version: 2.2.0.25-1lucid1
+Section: net
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 7.0.50~), libstdc++6, libasound2-dev, libx11-dev, libxss-dev, libxv-dev, libxext-dev, libqt4-dev, ia32-libs [amd64]
+Architecture: i386 amd64
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/s/skype
+Files:
+ 7a5fdb2c97e69cdc3e762bd96685cc95 47180550 skype_2.2.0.25.orig.tar.gz
+ bc37384cba882df6b2e1aa5c457db68b 1493 skype_2.2.0.25-1lucid1.diff.gz
+ 5e914a6c5a607c61fa4d0690fba81944 1140 skype_2.2.0.25-1lucid1.dsc
+Checksums-Sha1: 3d9194f824e434c9ddbf2cd9ded5e3cfe2820e8b 47180550 skype_2.2.0.25.orig.tar.gz
+ ad557687a841eeec35238e8890e272d913a4b099 1493 skype_2.2.0.25-1lucid1.diff.gz
+Homepage: http://www.skype.com
+Checksums-Sha256: b8b5963b994463d42ead6b1cd3808f3d7507c4d9cfeb1763b7e5c3d65bbeaee0 47180550 skype_2.2.0.25.orig.tar.gz
+ 7ead18e6ece06d536f339b5d926873d79f6fdf81611014374fd153e3b481b303 1493 skype_2.2.0.25-1lucid1.diff.gz
+
+Package: sun-java6
+Binary: sun-java6-jre, sun-java6-bin, sun-java6-plugin, ia32-sun-java6-bin, ia32-sun-java6-plugin, sun-java6-fonts, sun-java6-jdk, sun-java6-demo, sun-java6-source, sun-java6-javadb
+Version: 6.24-1build0.10.04.1
+Section: java
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Build-Depends: debhelper (>= 5.0.51~), lsb-release, po-debconf, defoma, unzip, bzip2, patch, libasound2, unixodbc, libx11-6, libxext6, libxi6, libxp6, libxt6, libxtst6, lib32asound2 [amd64], ia32-libs [amd64 ia64]
+Architecture: all amd64 i386 lpia ia64
+Standards-Version: 3.9.1
+Format: 3.0 (quilt)
+Directory: pool/partner/s/sun-java6
+Files:
+ 3cd597b7d8a15ce1a235f36e4235d0c4 167431099 sun-java6_6.24.orig.tar.gz
+ 2b1dd8b7fa5633c435acc40ca79caecc 88316 sun-java6_6.24-1build0.10.04.1.debian.tar.gz
+ f92af3c2e4c0c92ad49f37f4f81b34c4 1714 sun-java6_6.24-1build0.10.04.1.dsc
+Uploaders: Sylvestre Ledru <sylvestre@debian.org>, Torsten Werner <twerner@debian.org>
+Autobuild: yes
+Vcs-Svn: svn://svn.debian.org/svn/pkg-java/trunk/sun-java6
+Checksums-Sha1: f51f1d65555e43b1fd3d4dead86e6022ff215ec0 167431099 sun-java6_6.24.orig.tar.gz
+ 61d5c9279abcf6f2f4e019b1637afbf0191434ad 88316 sun-java6_6.24-1build0.10.04.1.debian.tar.gz
+Vcs-Browser: http://svn.debian.org/wsvn/pkg-java/trunk/sun-java6
+Homepage: http://jdk-distros.java.net/
+Checksums-Sha256: 982fad10cf584fa55781e7bef432fbf69e917a6975cb0a34f0c511ec651cd98a 167431099 sun-java6_6.24.orig.tar.gz
+ cce1eebf2de6d0b2527069c61b31c451e87b809d17ce2f2c659d51057aa46656 88316 sun-java6_6.24-1build0.10.04.1.debian.tar.gz
+
+Package: swftools
+Binary: swftools, python-rfxswf, librfxswf-dev
+Version: 0.9.0-0ubuntu2
+Section: utils
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 5.0.0), autotools-dev, dpatch (>= 2.0.21), libfontconfig1-dev (>= 2.4.2), libfreetype6-dev (>= 2.2.1), libjpeg62-dev (>= 6b-13), libt1-dev (>= 5.1.0), libgif-dev (>= 4.1.4), zlib1g-dev (>= 1:1.2.3), libart-2.0-dev (>= 2.3.17), python-all-dev (>= 2.3.5), python-imaging (>= 1.1.5), python-support (>= 0.5.3)
+Architecture: any
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/s/swftools
+Files:
+ 518e94894a6b1be584ba79b6ab1b2a1a 2654046 swftools_0.9.0.orig.tar.gz
+ 06382393fe946f89f2c3b97fb13d5209 12912 swftools_0.9.0-0ubuntu2.diff.gz
+ dfbc2fcb68783b44169ce0bb525676ad 1411 swftools_0.9.0-0ubuntu2.dsc
+
+Package: uex
+Binary: uex
+Version: 2.1.0.3-0lucid1
+Section: editors
+Maintainer: IDM Computer Solutions, Inc. <idm@idmcomp.com>
+Build-Depends: debhelper (>= 7), libboost-regex-dev, libgtk2.0-dev
+Architecture: i386 amd64
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/u/uex
+Files:
+ b995c7123236003dd9949f67c822af11 173711838 uex_2.1.0.3.orig.tar.gz
+ af69f7a39b92635aef6a2df7562adcee 16852 uex_2.1.0.3-0lucid1.diff.gz
+ eaf604bdb452c1b9ad41f068c0601cfe 1015 uex_2.1.0.3-0lucid1.dsc
+Checksums-Sha1: 56bc2f77fe82769429b2dee80315d0eb79aed80e 173711838 uex_2.1.0.3.orig.tar.gz
+ a2b4127490c5b5c31c96e16e7fc15e7ec64cbb09 16852 uex_2.1.0.3-0lucid1.diff.gz
+Checksums-Sha256: 693fe6931fcbf37f001568d9ef3809155b939de2ba8e1da52c6177c345a3789f 173711838 uex_2.1.0.3.orig.tar.gz
+ eef391b1410283c7eb296e100bc713acab3fac3cfb4d51082e4e58593382b130 16852 uex_2.1.0.3-0lucid1.diff.gz
+
+Package: wasce-server
+Binary: wasce-server
+Version: 2.1.1.5-0lucid1
+Section: web
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Architecture: all
+Standards-Version: 3.8.4
+Format: 3.0 (quilt)
+Directory: pool/partner/w/wasce-server
+Files:
+ 3c00a02d053aac207b2def2e2626d912 82613698 wasce-server_2.1.1.5.orig.tar.gz
+ 854869cd738d422bd15cf450615817d5 3983 wasce-server_2.1.1.5-0lucid1.debian.tar.gz
+ ed7596cb68b70378cefb54a5aa88c25f 1070 wasce-server_2.1.1.5-0lucid1.dsc
+Checksums-Sha1: 65f3009b0069b39690176d30b0a3057187a0698d 82613698 wasce-server_2.1.1.5.orig.tar.gz
+ 914756b6ab98aa3d2a35dfcf991e252bdba96c2d 3983 wasce-server_2.1.1.5-0lucid1.debian.tar.gz
+Checksums-Sha256: 9a6e982436eff616e4a241559e01926760c7bc477d73bcd863ad9da7f5a640d9 82613698 wasce-server_2.1.1.5.orig.tar.gz
+ 7b69cdb4f09263041871401f9e34c9beea5bd4f767061d27d66d907f4492204b 3983 wasce-server_2.1.1.5-0lucid1.debian.tar.gz
+
+Package: zarafa
+Binary: zarafa, zarafa-libs, zarafa-indexer, zarafa-webaccess, zarafa-webaccess-muc, zarafa-webaccess-mobile, zarafa-dev, zarafa-dbg, zarafa-licensed, zarafa-python
+Version: 6.40.5-24860-lucid~2
+Section: mail
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Build-Depends: debhelper (>= 5), binutils (>= 2.12.90.0.9), devscripts, autotools-dev, automake (>= 1:1.9) | automake1.9, autoconf (>= 2.59), libtool (>= 1.5), pkg-config (>= 0.18), libssl-dev, uuid-dev, php5-dev, libmysqlclient15-dev, libcurl3-dev, gettext, libldap2-dev, flex, bison, m4, zlib1g-dev, fakeroot, libncurses5-dev, libxml2-dev, libpam0g-dev, libkrb5-dev, libboost-date-time1.35-dev | libboost-date-time1.40-dev | libboost-date-time-dev, libboost-filesystem1.35-dev | libboost-filesystem1.40-dev | libboost-filesystem-dev, libboost-thread1.35-dev | libboost-thread1.40-dev | libboost-thread-dev, python-dev, python-support, libical-dev (>= 0.44), chrpath
+Architecture: any
+Standards-Version: 3.8.4
+Format: 1.0
+Directory: pool/partner/z/zarafa
+Files:
+ a5d1262e11ea1a58a444a2132f82ea8c 8978948 zarafa_6.40.5-24860.orig.tar.gz
+ 6359b7c0d41b5a1958d895c63ac361e8 25410 zarafa_6.40.5-24860-lucid~2.diff.gz
+ d31dff01b9034fc93728f9e041a03eb2 1805 zarafa_6.40.5-24860-lucid~2.dsc
+Checksums-Sha1: 5cb6e7caf503e33fc88368845aeac17961519030 8978948 zarafa_6.40.5-24860.orig.tar.gz
+ 8306079e58d757d0ca7efd97ce9e949f1eed097d 25410 zarafa_6.40.5-24860-lucid~2.diff.gz
+Checksums-Sha256: 75b5490523e8d4c757c220eb56c3faea7aa8fde154501735500fcfb10a41c1b4 8978948 zarafa_6.40.5-24860.orig.tar.gz
+ 76a5375ccf138ff8e79957c5bd225f43d77ee500d1ed2876b56bae068f1cae34 25410 zarafa_6.40.5-24860-lucid~2.diff.gz
+

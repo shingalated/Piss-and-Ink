@@ -1,0 +1,721 @@
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Sun Apr 24 06:49:27 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Sun Apr 24 11:48:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 11:48:13 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 11:48:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 11:48:13 2011] [error]   import md5
+[Sun Apr 24 13:53:16 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 13:53:16 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 13:53:16 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 13:53:16 2011] [error]   import md5
+[Sun Apr 24 15:55:02 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 15:55:02 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 15:55:02 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 15:55:02 2011] [error]   import md5
+[Sun Apr 24 17:59:31 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 17:59:31 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 17:59:31 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 17:59:31 2011] [error]   import md5
+[Sun Apr 24 20:00:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 20:00:48 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 20:00:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 20:00:48 2011] [error]   import md5
+[Sun Apr 24 20:19:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 20:19:17 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 20:19:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 20:19:17 2011] [error]   import md5
+[Sun Apr 24 20:24:11 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 20:24:11 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 20:24:11 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 20:24:11 2011] [error]   import md5
+[Sun Apr 24 22:03:51 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Sun Apr 24 22:03:51 2011] [error]   import sha,base64,random,dispatcher,re
+[Sun Apr 24 22:03:51 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Sun Apr 24 22:03:51 2011] [error]   import md5
+[Mon Apr 25 01:40:26 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 01:46:19 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 01:48:56 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 01:49:04 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 01:49:04 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 01:49:04 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 01:49:04 2011] [error]   import md5
+[Mon Apr 25 01:52:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 01:52:06 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 01:52:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 01:52:06 2011] [error]   import md5
+[Mon Apr 25 02:00:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 02:00:45 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 02:00:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 02:00:45 2011] [error]   import md5
+[Mon Apr 25 02:06:58 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 02:06:58 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 02:06:58 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 02:06:58 2011] [error]   import md5
+[Mon Apr 25 02:08:54 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Mon Apr 25 02:17:32 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 02:22:53 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 02:22:53 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 02:22:53 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 02:22:53 2011] [error]   import md5
+[Mon Apr 25 06:12:49 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 06:12:49 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 06:12:49 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 06:12:49 2011] [error]   import md5
+[Mon Apr 25 15:30:13 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 15:50:46 2011] [error] Exception KeyError: KeyError(-1219471616,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 11:50:47 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 11:50:43 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 11:50:43 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 11:50:43 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 16:00:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:00:55 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:00:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:00:55 2011] [error]   import md5
+[Mon Apr 25 16:04:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:04:17 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:04:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:04:17 2011] [error]   import md5
+[Mon Apr 25 16:04:39 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:04:39 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:04:39 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:04:39 2011] [error]   import md5
+[Mon Apr 25 12:07:08 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:07:09 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:07:10 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:07:11 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:18:12 2011] [error] Exception KeyError: KeyError(-1218533632,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 12:18:13 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 12:18:14 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 12:18:14 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 12:18:14 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 16:20:07 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:20:07 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:20:07 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:20:07 2011] [error]   import md5
+[Mon Apr 25 16:26:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:26:56 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:26:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:26:56 2011] [error]   import md5
+[Mon Apr 25 16:28:00 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:28:00 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:28:00 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:28:00 2011] [error]   import md5
+[Mon Apr 25 16:28:36 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 16:28:36 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 16:28:36 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 16:28:36 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Mon Apr 25 20:03:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 20:03:03 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 20:03:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 20:03:03 2011] [error]   import md5
+[Mon Apr 25 20:27:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 20:27:47 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 20:27:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 20:27:47 2011] [error]   import md5
+[Mon Apr 25 16:35:44 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:35:45 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:35:46 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:35:47 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:36:18 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:36:19 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:36:20 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:45:47 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:46:29 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:46:51 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:47:58 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:47:58 2011] [error] Exception TypeError: "'NoneType' object is not callable" in <bound method Cursor.__del__ of <MySQLdb.cursors.Cursor object at 0xba28704c>> ignored
+[Mon Apr 25 20:47:58 2011] [error] Exception TypeError: "'NoneType' object is not callable" in <bound method Cursor.__del__ of <MySQLdb.cursors.Cursor object at 0xba280bec>> ignored
+[Mon Apr 25 20:47:59 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:48:28 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:48:31 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 20:48:49 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:48:50 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 16:48:51 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:02:27 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:14:45 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:14:54 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:14:55 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:14:56 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:14:57 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:32 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:33 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:34 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:35 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:36 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:37 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:15:38 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:22:36 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:23:38 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:23:39 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:23:40 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:23:41 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:23:42 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 21:29:25 2011] [error] Exception KeyError: KeyError(-1218709760,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 17:29:26 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 17:29:27 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 17:29:27 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 17:29:27 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 21:38:29 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 21:38:29 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 21:38:29 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 21:38:29 2011] [error]   import md5
+[Mon Apr 25 21:44:32 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 21:44:32 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 21:44:32 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 21:44:32 2011] [error]   import md5
+[Mon Apr 25 21:49:10 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 21:49:10 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 21:49:10 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 21:49:10 2011] [error]   import md5
+[Mon Apr 25 22:00:54 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:06:38 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 22:06:38 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 22:06:38 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 22:06:38 2011] [error]   import md5
+[Mon Apr 25 22:11:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 22:11:47 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 22:11:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 22:11:47 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 22:44:14 2011] [error] Exception KeyError: KeyError(-1218472192,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 18:44:15 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 18:44:16 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 18:44:16 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 18:44:16 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 23:29:30 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:50:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Mon Apr 25 23:50:01 2011] [error]   import sha,base64,random,dispatcher,re
+[Mon Apr 25 23:50:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Mon Apr 25 23:50:01 2011] [error]   import md5
+[Tue Apr 26 00:11:50 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:11:50 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:11:50 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:11:50 2011] [error]   import md5
+[Tue Apr 26 00:12:46 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:12:46 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:12:46 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:12:46 2011] [error]   import md5
+[Tue Apr 26 00:13:14 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:13:14 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:13:14 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:13:14 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Tue Apr 26 00:13:59 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:13:59 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:13:59 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:13:59 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Error!
+[Tue Apr 26 00:15:36 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:15:36 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:15:36 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:15:36 2011] [error]   import md5
+[Tue Apr 26 00:16:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:16:17 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:16:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:16:17 2011] [error]   import md5
+[Tue Apr 26 00:20:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:20:13 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:20:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:20:13 2011] [error]   import md5
+[Tue Apr 26 00:20:59 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:20:59 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:20:59 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:20:59 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Tue Apr 26 00:27:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 00:27:01 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 00:27:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 00:27:01 2011] [error]   import md5
+[Tue Apr 26 01:03:37 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 01:25:35 2011] [error] [client 65.183.191.181] request failed: URI too long (longer than 8190)
+[Tue Apr 26 01:25:35 2011] [error] [client 65.183.191.181] mod_wsgi (pid=3597): Exception occurred processing WSGI script '/var/piss_ink/pissandink/apache/django.wsgi'.
+[Tue Apr 26 01:25:35 2011] [error] [client 65.183.191.181] IOError: failed to write data
+[Tue Apr 26 01:26:06 2011] [error] [client 65.183.191.181] chunked Transfer-Encoding forbidden: /_vti_bin/_vti_aut/fp30reg.dll
+[Tue Apr 26 03:14:10 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:16:41 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:25:14 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:26:17 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:39:09 2011] [error] Exception KeyError: KeyError(-1220024576,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:39:10 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 23:39:11 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 23:39:11 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 23:39:11 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 23:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:43:45 2011] [error] Exception KeyError: KeyError(-1218398464,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:43:46 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 23:43:46 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 23:43:46 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 23:43:47 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 23:51:09 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:51:09 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:51:10 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:51:10 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:51:10 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:51:10 2011] [error] Exception KeyError: KeyError(-1218328832,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:51:10 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 23:51:11 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 23:51:11 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 23:51:11 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Mon Apr 25 23:56:53 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:56:53 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:56:54 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:56:54 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:56:54 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:56:54 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 03:56:54 2011] [error] Exception KeyError: KeyError(-1220266240,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Mon Apr 25 23:56:54 2011] [notice] caught SIGTERM, shutting down
+[Mon Apr 25 23:56:55 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 23:56:55 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Mon Apr 25 23:56:55 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Tue Apr 26 00:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:04:26 2011] [error] Exception KeyError: KeyError(-1219987712,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:04:26 2011] [notice] caught SIGTERM, shutting down
+[Tue Apr 26 00:04:27 2011] [warn] module proxy_module is already loaded, skipping
+[Tue Apr 26 00:04:27 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Tue Apr 26 00:04:27 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Tue Apr 26 00:07:33 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:07:34 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:07:35 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:07:36 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:08:29 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:10:01 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:10:01 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:10:02 2011] [error] Exception KeyError: KeyError(-1220192512,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:02 2011] [notice] caught SIGTERM, shutting down
+[Tue Apr 26 00:10:03 2011] [warn] module proxy_module is already loaded, skipping
+[Tue Apr 26 00:10:03 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Tue Apr 26 00:10:03 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Tue Apr 26 00:10:51 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:52 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:10:53 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:12:20 2011] [error] Exception KeyError: KeyError(-1219369216,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:20 2011] [notice] caught SIGTERM, shutting down
+[Tue Apr 26 00:12:21 2011] [warn] module proxy_module is already loaded, skipping
+[Tue Apr 26 00:12:21 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Tue Apr 26 00:12:21 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Tue Apr 26 00:12:55 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:56 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:57 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:12:58 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 00:13:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 04:14:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 04:14:55 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 04:14:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 04:14:55 2011] [error]   import md5
+[Tue Apr 26 04:28:45 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 05:42:09 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 05:42:09 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 05:42:09 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 05:42:09 2011] [error]   import md5
+[Tue Apr 26 08:30:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 08:30:55 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 08:30:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 08:30:55 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Tue Apr 26 08:30:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 08:30:56 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 08:30:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 08:30:56 2011] [error]   import md5
+[Tue Apr 26 08:31:16 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 08:31:16 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 08:31:16 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 08:31:16 2011] [error]   import md5
+[Tue Apr 26 09:43:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 09:43:06 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 09:43:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 09:43:06 2011] [error]   import md5
+[Tue Apr 26 11:53:25 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 11:53:25 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 11:53:25 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 11:53:25 2011] [error]   import md5
+[Tue Apr 26 13:38:15 2011] [error] [client 97.74.80.198] Invalid URI in request GET :2086/3rdparty/phpMyAdmin/scripts/setup.php HTTP/1.1
+[Tue Apr 26 13:38:15 2011] [error] [client 97.74.80.198] Invalid URI in request GET :2087/3rdparty/phpMyAdmin/scripts/setup.php HTTP/1.1
+[Tue Apr 26 13:38:15 2011] [error] [client 97.74.80.198] Invalid URI in request GET :81/phpmyadmin/scripts/setup.php HTTP/1.1
+[Tue Apr 26 13:38:28 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:29 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:43 2011] [error] [client 97.74.80.198] File does not exist: /usr/share/phpmyadmin/scripts
+[Tue Apr 26 13:38:50 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:51 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:52 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:53 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:54 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:38:55 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 13:57:27 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 13:57:27 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 13:57:27 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 13:57:27 2011] [error]   import md5
+[Tue Apr 26 15:53:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 15:53:56 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 15:53:56 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 15:53:56 2011] [error]   import md5
+[Tue Apr 26 17:01:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 17:01:55 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 17:01:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 17:01:55 2011] [error]   import md5
+[Tue Apr 26 17:14:05 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 17:14:05 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 17:14:05 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 17:14:05 2011] [error]   import md5
+[Tue Apr 26 19:17:07 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 15:17:08 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 15:17:09 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 15:17:16 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 20:12:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Tue Apr 26 20:12:45 2011] [error]   import sha,base64,random,dispatcher,re
+[Tue Apr 26 20:12:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Tue Apr 26 20:12:45 2011] [error]   import md5
+[Wed Apr 27 01:09:29 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 21:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:09:37 2011] [error] Exception KeyError: KeyError(-1219520768,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 21:09:39 2011] [notice] caught SIGTERM, shutting down
+[Tue Apr 26 21:09:39 2011] [warn] module proxy_module is already loaded, skipping
+[Tue Apr 26 21:09:39 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Tue Apr 26 21:09:39 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Tue Apr 26 21:10:22 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 21:10:23 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Tue Apr 26 21:10:42 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 01:57:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 01:57:06 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 01:57:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 01:57:06 2011] [error]   import md5
+[Wed Apr 27 02:25:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 02:25:06 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 02:25:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 02:25:06 2011] [error]   import md5
+[Wed Apr 27 03:14:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 03:14:45 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 03:14:45 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 03:14:45 2011] [error]   import md5
+[Wed Apr 27 04:01:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 04:01:01 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 04:01:01 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 04:01:01 2011] [error]   import md5
+[Wed Apr 27 06:02:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 06:02:17 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 06:02:17 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 06:02:17 2011] [error]   import md5
+[Wed Apr 27 07:49:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 07:49:03 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 07:49:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 07:49:03 2011] [error]   import md5
+[Wed Apr 27 08:28:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 08:28:48 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 08:28:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 08:28:48 2011] [error]   import md5
+[Wed Apr 27 08:28:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 08:28:55 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 08:28:55 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 08:28:55 2011] [error]   import md5
+[Wed Apr 27 11:52:57 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 11:52:57 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 11:52:57 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 11:52:57 2011] [error]   import md5
+[Wed Apr 27 15:55:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 15:55:03 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 15:55:03 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 15:55:03 2011] [error]   import md5
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:22:30 2011] [error] Exception KeyError: KeyError(-1219287296,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 14:22:31 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 14:22:32 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 14:22:32 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 14:22:32 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 18:30:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 18:30:47 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 18:30:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 18:30:47 2011] [error]   import md5
+[Wed Apr 27 18:48:34 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:34 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:48:35 2011] [error] Exception KeyError: KeyError(-1219905792,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 14:48:36 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 14:48:37 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 14:48:37 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 14:48:37 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 18:52:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 18:52:47 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 18:52:47 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 18:52:47 2011] [error]   import md5
+[Wed Apr 27 18:53:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 18:53:13 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 18:53:13 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 18:53:13 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Error!
+[Wed Apr 27 14:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 14:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 18:58:44 2011] [error] Exception KeyError: KeyError(-1220253952,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 14:58:44 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 14:58:45 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 14:58:45 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 14:58:45 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 19:12:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 19:12:48 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 19:12:48 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 19:12:48 2011] [error]   import md5
+[Wed Apr 27 19:14:24 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 19:14:24 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 19:14:24 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 19:14:24 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Success!
+[Wed Apr 27 19:14:29 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 19:14:29 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 19:14:29 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 19:14:29 2011] [error]   import md5
+[Wed Apr 27 19:24:26 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 19:24:26 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 19:24:26 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 19:24:26 2011] [error]   import md5
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:30:30 2011] [error] Exception KeyError: KeyError(-1219660032,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:30:31 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 15:30:32 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 15:30:32 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 15:30:32 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 19:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:33:09 2011] [error] Exception KeyError: KeyError(-1219123456,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:33:10 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 15:33:10 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 15:33:10 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 15:33:10 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 15:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 19:55:57 2011] [error] Exception KeyError: KeyError(-1220303104,) in <module 'threading' from '/usr/lib/python2.6/threading.pyc'> ignored
+[Wed Apr 27 15:55:57 2011] [notice] caught SIGTERM, shutting down
+[Wed Apr 27 15:55:58 2011] [warn] module proxy_module is already loaded, skipping
+[Wed Apr 27 15:55:58 2011] [warn] module proxy_http_module is already loaded, skipping
+PHP Deprecated:  Comments starting with '#' are deprecated in /etc/php5/apache2/conf.d/mcrypt.ini on line 1 in Unknown on line 0
+[Wed Apr 27 15:55:58 2011] [notice] Apache/2.2.14 (Ubuntu) PHP/5.3.2-1ubuntu4.5 with Suhosin-Patch proxy_html/3.0.1 mod_wsgi/2.8 Python/2.6.5 configured -- resuming normal operations
+[Wed Apr 27 20:05:46 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 20:05:46 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 20:05:46 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 20:05:46 2011] [error]   import md5
+[Wed Apr 27 20:16:49 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 20:16:49 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 20:16:49 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 20:16:49 2011] [error]   import md5
+[Wed Apr 27 20:38:11 2011] [error] [client 61.19.246.169] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[Wed Apr 27 22:59:19 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 22:59:19 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 22:59:19 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 22:59:19 2011] [error]   import md5
+[Wed Apr 27 23:35:44 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 23:35:44 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 23:35:44 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 23:35:44 2011] [error]   import md5
+[Wed Apr 27 23:54:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 23:54:06 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 23:54:06 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 23:54:06 2011] [error]   import md5
+[Wed Apr 27 23:54:43 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Wed Apr 27 23:54:43 2011] [error]   import sha,base64,random,dispatcher,re
+[Wed Apr 27 23:54:43 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Wed Apr 27 23:54:43 2011] [error]   import md5
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+  import sha,base64,random,dispatcher,re
+/usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+  import md5
+/usr/lib/python2.6/dist-packages/xmpp/transports.py:308: DeprecationWarning: socket.ssl() is deprecated.  Use ssl.wrap_socket() instead.
+  tcpsock._sslObj    = socket.ssl(tcpsock._sock, None, None)
+Error!
+[Thu Apr 28 01:19:38 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Thu Apr 28 01:19:38 2011] [error]   import sha,base64,random,dispatcher,re
+[Thu Apr 28 01:19:38 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Thu Apr 28 01:19:38 2011] [error]   import md5
+[Thu Apr 28 01:20:27 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:24: DeprecationWarning: the sha module is deprecated; use the hashlib module instead
+[Thu Apr 28 01:20:27 2011] [error]   import sha,base64,random,dispatcher,re
+[Thu Apr 28 01:20:27 2011] [error] /usr/lib/python2.6/dist-packages/xmpp/auth.py:26: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+[Thu Apr 28 01:20:27 2011] [error]   import md5

@@ -1,0 +1,96 @@
+Origin: Canonical
+Label: Partner archive
+Suite: lucid
+Version: 10.04
+Codename: lucid
+Date: Fri, 15 Apr 2011 19:05:01 UTC
+Architectures: amd64 armel i386 ia64 powerpc sparc
+Components: partner
+Description: Ubuntu Lucid 10.04
+MD5Sum:
+ 98555ba3ef6d02cab7a847f65fba665a              110 partner/binary-amd64/Release
+ 72531253891aa61ba09fdbf6c057256f            44894 partner/binary-amd64/Packages
+ 84b90d81d7856755ad00388e949ff0f7            12048 partner/binary-amd64/Packages.gz
+ 6d958ff56fe471c5637d4c56334eb390            11819 partner/binary-amd64/Packages.bz2
+ b005b4847066df11f07f2feff644a5ab            16365 partner/binary-armel/Packages
+ b474f8b4fea3abf06af3b76613c90086             5763 partner/binary-armel/Packages.gz
+ 855aa7151f44adbd19f96eeb71f42bbf             5768 partner/binary-armel/Packages.bz2
+ 962a87b5642060bcdece7739f7873901              110 partner/binary-armel/Release
+ 1ab97f6d03aaed78aff029773c066d33            12796 partner/binary-i386/Packages.gz
+ 8e49f4ef3f8170cec7a432187c665d58            12512 partner/binary-i386/Packages.bz2
+ 13769de396dca5332bf83c490d69b823              109 partner/binary-i386/Release
+ 0ed8b48d4d2a3bc5d424b2fa8d8c783a            47067 partner/binary-i386/Packages
+ 79bf94ce7a73d917378baa74c3454614             5921 partner/binary-ia64/Packages.gz
+ c068924cbaf809f99db9e8367763f9a2             5963 partner/binary-ia64/Packages.bz2
+ 8ee761a2e265aaf0c1097a7c7d97872a              109 partner/binary-ia64/Release
+ f3de785554eb499eebb50c2a2306ba15            17472 partner/binary-ia64/Packages
+ fe144a2345e6bb469993614f1d5d7069              112 partner/binary-powerpc/Release
+ 018ef58f2514630a72392524607bff7f            16355 partner/binary-powerpc/Packages
+ b669d50f64be3f652a7e3e77f98b4c5d             5758 partner/binary-powerpc/Packages.gz
+ 9048671d1ec48ba34155c9f225ed8729             5761 partner/binary-powerpc/Packages.bz2
+ 547e63f71acf7ae7111964d6b994654a              110 partner/binary-sparc/Release
+ 625f0c6470bbb1b2836cf784e54702b0             5755 partner/binary-sparc/Packages.bz2
+ c7d69b2810b27f66ba6a9231bcae6434            16343 partner/binary-sparc/Packages
+ 5fff5e00b233ac72cd1aafea47ef0191             5760 partner/binary-sparc/Packages.gz
+ e349ed2c25d61c9d34dc0027710a9c7d             6085 partner/source/Sources.gz
+ ab101b0b95f90f0cc6ab4ab2e333bfc1             6048 partner/source/Sources.bz2
+ 0a437c8a5bfa101f5048f921012f829b              111 partner/source/Release
+ 5f9328dfc741cfaf2fa1021491815084            18674 partner/source/Sources
+SHA1:
+ 0d3fbd891ad4bd8caef23f6f61b426cfd8c81a23              110 partner/binary-amd64/Release
+ 40dc5c7253af84242a82ee1b242fb886dee175a7            44894 partner/binary-amd64/Packages
+ ec958fc8c9daf0632c7192e3263265d8e639a837            12048 partner/binary-amd64/Packages.gz
+ 9be06f32b94a849a41508596f1cb08718e3de1b8            11819 partner/binary-amd64/Packages.bz2
+ df6373ab2510794dd6cc59822435e0afc509bcf0            16365 partner/binary-armel/Packages
+ 4589e535c14e51993097c56c583fa65f8d412e45             5763 partner/binary-armel/Packages.gz
+ 8aac15c663406eab4a4484405e9562c1c97e1cf0             5768 partner/binary-armel/Packages.bz2
+ 967d3538c6abf65f68e26613a6d16f643d96fae5              110 partner/binary-armel/Release
+ 0bd19a91c5f7fca286cd491ba0bc23dd0617cc87            12796 partner/binary-i386/Packages.gz
+ b3545cc77d2432f14043d6411d6dc7e585e7f86e            12512 partner/binary-i386/Packages.bz2
+ 0cbc8e19f87425249fa6e741bb2f3edd4b4b77f8              109 partner/binary-i386/Release
+ 871134a144c8e058f00cbc856bce9f2ca0bdfebd            47067 partner/binary-i386/Packages
+ cd53f37538e24c4df0dc995e3553fc914f8e0bbe             5921 partner/binary-ia64/Packages.gz
+ c7b4dc7177f059e8ea2b9dd2414de0f76222841a             5963 partner/binary-ia64/Packages.bz2
+ 06e701327ea14dafdb37e1b6ef3d2f834f58a86e              109 partner/binary-ia64/Release
+ 12dc8861408dd6bf1ea98fb1237086159807f437            17472 partner/binary-ia64/Packages
+ 17a11a2686b506727dc2aea41ab92cdef0b2c694              112 partner/binary-powerpc/Release
+ 40df8f3f2aa3b096c37a46710b143f7122b9c634            16355 partner/binary-powerpc/Packages
+ 6e9f821150b7739680d50877dc978cead3a825e7             5758 partner/binary-powerpc/Packages.gz
+ a1d5bf5d924286e2150bdaf62970e9f925eeef57             5761 partner/binary-powerpc/Packages.bz2
+ 1573dde76f0709ccdfa2db8b32a114c5b5980948              110 partner/binary-sparc/Release
+ 5f5703f1b65c8ba76d979aefd533e235e8f52548             5755 partner/binary-sparc/Packages.bz2
+ 864282e20dab6b5654bb3c237765855424480ff3            16343 partner/binary-sparc/Packages
+ 6368c06a18474fce0ffd79c90ed3dca03d8f66be             5760 partner/binary-sparc/Packages.gz
+ ff69575b4ba154000c56808ca9f7e7a26179c817             6085 partner/source/Sources.gz
+ 89f25d600241d6513084e782c82455c93db01f6f             6048 partner/source/Sources.bz2
+ bf402432fb3779aa3632409fb65fc1ce975d5596              111 partner/source/Release
+ 4cbc9d5656437b72a9e89fb1929fe80303a3b10a            18674 partner/source/Sources
+SHA256:
+ 704ac555d506e912f87591e29c39c5a4487f155ae8ef03058f02602517873d7b              110 partner/binary-amd64/Release
+ 6fbe0b15ca4a3b36c3674957d9c6affa0dd9823cb606581ef0f9de29d3d3bcb3            44894 partner/binary-amd64/Packages
+ d5c7d8cb3bac906ecc4dfc4f001dcacc3840e9c570574ad3ac8b5195e6069c0a            12048 partner/binary-amd64/Packages.gz
+ 031a78a2b3e6b6045d4231166636f950050b5a00685816eaf67ca654a5607e93            11819 partner/binary-amd64/Packages.bz2
+ 781e4449f41c0d05fe8fa8820b784fe5d68b8fd390915821a79e211e32d116e1            16365 partner/binary-armel/Packages
+ 3a878f6dc9644dc31affa204d6a76228d2fd3e29f681bb53b476aee4ff2d6732             5763 partner/binary-armel/Packages.gz
+ d56b0faf1b2e32266c9af3989bc30758593c336693ca507bbc518fc1233c5389             5768 partner/binary-armel/Packages.bz2
+ 48df67e334c3f4cdf47bae495b93a4d107b9037428d57768f183af3e4c4a4ecb              110 partner/binary-armel/Release
+ 05ad6e727dc5c02560083dd74512e404738a0cb6ed6bed4c65e4837c9bbe9e5e            12796 partner/binary-i386/Packages.gz
+ 22aac6d8b433b3b9c8f4ba2045c007fb55a59de061b9b419d66da2fe90579b4a            12512 partner/binary-i386/Packages.bz2
+ af7b1ab46fa4fb8622f4d9c5f8817372e416580bd118eea11a79d79802f8ac33              109 partner/binary-i386/Release
+ ac8db721ede9b8c5d921e9429e0188a6bc2e78fe9cfcc8a0f5c217055cc56ca6            47067 partner/binary-i386/Packages
+ 26dff3b1cfd59dcc92847cbe3e350591dbe430b805b5abe178e7b7faf25e27e2             5921 partner/binary-ia64/Packages.gz
+ 40ed2abf9e627d095c79e767c963712706d33d9a16950bd8f13ef5403eb1abf5             5963 partner/binary-ia64/Packages.bz2
+ 198d8877d63a9ee2a63c3c6bda8f7ff63706ca55a4db46fdbac62d5b3f4be88d              109 partner/binary-ia64/Release
+ d448d68889ac37a155cd892574373f70fb2961ce7922cc4b842f925a99dee676            17472 partner/binary-ia64/Packages
+ 17ba27479710ea8fcb0743e59b6bc16f26a3500697a0a34f18eb2b5771c12a1a              112 partner/binary-powerpc/Release
+ 3158f6b22158c07f88058456cdd09c14bdcac1030b214b735a444702774caf31            16355 partner/binary-powerpc/Packages
+ 3a4f09a3eb6a9f2e6a927090aceab9ba15f838ca3f1049bb0e5e86cb4281ebb1             5758 partner/binary-powerpc/Packages.gz
+ 26c1721dfb02a4ea282548bf60649af3fadd1d9e68c038ba364410d1b710d917             5761 partner/binary-powerpc/Packages.bz2
+ 378e2a5eeb2e3bdb91e01e8a3972c6f8736ea8af904758cffd58d962f3e2bc43              110 partner/binary-sparc/Release
+ 38ed0ab9632e71771531c4717758ba01ce0c9a609f5ab28b0976365d4804f9c1             5755 partner/binary-sparc/Packages.bz2
+ d926de22f2aeca99f901b0e229a9e962e0a7505f7f9d00b96c77ad9da330f0a0            16343 partner/binary-sparc/Packages
+ 7257aa4c687985c56cd8710e59555de8e8e6144a74c8c60e15ced281905d5a1a             5760 partner/binary-sparc/Packages.gz
+ 0070c6a99b0c5e20b271121ca99d0ea34273e77d01823f536a9d02c9bd6069c1             6085 partner/source/Sources.gz
+ c939444bc73137a7fa1e496c307e7e7ad31f3f0a11ed3979dddc2d996f35f29d             6048 partner/source/Sources.bz2
+ 04350a949ee756879bc6b839e441f7a596f3365635adcb6b9d1ec1e740674118              111 partner/source/Release
+ a774757b70e93d82b7cfd2af71564a98f124e047264cd0506f0a597c3a63248c            18674 partner/source/Sources

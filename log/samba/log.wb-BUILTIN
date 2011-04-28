@@ -1,0 +1,6 @@
+[2011/01/11 12:48:46,  0] winbindd/winbindd.c:190(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)
+[2011/02/13 11:38:43,  0] winbindd/winbindd.c:190(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)
+[2011/04/25 11:50:49,  0] winbindd/winbindd.c:190(winbindd_sig_term_handler)
+  Got sig[15] terminate (is_parent=0)

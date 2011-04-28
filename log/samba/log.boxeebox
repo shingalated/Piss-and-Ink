@@ -1,0 +1,32 @@
+[2011/01/14 21:34:41,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/14 21:34:41,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = No route to host.
+[2011/01/20 19:13:53,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/20 19:13:53,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/20 20:01:56,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/20 20:01:56,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/21 19:35:36,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/21 19:35:36,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/22 15:52:16,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/22 15:52:16,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/05 11:18:47,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/05 11:18:47,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/14 07:36:02,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/14 07:36:02,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = No route to host.
+[2011/02/15 17:35:47,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/15 17:35:47,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = No route to host.

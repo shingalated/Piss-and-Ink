@@ -1,0 +1,3 @@
+libgtrtst 1 unixodbc
+libodbc 1 unixodbc
+libodbccr 1 unixodbc

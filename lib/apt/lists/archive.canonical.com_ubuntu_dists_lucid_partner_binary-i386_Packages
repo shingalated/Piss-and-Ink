@@ -1,0 +1,1012 @@
+Package: swftools
+Source: swftools
+Priority: extra
+Section: utils
+Installed-Size: 6776
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 0.9.0-0ubuntu2
+Replaces: libming-util (<= 1:0.3.0-11.1)
+Suggests: gs-common
+Depends: libart-2.0-2 (>= 2.3.18), libc6 (>= 2.7), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgif4 (>= 4.1.4), libjpeg62, libstdc++6 (>= 4.1.1), zlib1g (>= 1:1.1.4), gsfonts
+Conflicts: libming-util (<= 1:0.3.0-11.1)
+Filename: pool/partner/s/swftools/swftools_0.9.0-0ubuntu2_i386.deb
+Size: 3073456
+MD5sum: f6daa68dea49d0927b8824b52f22f3e9
+SHA1: 7f1aa9b625bbb3a8898fbc8c8b87fe5a177cbcc7
+Description: Collection of utilities for SWF file manipulation/creation
+ SWF Tools is a collection of SWF (Flash) manipulation and creation utilities.
+ .
+ This package includes: pdf2swf, jpeg2swf, png2swf, gif2swf, font2swf,
+ wav2swf, swfcombine, swfextract, swfdump, swfstrings, swfbbox and swfc.
+ .
+ * pdf2swf is a PDF to SWF Converter. It generates one frame per page and
+ enables you to have fully formatted text, including tables, formulas etc.
+ inside your Flash Movie. It's based on the xpdf PDF parser from
+ Derek B. Noonburg.
+ * jpeg2swf takes one or more JPEG pictures and generates an SWF slideshow.
+ * png2swf takes one or more PNG pictures and generates an SWF slideshow.
+ * gif2swf converts GIFs into SWF. It is also able to handle animated gifs.
+ * font2swf converts font files (TTF, Type1) into SWF.
+ * wav2swf converts WAV files into SWF.
+ * swfcombine is a tool for inserting SWFs into Wrapper SWFs. (Templates)
+ E.g. for including the pdf2swf SWFs into some sort of Browsing-SWF.
+ * swfextract allows to extract Movieclips, Sounds, Images etc. from SWF
+ files.
+ * swfdump prints out various information about SWFs.
+ * swfstrings scans SWFs for text data.
+ * swfbbox allows to readjust SWF bounding boxes.
+ * swfc is a tool for creating SWF files from simple script files.
+
+Package: python-rfxswf
+Source: swftools
+Priority: extra
+Section: python
+Installed-Size: 556
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 0.9.0-0ubuntu2
+Replaces: python2.4-rfxswf (<< 0.8.1-2)
+Provides: python2.6-rfxswf
+Depends: python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0), libc6 (>= 2.4), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libgif4 (>= 4.1.4), libjpeg62, zlib1g (>= 1:1.1.4), python-imaging (>= 1.1.5-11)
+Filename: pool/partner/s/swftools/python-rfxswf_0.9.0-0ubuntu2_i386.deb
+Size: 221002
+MD5sum: e863993235546699c496ecc74173f0ff
+SHA1: cc98830da52183eddb66bff7b27616f62ae3e114
+Description: Python wrapper for the rfxswf library
+ RFXSWF library is a fully featured library which can be used for standalone
+ SWF generation. It includes support for Bitmaps, Buttons, Shapes, Text, Fonts,
+ Sound etc. It also has support for ActionScript using the Ming ActionCompiler.
+ .
+ This is the wrapper for using the rfxswf library from the Python scripting
+ language. The rfxswf library is in the librfxswf-dev package.
+
+Package: librfxswf-dev
+Source: swftools
+Priority: extra
+Section: libdevel
+Installed-Size: 1368
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 0.9.0-0ubuntu2
+Depends: libfontconfig1-dev (>= 2.4.2), libfreetype6-dev (>= 2.2.1), libjpeg62-dev (>= 6b-13), libgif-dev (>= 4.1.4), libt1-dev (>= 5.1.0), zlib1g-dev (>= 1:1.2.3)
+Filename: pool/partner/s/swftools/librfxswf-dev_0.9.0-0ubuntu2_i386.deb
+Size: 421874
+MD5sum: bab062d16c0c79a4ab2735ac80951e14
+SHA1: 69c1d8dc1f10bb05f4fe516182df281472463ecf
+Description: RFXSWF library for SWF (Flash) generation
+ RFXSWF library is a fully featured library which can be used for standalone
+ SWF generation. It includes support for Bitmaps, Buttons, Shapes, Text, Fonts,
+ Sound etc. It also has support for ActionScript using the Ming ActionCompiler.
+ .
+ This package includes the static library and the header files.
+ .
+ There is also a wrapper for using the rfxswf library from the Python scripting
+ language. The wrapper is in the python2.x-rfxswf package.
+
+Package: gstreamer0.10-fluendo-plugins-mp3-partner
+Source: gstreamer0.10-fluendo-plugins-partner
+Priority: extra
+Section: sound
+Installed-Size: 256
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 7.0.20100316-3
+Replaces: gstreamer0.10-fluendo-mp3, gstreamer0.10-fluendo-plugins, gstreamer0.10-fluendo-plugins-mp3, gstreamer0.10-fluendo-plugins-offline
+Provides: gstreamer0.10-fluendo-mp3, gstreamer0.10-fluendo-plugins-mp3
+Depends: libc6 (>= 2.4), libglib2.0-0 (>= 2.12.0), libgstreamer0.10-0 (>= 0.10.0), libxml2 (>= 2.6.27), zlib1g (>= 1:1.1.4), debconf (>= 0.5) | debconf-2.0, gstreamer0.10-plugins-base (>= 0.10.14)
+Conflicts: gstreamer0.10-fluendo-mp3, gstreamer0.10-fluendo-plugins, gstreamer0.10-fluendo-plugins-mp3, gstreamer0.10-fluendo-plugins-offline
+Pre-Depends: debconf
+Filename: pool/partner/g/gstreamer0.10-fluendo-plugins-partner/gstreamer0.10-fluendo-plugins-mp3-partner_7.0.20100316-3_i386.deb
+Size: 92048
+MD5sum: 478ec57fd9233c5400a8c9784a27659d
+SHA1: 2282a621166a18b1565c306c961a8ada2346ad99
+Description: MP3 codec support for GStreamer
+ The GStreamer multimedia framework is being used in more and more systems,
+ ranging from server media processing systems, end-user desktops and various
+ embedded and mobile devices. The Fluendo Plugins are a set of plugins for
+ GStreamer which implement support for various media formats and hardware.
+ These plugins give you an opportunity to quickly and easily add proprietary
+ support to their GStreamer-based products.
+ .
+ This package contains an enhanced mp3 codec.
+
+Package: adobeair
+Source: adobeair
+Priority: extra
+Section: utils
+Installed-Size: 45772
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 1:2.6.0.19120-0lucid1
+Depends: libatk1.0-0 (>= 1.20.0), libc6 (>= 2.7), libcairo2 (>= 1.6.0), libdbus-1-3 (>= 1.1.1), libfontconfig1 (>= 2.4.0), libfreetype6 (>= 2.3.5), libgcc1 (>= 1:4.1.1-21), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.12.0), libhal1 (>= 0.5.8.1), libpango1.0-0 (>= 1.20.5), libpng12-0 (>= 1.2.13-4), libstdc++6 (>= 4.1.1-21), libx11-6, libxext6, libxml2 (>= 2.6.27), libxrender1, libxslt1.1 (>= 1.1.20), libxt6, zlib1g (>= 1:1.2.3.3.dfsg-1), libgnome-keyring0 | kwalletmanager
+Conflicts: adobeair1.0
+Pre-Depends: lzma
+Filename: pool/partner/a/adobeair/adobeair_2.6.0.19120-0lucid1_i386.deb
+Size: 14700410
+MD5sum: 83153cd4efd11550546abe02f972d4d7
+SHA1: 0979270c29d57622758a2afc67f23a1ce019e842
+Description: runtime for rich Internet applications
+ The Adobe® AIR® runtime lets developers use proven web technologies to build
+ rich Internet applications that run outside the browser on multiple
+ operating systems.
+
+Package: canonical-census
+Source: canonical-census
+Priority: extra
+Section: admin
+Installed-Size: 64
+Maintainer: Martin Pitt <martin.pitt@canonical.com>
+Architecture: all
+Version: 0.1
+Depends: cron, wget
+Filename: pool/partner/c/canonical-census/canonical-census_0.1_all.deb
+Size: 2622
+MD5sum: 3c3fd82ce7e3fb4f4f5ff421cf15e476
+SHA1: bae118b7c2c91af90661f645ff15d9d9d95af97c
+Description: send "I am alive" ping to Canonical
+ This package installs a daily cron job for surveying how many original OEM
+ installs are running in the world. Note that this does not send any
+ user specific data; it only transmits the operating system version
+ (/var/lib/ubuntu_dist_channel), the machine product name, and a counter how
+ many pings were sent.
+
+Package: db2exc
+Source: db2exc
+Priority: optional
+Section: devel
+Installed-Size: 745996
+Maintainer: DB2 Express-C Community <askdata@ca.ibm.com>
+Architecture: i386
+Version: 9.7.2-10
+Depends: libc6 (>= 2.3.6-6~), libgcc1 (>= 1:4.1.1), libncurses5 (>= 5.6+20071006-3), libstdc++6 (>= 4.1.1), adduser, bc, ksh, libaio1, libx11-dev, libasound2-dev
+Filename: pool/partner/d/db2exc/db2exc_9.7.2-10_i386.deb
+Size: 302733014
+MD5sum: 078a4cbb6353edc489a6fe8eec8ac53f
+SHA1: 65cd2c3e818024a6d20603bf58cab0c6975483e7
+Description: DB2 Express-C Edition 9.7 FP 2 for Linux
+ For more information, visit www.ibm.com/linux/db2
+
+Package: openbravo-erp
+Source: openbravo-erp-openjdk
+Priority: extra
+Section: web
+Installed-Size: 1117456
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: all
+Version: 2.50MP-25EU1-1lucid1
+Depends: openjdk-6-jdk, postgresql, postgresql-contrib, postgresql-client, ant, ant-optional, tomcat6-common, apache2, libapache2-mod-jk, libtcnative-1, adduser
+Filename: pool/partner/o/openbravo-erp-openjdk/openbravo-erp_2.50MP-25EU1-1lucid1_all.deb
+Size: 121446200
+MD5sum: 3a0b1b66b99f0c2849efb60b98478d32
+SHA1: 2e34c32d782adc595c3037951ad14b01496509cb
+Description: Enterprise Resource Planning solution
+ Openbravo is "Everyone's ERP"--a comprehensive, ready to use, web-based open
+ source business management solution that automates all of the core business
+ processes for small and medium-sized companies, ranging from accounting and
+ financial management, to sales, purchasing, inventory management and more.
+ .
+ Written in Java and offering a choice between Oracle and PostgreSQL
+ as database, Openbravo is model-driven, allowing easy extension and
+ configuration of the system. The simple, powerful, and consistent browser
+ screens do not require any client software installation, are intuitive for
+ users to learn, and designed for efficient daily use. The comprehensive
+ web service coverage enables easy integration with other applications.
+ .
+ Openbravo ERP is the foundation of a global ecosystem that is changing the
+ way ERP solutions are developed, marketed, and consumed. Its modular
+ architecture enables easy creation and deployment of native third
+ party extensions, and Openbravo ERP users can complement the core
+ functionality, choosing from an ever increasing portfolio of modules
+ providing localization capabilities, additional functions and vertical
+ specialization. The Openbravo ERP ecosystem provides packaged solutions to
+ support all the core business processes shared by most companies, enabling
+ Openbravo users to quickly realize the benefits of implementing an ERP and
+ allowing them to focus their implementation efforts on the processes that
+ provide a true competitive advantage.
+ .
+ Openbravo Community Edition on Ubuntu is a free and fully functional
+ ERP, ready for production usage. Organizations wishing to maximize the
+ benefits of their ERP system can also easily activate a Professional
+ Edition subscription and enjoy: Full support for both the application and
+ technology stack Premium functionality Access to a broader portfolio of
+ extensions, including commercial modules and solutions. Get started now,
+ and become part of Openbravo's global vision of "Opening ERP's Future".
+
+Package: arkwui
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 46540
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.11), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), arkeia
+Filename: pool/partner/a/arkeia/arkwui_8.2.10-1_i386.deb
+Size: 9314642
+MD5sum: 6e4db7e86adaf34fbbb191c01b5fa8ff
+SHA1: a076d226c64c904d2cecfffed7dc3e47a2c6f12a
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+ .
+ This package provides a web interface for Arkeia network backup.
+
+Package: arkppostgres
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 444
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.7), libpq5 (>= 8.4~0cvs20090328), arkeia
+Filename: pool/partner/a/arkeia/arkppostgres_8.2.10-1_i386.deb
+Size: 142334
+MD5sum: 3e2b1beff2cabb695ef0d5dd9803f6f4
+SHA1: 6cbea8e31c31e4ee52b977713308a56d0350f9ea
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+ .
+ This package provides postgres support for Arkeia network backup.
+
+Package: arkpmysql
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 504
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.7), arkeia
+Filename: pool/partner/a/arkeia/arkpmysql_8.2.10-1_i386.deb
+Size: 158764
+MD5sum: 866c184c87291fd8a87251413ee090d8
+SHA1: 7a8f73bf29e9c6e44f8a1329d97903535cac9c45
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+ .
+ This package provides MySQL support for Arkeia network backup.
+
+Package: arkpldap
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 452
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.7), libldap-2.4-2 (>= 2.4.7), arkeia
+Filename: pool/partner/a/arkeia/arkpldap_8.2.10-1_i386.deb
+Size: 144066
+MD5sum: 31fa47c5033681776d5d249f5302dad2
+SHA1: 2bd3f9589b4dbedc646ace3a3600938b1862757f
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+ .
+ This package provides ldap support for Arkeia network backup.
+
+Package: arkobk
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 1244
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.7), arkeia
+Filename: pool/partner/a/arkeia/arkobk_8.2.10-1_i386.deb
+Size: 377972
+MD5sum: 7265630bb492c2729e84876f87ef8a1f
+SHA1: 17d700c1819f59909c8f879685b5a350904ab63a
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+ .
+ This package provides Oracle RMAN support for Arkeia network backup.
+
+Package: arkeia
+Source: arkeia
+Priority: extra
+Section: utils
+Installed-Size: 28684
+Maintainer: Arkeia Software <packager@arkeia.com>
+Architecture: i386
+Version: 8.2.10-1
+Depends: libc6 (>= 2.8), libxml2 (>= 2.7.4)
+Filename: pool/partner/a/arkeia/arkeia_8.2.10-1_i386.deb
+Size: 9389886
+MD5sum: 12141734538a386b72d8cae50be26c81
+SHA1: 1a84ac076685fca8f13fd9530adb35f0aebe0bf7
+Description: Enterprise network backup
+ Arkeia - Professional Network Backup.
+ .
+ Arkeia utilizes an exclusive multi-flow technology to deliver speeds that
+ are 200 to 300 percent faster than rival software packages. Its unique
+ transaction engine allows multiple backup and restore operations to be
+ performed simultaneously with total reliability.
+ .
+ Arkeia's interface enables the system administrator to manage multiple
+ remote backup servers through internet as if they were local. Arkeia is the
+ most reliable software you can find. It has a powerful database capable of
+ restoring sites to their original state, in the case of disasters.
+ .
+ Arkeia integrates with all types of corporate environments and is available
+ for UNIX or Windows NT servers. Arkeia is compatible with a wide range of
+ devices and provides "plug and play" solution for effective data security.
+
+Package: centrifydc
+Source: centrifydc
+Priority: optional
+Section: admin
+Installed-Size: 20048
+Maintainer: Centrify Corporation <support@centrify.com>
+Architecture: i386
+Version: 4.4.2-310-0ubuntu1
+Depends: libc6 (>= 2.9), libgcc1 (>= 1:4.1.1), libpam0g (>= 0.99.7.1), libstdc++6 (>= 4.1.1), libuuid1 (>= 2.16), debianutils (>= 3)
+Conflicts: centrifydc-apache (<< 4.1.0), centrifydc-idmap, centrifydc-krb5 (<< 4.2.0), centrifydc-nis (<< 4.0.0), centrifydc-samba (<< 3.0.26a-4.0.0.000), centrifydc-web (<< 4.1.0)
+Filename: pool/partner/c/centrifydc/centrifydc_4.4.2-310-0ubuntu1_i386.deb
+Size: 7673424
+MD5sum: 390efefcc460e5fba90af86a7706662a
+SHA1: 2aa0ce7bba2239f2a33149fce23e9ae832a3a59c
+Description: Centrify Express
+ Free Active Directory Integration and single sign-on for Ubuntu - Centrify
+ Express is the No. 1 choice of IT professionals for Active Directory-based
+ authentication and single sign-on to cross-platform systems.
+ .
+ Centrify Express is not only the quickest and easiest solution to use and
+ deploy for integrating Ubuntu systems with Active Directory, but delivers more
+ functionality and more to upgrade to than alternative offerings.  And best of
+ all - it is free! For more free tools, information and community support check
+ out http://www.centrify.com/express
+
+Package: zarafa-webaccess-muc
+Source: zarafa
+Priority: optional
+Section: web
+Installed-Size: 228
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: all
+Version: 6.40.5-24860-lucid~2
+Depends: zarafa-webaccess
+Filename: pool/partner/z/zarafa/zarafa-webaccess-muc_6.40.5-24860-lucid~2_all.deb
+Size: 39232
+MD5sum: 6a6ed20bcdca991393fa58056d1ae449
+SHA1: 3528ab6da35b387e080b8dbf7675168f7f41f293
+Description: Multi-user calendar component for Zarafa webaccess
+ In this calendar you can add multiple users to get an overview of all
+ meetings for easy planning.
+
+Package: zarafa-webaccess-mobile
+Source: zarafa
+Priority: optional
+Section: web
+Installed-Size: 660
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: all
+Version: 6.40.5-24860-lucid~2
+Depends: zarafa-libs (>= 6.40.5-24860-lucid~2), apache2 | apache-ssl | apache-perl | apache | httpd, libapache2-mod-php5 | libapache-mod-php5 | php5-cgi, smarty
+Filename: pool/partner/z/zarafa/zarafa-webaccess-mobile_6.40.5-24860-lucid~2_all.deb
+Size: 70208
+MD5sum: be71050e6a02777a580407ecda6882ba
+SHA1: e052c5281df32a089fa297018601a047ee626f65
+Description: Webaccess for Zarafa for mobile devices
+ View your e-mail, calendar and contacts via your mobile device. This
+ webaccess has a text interface only, and allows users to create
+ simple mails, appointments, contacts and tasks.
+
+Package: zarafa-webaccess
+Source: zarafa
+Priority: optional
+Section: web
+Installed-Size: 7820
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: all
+Version: 6.40.5-24860-lucid~2
+Depends: zarafa-libs (>= 6.40.5-24860-lucid~2), apache2 | apache-ssl | apache-perl | apache | httpd, libapache2-mod-php5 | libapache-mod-php5 | php5-cgi
+Filename: pool/partner/z/zarafa/zarafa-webaccess_6.40.5-24860-lucid~2_all.deb
+Size: 1448264
+MD5sum: b6a9cd5a83d97ed7047de268e6084022
+SHA1: ad21821a474167fca65ab3c4672da837c97074c7
+Description: Webaccess for Zarafa
+ View your e-mail, calendar and contacts via a webbrowser. This
+ webaccess using AJAX technology, to give a more interactive feel to
+ the user.
+
+Package: zarafa-python
+Source: zarafa
+Priority: optional
+Section: python
+Installed-Size: 1084
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libpython2.6 (>= 2.6), libstdc++6 (>= 4.1.1), libuuid1 (>= 2.16), zarafa-libs, zlib1g (>= 1:1.1.4), zarafa (= 6.40.5-24860-lucid~2), python (>= 2.5), python-support
+Filename: pool/partner/z/zarafa/zarafa-python_6.40.5-24860-lucid~2_i386.deb
+Size: 299758
+MD5sum: cef26ee9e65f7825ba20a979f4c32af5
+SHA1: 0598ef4d2bfec100ee43e7ae8ae2fb4716e87b52
+Description: Python MAPI bindings
+ Using this module, you can create python programs which use MAPI
+ calls to interact with Zarafa.
+
+Package: zarafa-licensed
+Source: zarafa
+Priority: extra
+Section: mail
+Installed-Size: 828
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Depends: libc6 (>= 2.7), libcurl3 (>= 7.16.2-1), libgcc1 (>= 1:4.1.1), libldap-2.4-2 (>= 2.4.7), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.4.0), libuuid1 (>= 2.16), zarafa-libs, zlib1g (>= 1:1.1.4), zarafa (= 6.40.5-24860-lucid~2)
+Filename: pool/partner/z/zarafa/zarafa-licensed_6.40.5-24860-lucid~2_i386.deb
+Size: 280164
+MD5sum: cbf30f94628a2e9f25fbd9a3e4138869
+SHA1: 8bf8ebf511d1d1e37decf689e70196485b13f2cb
+Description: Licensed services for Zarafa
+ Zarafa licensed adds a licensing daemon, so you may connect your
+ Microsoft Outlook clients to the Zarafa server. It also provides a
+ brick-level backup and restore program, and gives access to advanced
+ features of the webaccess.
+ .
+ Without a valid license key, this daemon gives free access for up
+ to 3 users to connect from Microsoft Outlook.
+
+Package: zarafa-libs
+Source: zarafa
+Priority: optional
+Section: mail
+Installed-Size: 6656
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Recommends: zarafa-webaccess
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libical0 (>= 0.42), libldap-2.4-2 (>= 2.4.7), libmysqlclient16 (>= 5.1.21-1), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.4.0), libuuid1 (>= 2.16), zlib1g (>= 1:1.2.3.3.dfsg), phpapi-20090626+lfs
+Conflicts: libvmime0
+Filename: pool/partner/z/zarafa/zarafa-libs_6.40.5-24860-lucid~2_i386.deb
+Size: 2357034
+MD5sum: cd9c86cc2f372759ac6f5e506ebd81a4
+SHA1: 1ae292602ff18edaf12b8c947aa3150f6c9c03fd
+Description: Shared libraries for Zarafa Outlook Sharing
+ Libraries which are required for Zarafa. This includes the correct
+ versions of libvmime (and libical for hardy).
+
+Package: zarafa-indexer
+Source: zarafa
+Priority: optional
+Section: mail
+Installed-Size: 2064
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Recommends: zarafa
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.4.0), libuuid1 (>= 2.16), zarafa-libs, zlib1g (>= 1:1.1.4), lsb-base, gawk, lynx, xsltproc, poppler-utils, unzip, file, catdoc
+Filename: pool/partner/z/zarafa/zarafa-indexer_6.40.5-24860-lucid~2_i386.deb
+Size: 601244
+MD5sum: 50c1c7781f03fcdb6461c0d2aaf31a95
+SHA1: 4a4ff73fd767afabaaedbe289e176377ae7db1b6
+Description: Indexer for Zarafa Outlook Sharing for fast searching
+ Using CLucene, this service will create an index for your Zarafa
+ server. Users will be able to search faster through their mail, and
+ will be able to find attachments as well.
+
+Package: zarafa-dev
+Source: zarafa
+Priority: extra
+Section: mail
+Installed-Size: 3132
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Depends: zarafa (= 6.40.5-24860-lucid~2)
+Conflicts: libvmime-dev
+Filename: pool/partner/z/zarafa/zarafa-dev_6.40.5-24860-lucid~2_i386.deb
+Size: 617514
+MD5sum: dbc75522d851ba94c0852b96dc1ec67f
+SHA1: e63ada8b00437486497431f56e4d34558a957f61
+Description: C++ Development files for Zarafa
+ Development files to create MAPI programs under Linux for use with
+ Zarafa. You can find examples and documentation on the website
+ http://developer.zarafa.com/
+
+Package: zarafa-dbg
+Source: zarafa
+Priority: extra
+Section: debug
+Installed-Size: 41848
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Depends: zarafa (= 6.40.5-24860-lucid~2)
+Filename: pool/partner/z/zarafa/zarafa-dbg_6.40.5-24860-lucid~2_i386.deb
+Size: 14407542
+MD5sum: f263a7cfb3a1fa14b1e47654b960cf13
+SHA1: e1a9456314bb36a8ca075e59cc0b650be56fa30b
+Description: Open Source Zarafa Outlook Sharing server (debug version)
+ Zarafa Outlook Sharing with debug symbols
+
+Package: zarafa
+Source: zarafa
+Priority: optional
+Section: mail
+Installed-Size: 6284
+Maintainer: John van der Kamp <j.vdkamp@zarafa.com>
+Architecture: i386
+Version: 6.40.5-24860-lucid~2
+Recommends: zarafa-webaccess, mysql-server-5.0
+Depends: libc6 (>= 2.4), libcomerr2 (>= 1.01), libgcc1 (>= 1:4.1.1), libgssapi-krb5-2 (>= 1.8+dfsg), libk5crypto3 (>= 1.6.dfsg.2), libkrb5-3 (>= 1.6.dfsg.2), libmysqlclient16 (>= 5.1.21-1), libncurses5 (>= 5.6+20071006-3), libpam0g (>= 0.99.7.1), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.4.0), libuuid1 (>= 2.16), libxml2 (>= 2.7.4), zarafa-libs (= 6.40.5-24860-lucid~2), zlib1g (>= 1:1.2.3.3.dfsg), locales
+Filename: pool/partner/z/zarafa/zarafa_6.40.5-24860-lucid~2_i386.deb
+Size: 2093960
+MD5sum: ad7894141cf8b9058588d933720910c1
+SHA1: 71c432ae6c2d3a8b49dc8c8c661dfc09c63b902c
+Description: Open Source Zarafa Outlook Sharing server
+ Allows you to share e-mail and calendars via Outlook, on your PDA or
+ through our Webaccess.
+ .
+ The Zarafa Webaccess features the familiar Outlook 'Look & Feel'
+ interface, and you can keep using the features in Outlook that have
+ always allowed you to work efficiently; Opening your colleague's
+ calendar or sending a meeting request is a piece of cake.
+
+Package: acroread
+Source: acroread
+Priority: extra
+Section: text
+Installed-Size: 149020
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 9.4.2-0lucid1
+Replaces: acroread-debian-files, adobereader-deu, adobereader-enu, adobereader-fr, adobereader-ja
+Suggests: libldap2, libgnome-speech7
+Provides: adobereader-enu, pdf-viewer
+Depends: libatk1.0-0 (>= 1.29.3), libc6 (>= 2.3.6-6~), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgl1-mesa-glx | libgl1, libglib2.0-0 (>= 2.12.0), libglu1-mesa | libglu1, libgtk2.0-0 (>= 2.8.0), libidn11 (>= 1.13), libpango1.0-0 (>= 1.14.0), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.1.1), libx11-6 (>= 0), libxext6, libxml2 (>= 2.6.27), libxt6, zlib1g (>= 1:1.1.4), lsb-release
+Conflicts: acroread-debian-files, adobereader-deu, adobereader-enu, adobereader-fr, adobereader-ja
+Filename: pool/partner/a/acroread/acroread_9.4.2-0lucid1_i386.deb
+Size: 63463128
+MD5sum: 3aae90b154bb19ddaa36b7dac5942c46
+SHA1: 55ee785e7b373eb52bbe7d3264c9a2a0f5e6cb02
+Description: Adobe Reader
+ Adobe Reader allows you to view navigate and print PDF files. This version
+ adds advanced forms support (save), better integration with Adobe Acrobat
+ workflows, customizable toolbars and better overall performance.
+
+Package: adobereader-deu
+Source: adobereader-deu
+Priority: extra
+Section: text
+Installed-Size: 161032
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 9.4.2-0lucid1
+Replaces: acroread, acroread-debian-files, acroread-deu, adobereader-fr, adobereader-ja
+Suggests: libldap2, libgnome-speech7
+Provides: acroread, acroread-deu, pdf-viewer
+Depends: libatk1.0-0 (>= 1.29.3), libc6 (>= 2.3.6-6~), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgl1-mesa-glx | libgl1, libglib2.0-0 (>= 2.12.0), libglu1-mesa | libglu1, libgtk2.0-0 (>= 2.8.0), libidn11 (>= 1.13), libpango1.0-0 (>= 1.14.0), libssl0.9.8 (>= 0.9.8k-1), libstdc++6 (>= 4.1.1), libx11-6 (>= 0), libxext6, libxml2 (>= 2.6.27), libxt6, zlib1g (>= 1:1.1.4), debconf
+Conflicts: acroread, acroread-debian-files, acroread-deu, adobereader-fr, adobereader-ja
+Filename: pool/partner/a/adobereader-deu/adobereader-deu_9.4.2-0lucid1_i386.deb
+Size: 69669324
+MD5sum: ca6f780e3fafda140f50f5143a84a8f4
+SHA1: 869dd65f0f51884d99c0ab85fa4c9d64d2fc33f4
+Description: Adobe Reader
+ Adobe Reader allows you to view navigate and print PDF files. This version
+ adds advanced forms support (save), better integration with Adobe Acrobat
+ workflows, customizable toolbars and better overall performance.
+
+Package: adobe-flashplugin
+Source: adobe-flashplugin
+Priority: optional
+Section: web
+Installed-Size: 11948
+Maintainer: DL-Flash Player Ubuntu <FlashPlayerUbuntu@adobe.com>
+Architecture: i386
+Version: 10.2.159.1-0lucid1
+Replaces: flashplugin (<< 6)
+Suggests: firefox, konqueror-nsplugins, x-ttcidfont-conf, msttcorefonts, ttf-bitstream-vera | ttf-dejavu, ttf-xfree86-nonfree, xfs (>= 1:1.0.1-5), libnspr4-0d, libnss3-1d
+Provides: flashplugin-nonfree
+Depends: debconf | debconf-2.0, wget, fontconfig, libatk1.0-0 (>= 1.29.3), libc6 (>= 2.4), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.14.0), libpango1.0-0 (>= 1.14.0), libx11-6 (>= 0), libxext6, libxt6
+Conflicts: flashplayer-mozilla, flashplugin (<< 6), flashplugin-installer, xfs (<< 1:1.0.1-5)
+Filename: pool/partner/a/adobe-flashplugin/adobe-flashplugin_10.2.159.1-0lucid1_i386.deb
+Size: 4939606
+MD5sum: f242c4dd94646429c90f5eb951f17817
+SHA1: 3179cc5c45a0b389c1bc88e0e5bfe4c7a6a306a5
+Description: Adobe Flash Player plugin version 10
+ This package will download the Flash Player from Adobe. It is a
+ Netscape/Mozilla type plugin. Any browser based on Netscape or Mozilla can use
+ the Flash plugin. This package officially supports the following browsers:
+ .
+ Firefox 2.x, Firefox 3.x, SeaMonkey 1.11
+Npp-File: libflashplayer.so
+Npp-Mimetype: application/x-shockwave-flash
+Npp-Applications: ec8030f7-c20a-464f-9b0e-13a3a9e97384, 92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a, aa5ca914-c309-495d-91cf-3141bbb04115
+Npp-Description: Adobe Flash Plugin (http://www.adobe.com)
+Npp-Name: Adobe Flash Plugin
+
+Package: sun-java6-source
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 18712
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 6.24-1build0.10.04.1
+Replaces: sun-java6-src
+Depends: sun-java6-jdk (>= 6.24-1build0.10.04.1)
+Conflicts: sun-java6-src
+Filename: pool/partner/s/sun-java6/sun-java6-source_6.24-1build0.10.04.1_all.deb
+Size: 17916678
+MD5sum: 9f7d15a3f45293355fcc0b7a35b39f01
+SHA1: a2cae01ab6443ab9b2f2669e5a30286ef62253ef
+Description: Sun Java(TM) Development Kit (JDK) 6 source files
+ The JDK(TM) is a development environment for building applications,
+ applets, and components using the Java programming language.
+ .
+ This package contains the Java programming language source
+ files (src.zip) for all classes that make up the Java core API.
+
+Package: sun-java6-plugin
+Source: sun-java6
+Priority: optional
+Section: web
+Installed-Size: 60
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: i386
+Version: 6.24-1build0.10.04.1
+Depends: libasound2, libx11-6, libxext6, libxi6, libxtst6, sun-java6-bin (>= 6.24-1build0.10.04.1), firefox | firefox-2 | iceweasel | mozilla-firefox | iceape-browser | mozilla-browser | epiphany-gecko | epiphany-webkit | epiphany-browser | galeon | midbrowser | moblin-web-browser | xulrunner | xulrunner-1.9 | konqueror | chromium-browser | midori | google-chrome
+Filename: pool/partner/s/sun-java6/sun-java6-plugin_6.24-1build0.10.04.1_i386.deb
+Size: 1862
+MD5sum: 850ab3d23f5135a99ab0df2fff76cf07
+SHA1: a8c3044b3e5f9d426d9cc0ca9f07acfbdbc20597
+Description: The Java(TM) Plug-in, Java SE 6
+ Java Plug-in enables applets written to the Java Platform 6
+ specification to be run in Mozilla and other web browsers.
+ Java Plug-in comes with the Java Runtime Environment (JRE).
+ .
+ This is a metapackage containing dependencies for running Java in
+ various browsers.
+Npp-Mimetype: application/x-java-vm, application/x-java-applet, application/x-java-applet;version=1.1, application/x-java-applet;version=1.1.1, application/x-java-applet;version=1.1.2, application/x-java-applet;version=1.1.3, application/x-java-applet;version=1.2, application/x-java-applet;version=1.2.1, application/x-java-applet;version=1.2.2, application/x-java-applet;version=1.3, application/x-java-applet;version=1.3.1, application/x-java-applet;version=1.4, application/x-java-applet;version=1.4.1, application/x-java-applet;version=1.4.2, application/x-java-applet;version=1.5, application/x-java-applet;version=1.6, application/x-java-applet;jpi-version=1.6.0_07, application/x-java-bean, application/x-java-bean;version=1.1, application/x-java-bean;version=1.1.1, application/x-java-bean;version=1.1.2, application/x-java-bean;version=1.1.3, application/x-java-bean;version=1.2, application/x-java-bean;version=1.2.1, application/x-java-bean;version=1.2.2, application/x-java-bean;version=1.3, application/x-java-bean;version=1.3.1, application/x-java-bean;version=1.4, application/x-java-bean;version=1.4.1, application/x-java-bean;version=1.4.2, application/x-java-bean;version=1.5, application/x-java-bean;version=1.6, application/x-java-bean;jpi-version=1.6.0_07
+Npp-Applications: ec8030f7-c20a-464f-9b0e-13a3a9e97384, 92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a
+Npp-Name: The Java(TM) Plug-in, Java SE 6
+
+Package: sun-java6-jre
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 14188
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 6.24-1build0.10.04.1
+Recommends: gsfonts-x11
+Replaces: ia32-sun-java6-bin, sun-java6-bin
+Suggests: sun-java6-plugin | ia32-sun-java6-plugin, sun-java6-fonts, ttf-baekmuk | ttf-unfonts | ttf-unfonts-core, ttf-kochi-gothic | ttf-sazanami-gothic, ttf-kochi-mincho | ttf-sazanami-mincho, ttf-arphic-uming
+Provides: java-runtime, java-runtime-headless, java-virtual-machine, java2-runtime, java2-runtime-headless, java5-runtime, java5-runtime-headless, java6-runtime, java6-runtime-headless
+Depends: java-common (>= 0.24), locales, sun-java6-bin (>= 6.24-1build0.10.04.1) | ia32-sun-java6-bin (>= 6.24-1build0.10.04.1)
+Conflicts: j2se-common
+Pre-Depends: debconf (>= 0.5) | debconf-2.0
+Filename: pool/partner/s/sun-java6/sun-java6-jre_6.24-1build0.10.04.1_all.deb
+Size: 6386114
+MD5sum: 662f6f4f0eeaa118934720b20735893a
+SHA1: 73d5d4655157ca1fa465ef24c73ce0639f686b75
+Description: Sun Java(TM) Runtime Environment (JRE) 6 (architecture independent files)
+ The Sun Java Platform Standard Edition Runtime Environment (JRE) 6
+ contains the Java virtual machine, runtime class libraries, and
+ Java application launcher that are necessary to run programs written
+ in the Java progamming language. It is not a development environment and
+ doesn't contain development tools such as compilers or debuggers.
+ For development tools, see the Java Development Kit JDK(TM) 6
+ (package sun-java6-jdk).
+ .
+ NOTE: You must accept Sun's EULA prior to successfully installing
+ this package
+ .
+ This package contains architecture independent files.
+
+Package: sun-java6-jdk
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 61376
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: i386
+Version: 6.24-1build0.10.04.1
+Suggests: sun-java6-demo, openjdk-6-doc, sun-java6-source
+Provides: java-compiler, java-sdk, java2-compiler, java2-sdk, java5-sdk, java6-sdk
+Depends: sun-java6-bin (>= 6.24-1build0.10.04.1), libc6, libx11-6
+Pre-Depends: debconf (>= 0.5) | debconf-2.0
+Filename: pool/partner/s/sun-java6/sun-java6-jdk_6.24-1build0.10.04.1_i386.deb
+Size: 20224948
+MD5sum: 140a04569b25158d3f12282a4643bbe5
+SHA1: e3da829b9937e1e38b8b330acee2deec7402d92e
+Description: Sun Java(TM) Development Kit (JDK) 6
+ The JDK(TM) is a development environment for building applications,
+ applets, and components using the Java programming language.
+ .
+ The JDK includes tools useful for developing and testing programs
+ written in the Java programming language and running on the Java
+ Platform.
+ .
+ NOTE: You must accept Sun's EULA prior to successfully installing
+ this package
+
+Package: sun-java6-javadb
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 30800
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 6.24-1build0.10.04.1
+Depends: sun-java6-jdk (>= 6.24-1build0.10.04.1)
+Enhances: sun-java6-jdk
+Filename: pool/partner/s/sun-java6/sun-java6-javadb_6.24-1build0.10.04.1_all.deb
+Size: 10792056
+MD5sum: 5b0671f1ffc762310fe8d7e5be300d5b
+SHA1: 658876f57682c61b8c97e6a1fe237812c94b0d8f
+Description: Java(TM) DB, Sun Microsystems' distribution of Apache Derby
+ Java DB is Sun's supported distribution of the open source Apache
+ Derby 100% Java technology database. It is fully transactional, secure,
+ easy-to-use, standards-based -- SQL, JDBC API, and Java EE -- yet small,
+ only 2MB.
+ .
+ This package adds the optional Java DB to your JDK 6 installation.
+ .
+ For more information, check out the Java DB website:
+ http://developers.sun.com/prodtech/javadb/
+
+Package: sun-java6-fonts
+Source: sun-java6
+Priority: optional
+Section: fonts
+Installed-Size: 112
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: all
+Version: 6.24-1build0.10.04.1
+Provides: ttf-lucida
+Depends: sun-java6-jre (>= 6.24-1build0.10.04.1), defoma
+Conflicts: ttf-lucida
+Filename: pool/partner/s/sun-java6/sun-java6-fonts_6.24-1build0.10.04.1_all.deb
+Size: 1886
+MD5sum: d7e7d5c08cae75a0b9c48cdea97f72e2
+SHA1: 16e810155b0256dbc04ebb5f8068e9f864c8649f
+Description: Lucida TrueType fonts (from the Sun JRE)
+ The Lucida fonts are included in the sun-java6-jre package.
+ This package makes the fonts available to defoma.
+
+Package: sun-java6-demo
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 28216
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: i386
+Version: 6.24-1build0.10.04.1
+Replaces: sun-java6-jdk
+Suggests: openjdk-6-doc
+Depends: sun-java6-jre (>= 6.24-1build0.10.04.1), sun-java6-jdk (>= 6.24-1build0.10.04.1), libc6 (>= 2.2.4)
+Enhances: sun-java6-jdk
+Filename: pool/partner/s/sun-java6/sun-java6-demo_6.24-1build0.10.04.1_i386.deb
+Size: 12150018
+MD5sum: f0786375bd1c52b125145e6bdcf9cc15
+SHA1: dff9c0634160cc4caf90e3675ef23b04065b6100
+Description: Sun Java(TM) Development Kit (JDK) 6 demos and examples
+ The JDK(TM) is a development environment for building applications,
+ applets, and components using the Java programming language.
+ .
+ This package contains the examples and demonstration files.
+
+Package: sun-java6-bin
+Source: sun-java6
+Priority: optional
+Section: java
+Installed-Size: 87032
+Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+Architecture: i386
+Version: 6.24-1build0.10.04.1
+Recommends: libasound2, libx11-6, libxext6, libxi6, libxtst6, libnss-mdns
+Suggests: binfmt-support
+Depends: sun-java6-jre (>= 6.24-1build0.10.04.1), unixodbc, libc6
+Conflicts: binfmt-support (<< 1.1.2)
+Pre-Depends: debconf (>= 0.5) | debconf-2.0
+Filename: pool/partner/s/sun-java6/sun-java6-bin_6.24-1build0.10.04.1_i386.deb
+Size: 29976200
+MD5sum: 5b1c8bc139a4655097430a446598c885
+SHA1: ecbe150233fc4d7431751c5397bdaeaf3253ea71
+Description: Sun Java(TM) Runtime Environment (JRE) 6 (architecture dependent files)
+ The Sun Java Platform Standard Edition Runtime Environment (JRE) 6
+ contains the Java virtual machine, runtime class libraries, and
+ Java application launcher that are necessary to run programs written
+ in the Java progamming language. It is not a development environment and
+ doesn't contain development tools such as compilers or debuggers.
+ For development tools, see the Java Development Kit JDK(TM) 6
+ (package sun-java6-jdk).
+ .
+ This package contains architecture dependent files.
+
+Package: convirture-tools
+Source: convirture-tools
+Priority: extra
+Section: web
+Installed-Size: 260
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: all
+Version: 2.0.1-0lucid2
+Recommends: ssh, socat, dnsmasq, uml-utilities, lvm2, expect, python-pexpect, kpartx
+Depends: convirt2
+Filename: pool/partner/c/convirture-tools/convirture-tools_2.0.1-0lucid2_all.deb
+Size: 21904
+MD5sum: 6c72d261ee18d53c6db196321d742abe
+SHA1: 8e029e982d7d7f7582e158a5feb17b44e131d0e5
+Description: Enterprise-class management for open source virtualization
+ Rapid provisioning. Complete lifecycle automation. Private cloud management.
+ Lowest total cost.
+ .
+ With ConVirt you configure, monitor and automate your Xen and KVM deployments
+ and private clouds from a single at-a-glance dashboard. Open source
+ virtualization is now a real option for enterprises.
+ .
+ This package provides tools for working with your ConVirt installation.
+
+Package: convirt2
+Source: convirt2
+Priority: extra
+Section: utils
+Installed-Size: 11440
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: all
+Version: 2.0.1-0lucid1
+Recommends: mysql-server
+Depends: debconf (>= 0.5) | debconf-2.0, upstart-job, python-paramiko, ssh, python-xen-3.3, libxen3, socat, uml-utilities, dnsmasq, wget, libmysqlclient-dev, expect, python-paste, python-turbogears2, python-mysqldb, python-setuptools, python, python-support (>= 0.90.0)
+Filename: pool/partner/c/convirt2/convirt2_2.0.1-0lucid1_all.deb
+Size: 2208142
+MD5sum: 0acc41ba532f15788b77077ca2c030a5
+SHA1: c11fb7e0176aaa37033c887fc99e3e7e5b1fa24c
+Description: management system for open source hypervisors and cloud platforms
+ Rapid provisioning. Complete lifecycle automation. Private cloud management.
+ Lowest total cost.
+ .
+ With ConVirt you configure, monitor and automate your Xen and KVM deployments
+ and private clouds from a single at-a-glance dashboard. Open source
+ virtualization is now a real option for enterprises.
+
+Package: uex
+Source: uex
+Priority: extra
+Section: editors
+Installed-Size: 64512
+Maintainer: IDM Computer Solutions, Inc. <idm@idmcomp.com>
+Architecture: i386
+Version: 2.1.0.3-0lucid1
+Depends: libboost-regex1.40.0 (>= 1.40.0-1), libc6 (>= 2.11), libexpat1 (>= 1.95.8), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.18.0), libicu42 (>= 4.2-1), libjpeg62, libpango1.0-0 (>= 1.14.0), libpng12-0 (>= 1.2.13-4), libsm6, libstdc++6 (>= 4.4.0), libtiff4, libx11-6 (>= 0), libxinerama1, libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)
+Filename: pool/partner/u/uex/uex_2.1.0.3-0lucid1_i386.deb
+Size: 28902910
+MD5sum: 838130a978b6256e922ee50d40c32a33
+SHA1: 0ec7907369a295e9626c546ae76de5b4fdb99d7d
+Description: UltraEdit is a text, hex, and programming language editor
+ Features:
+ * Code Folding
+ * Supports 64-bit file handling
+ * Unicode support
+ * Disk based text editing and large file handling - supports files in
+ excess of 4GB, minimum RAM used even for multi-megabyte files
+ * Multiline find and replace dialogs for all searches (Find, Replace,
+ Find in Files, Replace in Files)
+ * Syntax highlighting - configurable, pre-configured for C/C++, VB, HTML,
+ Java, and Perl, multiple wordfiles available for download
+ * Project/workspace support
+ * Integrated scripting language to automate tasks
+ * Configurable keyboard mapping
+ * Column/block mode editing
+ * Hexadecimal editor allows editing of any binary file, shows binary
+ and ASCII view
+
+Package: skype
+Source: skype
+Priority: extra
+Section: net
+Installed-Size: 29200
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: i386
+Version: 2.2.0.25-1lucid1
+Replaces: skype-common, skype-mid
+Depends: libasound2 (>> 1.0.22), libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libqt4-dbus (>= 4:4.5.3), libqt4-network (>= 4:4.5.3), libqtcore4 (>= 4:4.5.3), libqtgui4 (>= 4:4.5.3), libstdc++6 (>= 4.2.1), libx11-6 (>= 0), libxext6 (>= 0), libxss1, libxv1
+Conflicts: skype-common, skype-mid
+Filename: pool/partner/s/skype/skype_2.2.0.25-1lucid1_i386.deb
+Size: 23579258
+MD5sum: 01f74d1bdded11ec739a558c14b357f0
+SHA1: b648d8f6a5130c086c9f8c5abe7102e6fbb7008b
+Description: VOIP and instant messaging client
+ Skype is a little piece of software that lets you make free calls to anyone
+ else on Skype, anywhere in the world. And even though the calls are free,
+ they are really excellent quality.
+ .
+ * Make free Skype-to-Skype calls to anyone else, anywhere in the world.
+ * Call phones and mobiles at pretty cheap rates per minute.
+ * Group chat with up to 100 people or conference call with up to nine others.
+ * Free to download.
+
+Package: wasce-server
+Source: wasce-server
+Priority: extra
+Section: web
+Installed-Size: 121244
+Maintainer: Brian Thomason <brian.thomason@canonical.com>
+Architecture: all
+Version: 2.1.1.5-0lucid1
+Depends: adduser
+Pre-Depends: sun-java6-jre
+Filename: pool/partner/w/wasce-server/wasce-server_2.1.1.5-0lucid1_all.deb
+Size: 82186716
+MD5sum: 886fc020ec3646f9d8a96abd129ce273
+SHA1: f19571a911cde67902e6c8d3227f21d50e043d90
+Description: application server from IBM
+ WebSphere Application Server CE streamlines the creation of applications such
+ as departmental apps by providing the baseline components needed to deploy
+ applications in one integrated package.
+

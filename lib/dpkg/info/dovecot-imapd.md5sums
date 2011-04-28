@@ -1,0 +1,11 @@
+98c81820ffe5179f84e930818efe6e4a  usr/lib/dovecot/modules/imap/lib02_imap_acl_plugin.so
+a33e6fadd1ff602ef40ea701565c1f97  usr/lib/dovecot/modules/imap/lib02_imap_acl_plugin.la
+adc549852da7b7026cd0350c262b36c1  usr/lib/dovecot/modules/imap/lib11_imap_quota_plugin.so
+2de50a51c245cc9b99878e0990f72925  usr/lib/dovecot/modules/imap/lib11_imap_quota_plugin.la
+6341779d862617a49f1df8382f269b94  usr/lib/dovecot/imap
+9fabff643020c1afa8b78dbd7ed20b60  usr/lib/dovecot/imap-login
+76817183cae5e366e01ac21500542d14  usr/lib/dovecot/imap-utf7
+09d9d92789cbe8788837ef69da525607  usr/share/doc/dovecot-imapd/README.Debian
+f7150495e8ccd80cd7888f9e68a30de8  usr/share/doc/dovecot-imapd/copyright
+67bc1e62321929e13a5229a65df90fb9  usr/share/doc/dovecot-imapd/changelog.gz
+994bc4b99d6f1777ec8d3fda1da0f7f8  usr/share/doc/dovecot-imapd/changelog.Debian.gz

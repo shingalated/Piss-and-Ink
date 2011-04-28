@@ -1,0 +1,20 @@
+Local and Remote metadata are synchronized, no sync needed.
+Last full backup date: Thu Feb  3 22:20:37 2011
+--------------[ Backup Statistics ]--------------
+StartTime 1302610863.69 (Tue Apr 12 08:21:03 2011)
+EndTime 1302610971.44 (Tue Apr 12 08:22:51 2011)
+ElapsedTime 107.75 (1 minute 47.75 seconds)
+SourceFiles 76612
+SourceFileSize 1488607092 (1.39 GB)
+NewFiles 45
+NewFileSize 315278 (308 KB)
+DeletedFiles 8
+ChangedFiles 67
+ChangedFileSize 67211491 (64.1 MB)
+ChangedDeltaSize 0 (0 bytes)
+DeltaEntries 120
+RawDeltaSize 6731951 (6.42 MB)
+TotalDestinationSizeChange 2518608 (2.40 MB)
+Errors 0
+-------------------------------------------------
+

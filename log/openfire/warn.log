@@ -1,0 +1,2304 @@
+2011.03.11 06:19:29 Failed admin console login attempt by esposito30@gmail.com from 192.168.1.1
+2011.03.11 06:19:55 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.11 06:19:55 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.11 06:19:55 Closing session due to incorrect hostname in stream header. Host: 127.0.0.1. Connection: org.jivesoftware.openfire.net.SocketConnection@1f60430 socket: Socket[addr=/127.0.0.1,port=52944,localport=5269] session: null
+2011.03.11 06:20:02 Failed admin console login attempt by admin from 192.168.1.1
+2011.03.11 06:20:28 Failed admin console login attempt by administrator from 192.168.1.1
+2011.03.11 06:20:44 Failed admin console login attempt by root from 192.168.1.1
+2011.03.11 06:21:14 Failed admin console login attempt by esposito30@gmail.com from 192.168.1.1
+2011.03.11 06:21:19 Failed admin console login attempt by admin from 192.168.1.1
+2011.03.11 06:25:07 Autocreating jiveID row for type '25'
+2011.03.13 07:19:55 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.13 07:19:56 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.14 22:40:56 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="get" id="1" from="databahn.info/f97c0977">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:40:56 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="set" id="2" from="databahn.info/f97c0977">
+  <query xmlns="jabber:iq:register">
+    <username>chris</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:41:00 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="get" id="1" from="databahn.info/63156ca7">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:41:00 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="set" id="2" from="databahn.info/63156ca7">
+  <query xmlns="jabber:iq:register">
+    <username>chris</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:41:05 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="get" id="1" from="databahn.info/8094e68e">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:41:05 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="set" id="2" from="databahn.info/8094e68e">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:41:45 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="get" id="1" from="databahn.info/ef969423">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:41:45 User tried to authenticate with this server using an unknown receipient: 
+<iq to="localhost" type="set" id="2" from="databahn.info/ef969423">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:43:22 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="get" id="1" from="databahn.info/b5be8961">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:43:22 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="set" id="2" from="databahn.info/b5be8961">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:43:24 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="get" id="1" from="databahn.info/5b588e42">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:43:24 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="set" id="2" from="databahn.info/5b588e42">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:43:25 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="get" id="1" from="databahn.info/e2274ebf">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:43:25 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="set" id="2" from="databahn.info/e2274ebf">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.14 22:43:25 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="get" id="1" from="databahn.info/255d5a62">
+  <query xmlns="jabber:iq:register"/>
+</iq>
+2011.03.14 22:43:25 User tried to authenticate with this server using an unknown receipient: 
+<iq to="www.databahn.info" type="set" id="2" from="databahn.info/255d5a62">
+  <query xmlns="jabber:iq:register">
+    <username>chrittts</username>
+    <password>G0forit</password>
+  </query>
+</iq>
+2011.03.15 07:19:56 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.15 07:19:56 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.15 10:11:51 Failed admin console login attempt by admin from 71.234.168.161
+2011.03.17 07:19:56 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.17 07:19:56 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.19 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.19 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.21 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.21 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.23 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.23 07:19:57 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.25 07:19:58 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.25 07:19:58 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.27 07:19:58 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.27 07:19:58 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.29 07:19:59 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.29 07:19:59 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.31 07:19:59 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.03.31 07:19:59 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.02 07:19:59 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.02 07:20:00 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.04 07:20:00 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.04 07:20:00 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.06 07:20:00 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.06 07:20:00 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.08 07:20:01 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.08 07:20:01 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.10 07:20:01 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.10 07:20:01 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.12 07:20:02 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.12 07:20:02 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.14 07:20:02 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.14 07:20:02 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.16 07:20:03 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.16 07:20:03 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.18 07:20:03 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.18 07:20:03 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.20 07:20:04 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.20 07:20:05 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.21 14:20:32 Error returning error to sender. Original packet: 
+<iq type="get" id="392-1070" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="392-1070" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 14:20:32 Error returning error to sender. Original packet: 
+<iq type="get" id="913-1071" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="913-1071" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 16:32:16 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 18:41:57 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 20:10:51 Error returning error to sender. Original packet: 
+<iq type="get" id="204-1077" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="204-1077" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 20:10:51 Error returning error to sender. Original packet: 
+<iq type="get" id="408-1078" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="408-1078" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 21:58:25 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 23:20:50 Error returning error to sender. Original packet: 
+<iq type="get" id="892-1085" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="892-1085" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.21 23:20:50 Error returning error to sender. Original packet: 
+<iq type="get" id="926-1086" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="926-1086" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 01:11:44 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 02:47:30 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 04:50:22 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 06:03:58 Error returning error to sender. Original packet: 
+<iq type="get" id="608-1097" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="608-1097" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 06:03:58 Error returning error to sender. Original packet: 
+<iq type="get" id="563-1098" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="563-1098" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 07:20:06 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.22 07:20:06 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.22 07:24:36 Error returning error to sender. Original packet: 
+<iq type="get" id="300-1103" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="300-1103" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 07:24:36 Error returning error to sender. Original packet: 
+<iq type="get" id="192-1104" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="192-1104" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 09:30:39 Error returning error to sender. Original packet: 
+<iq type="get" id="894-1109" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="894-1109" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 09:30:39 Error returning error to sender. Original packet: 
+<iq type="get" id="662-1110" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="662-1110" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 12:02:17 Error returning error to sender. Original packet: 
+<iq type="get" id="144-1113" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="144-1113" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 12:02:17 Error returning error to sender. Original packet: 
+<iq type="get" id="63-1114" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="63-1114" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 14:39:42 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 16:19:58 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 18:31:09 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.22 22:02:59 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 00:46:47 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 02:19:57 Error returning error to sender. Original packet: 
+<iq type="get" id="8-1124" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="8-1124" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 02:19:57 Error returning error to sender. Original packet: 
+<iq type="get" id="474-1125" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="474-1125" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 04:10:42 Error returning error to sender. Original packet: 
+<iq type="get" id="656-1130" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="656-1130" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 04:10:42 Error returning error to sender. Original packet: 
+<iq type="get" id="19-1131" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="19-1131" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 06:38:46 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 08:57:48 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 10:59:46 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 12:04:31 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 13:45:33 Error returning error to sender. Original packet: 
+<iq type="get" id="49-1142" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="49-1142" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 13:45:33 Error returning error to sender. Original packet: 
+<iq type="get" id="638-1143" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="638-1143" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 14:36:04 Error returning error to sender. Original packet: 
+<iq type="get" id="311-1147" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="311-1147" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 14:36:04 Error returning error to sender. Original packet: 
+<iq type="get" id="723-1148" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="723-1148" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 14:36:04 Error returning error to sender. Original packet: 
+<iq type="get" id="757-1149" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="757-1149" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 14:36:04 Error returning error to sender. Original packet: 
+<iq type="get" id="351-1150" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="351-1150" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 16:16:56 Error returning error to sender. Original packet: 
+<iq type="get" id="810-1158" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="810-1158" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 16:16:56 Error returning error to sender. Original packet: 
+<iq type="get" id="146-1159" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="146-1159" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 16:16:56 Error returning error to sender. Original packet: 
+<iq type="get" id="297-1160" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="297-1160" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 16:16:56 Error returning error to sender. Original packet: 
+<iq type="get" id="557-1161" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="557-1161" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 17:51:08 Error returning error to sender. Original packet: 
+<iq type="get" id="317-1168" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="317-1168" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 17:51:08 Error returning error to sender. Original packet: 
+<iq type="get" id="804-1169" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="804-1169" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 17:51:08 Error returning error to sender. Original packet: 
+<iq type="get" id="431-1170" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="431-1170" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 20:08:53 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 21:46:29 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 23:20:21 Error returning error to sender. Original packet: 
+<iq type="get" id="174-1179" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="174-1179" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.23 23:20:21 Error returning error to sender. Original packet: 
+<iq type="get" id="726-1180" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="726-1180" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 01:01:07 Error returning error to sender. Original packet: 
+<iq type="get" id="852-1185" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="852-1185" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 01:01:07 Error returning error to sender. Original packet: 
+<iq type="get" id="454-1186" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="454-1186" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 02:36:45 Error returning error to sender. Original packet: 
+<iq type="get" id="111-1191" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="111-1191" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 02:36:45 Error returning error to sender. Original packet: 
+<iq type="get" id="23-1192" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="23-1192" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 04:42:33 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 06:08:08 Error returning error to sender. Original packet: 
+<iq type="get" id="688-1199" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="688-1199" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 06:08:08 Error returning error to sender. Original packet: 
+<iq type="get" id="585-1200" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="585-1200" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 07:20:07 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.24 07:20:07 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.24 07:38:41 Error returning error to sender. Original packet: 
+<iq type="get" id="435-1205" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="435-1205" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 07:38:41 Error returning error to sender. Original packet: 
+<iq type="get" id="942-1206" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="942-1206" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 09:37:14 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 11:25:32 Error returning error to sender. Original packet: 
+<iq type="get" id="768-1211" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="768-1211" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 11:25:32 Error returning error to sender. Original packet: 
+<iq type="get" id="61-1212" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="61-1212" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 12:56:27 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 14:57:40 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 16:28:30 Error returning error to sender. Original packet: 
+<iq type="get" id="650-1221" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="650-1221" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 16:28:30 Error returning error to sender. Original packet: 
+<iq type="get" id="845-1222" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="845-1222" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 18:37:18 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 21:16:06 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.24 22:51:59 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 00:37:56 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 02:08:35 Error returning error to sender. Original packet: 
+<iq type="get" id="240-1233" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="240-1233" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 02:08:35 Error returning error to sender. Original packet: 
+<iq type="get" id="86-1234" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="86-1234" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 03:49:18 Error returning error to sender. Original packet: 
+<iq type="get" id="248-1239" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="248-1239" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 03:49:18 Error returning error to sender. Original packet: 
+<iq type="get" id="374-1240" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="374-1240" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 05:40:06 Error returning error to sender. Original packet: 
+<iq type="get" id="655-1245" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="655-1245" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 05:40:06 Error returning error to sender. Original packet: 
+<iq type="get" id="955-1246" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="955-1246" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 07:05:46 Error returning error to sender. Original packet: 
+<iq type="get" id="439-1251" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="439-1251" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 07:05:46 Error returning error to sender. Original packet: 
+<iq type="get" id="233-1252" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="233-1252" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 09:17:00 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 10:42:57 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 11:59:59 Error returning error to sender. Original packet: 
+<iq type="get" id="504-1" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="504-1" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 11:59:59 Error returning error to sender. Original packet: 
+<iq type="get" id="173-2" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="173-2" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 13:47:17 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 16:30:23 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 18:47:46 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 20:39:22 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.25 22:35:07 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 00:00:57 Error returning error to sender. Original packet: 
+<iq type="get" id="635-17" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="635-17" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 00:00:57 Error returning error to sender. Original packet: 
+<iq type="get" id="291-18" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="291-18" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 01:41:48 Error returning error to sender. Original packet: 
+<iq type="get" id="386-23" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="386-23" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 01:41:48 Error returning error to sender. Original packet: 
+<iq type="get" id="853-24" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="853-24" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 03:17:35 Error returning error to sender. Original packet: 
+<iq type="get" id="467-29" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="467-29" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 03:17:35 Error returning error to sender. Original packet: 
+<iq type="get" id="529-30" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="529-30" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 04:38:15 Error returning error to sender. Original packet: 
+<iq type="get" id="479-35" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="479-35" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 04:38:15 Error returning error to sender. Original packet: 
+<iq type="get" id="435-36" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="435-36" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 06:14:03 Error returning error to sender. Original packet: 
+<iq type="get" id="134-41" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="134-41" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 06:14:03 Error returning error to sender. Original packet: 
+<iq type="get" id="351-42" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="351-42" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 07:20:09 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.26 07:20:10 Going to buffer response body of large or unknown size. Using getResponseBodyAsStream instead is recommended.
+2011.04.26 07:39:50 Error returning error to sender. Original packet: 
+<iq type="get" id="117-47" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="117-47" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 07:39:50 Error returning error to sender. Original packet: 
+<iq type="get" id="946-48" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="946-48" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 10:46:56 Error returning error to sender. Original packet: 
+<iq type="get" id="430-51" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="430-51" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 10:46:56 Error returning error to sender. Original packet: 
+<iq type="get" id="551-52" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="551-52" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 12:34:32 Error returning error to sender. Original packet: 
+<iq type="get" id="489-55" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="489-55" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 15:35:23 Error returning error to sender. Original packet: 
+<iq type="get" id="37-57" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="37-57" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 15:35:23 Error returning error to sender. Original packet: 
+<iq type="get" id="664-58" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="664-58" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 17:33:24 Error returning error to sender. Original packet: 
+<iq type="get" id="85-61" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="85-61" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 17:33:24 Error returning error to sender. Original packet: 
+<iq type="get" id="293-62" to="esposito30@gmail.com/a087755d" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="293-62" to="databahn.info" from="esposito30@gmail.com/a087755d">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 18:58:23 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 21:07:58 Error returning error to sender. Original packet: 
+<iq type="get" id="291-68" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="291-68" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.26 23:29:21 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 01:06:22 Error returning error to sender. Original packet: 
+<iq type="get" id="325-74" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="325-74" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 01:06:22 Error returning error to sender. Original packet: 
+<iq type="get" id="855-75" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="855-75" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 02:52:15 Error returning error to sender. Original packet: 
+<iq type="get" id="257-80" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="257-80" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 04:28:22 Error returning error to sender. Original packet: 
+<iq type="get" id="240-84" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="240-84" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 04:28:22 Error returning error to sender. Original packet: 
+<iq type="get" id="388-85" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="388-85" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 06:55:28 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 08:10:35 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 09:26:16 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 11:22:32 Error returning error to sender. Original packet: 
+<iq type="get" id="908-93" to="esposito30@gmail.com/d572eb26" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="908-93" to="databahn.info" from="esposito30@gmail.com/d572eb26">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 11:22:32 Error returning error to sender. Original packet: 
+<iq type="get" id="543-94" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="543-94" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 11:22:32 Error returning error to sender. Original packet: 
+<iq type="get" id="920-95" to="esposito30@gmail.com/d572eb26" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="920-95" to="databahn.info" from="esposito30@gmail.com/d572eb26">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 11:22:32 Error returning error to sender. Original packet: 
+<iq type="get" id="972-96" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="972-96" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 13:39:56 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 14:50:23 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 17:01:46 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 19:13:00 Error returning error to sender. Original packet: 
+<iq type="get" id="907-105" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="907-105" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:219)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 19:13:00 Error returning error to sender. Original packet: 
+<iq type="get" id="353-106" to="esposito30@gmail.com/0342eebb" from="databahn.info">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+</iq>
+org.jivesoftware.openfire.PacketException: Cannot route packet of type IQ or Presence to bare JID: 
+<iq type="error" id="353-106" to="databahn.info" from="esposito30@gmail.com/0342eebb">
+  <query xmlns="http://jabber.org/protocol/disco#info"/>
+  <error code="404" type="cancel">
+    <remote-server-not-found xmlns="urn:ietf:params:xml:ns:xmpp-stanzas"/>
+  </error>
+</iq>
+	at org.jivesoftware.openfire.spi.RoutingTableImpl.routePacket(RoutingTableImpl.java:217)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.returnErrorToSender(OutgoingSessionPromise.java:277)
+	at org.jivesoftware.openfire.server.OutgoingSessionPromise$PacketsProcessor.run(OutgoingSessionPromise.java:204)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:662)
+2011.04.27 20:53:33 Error verifying key of remote server: gmail.com
+java.net.ConnectException: Connection timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:529)
+	at org.jivesoftware.openfire.server.ServerDialback.verifyKey(ServerDialback.java:552)
+	at org.jivesoftware.openfire.server.ServerDialback.validateRemoteDomain(ServerDialback.java:494)
+	at org.jivesoftware.openfire.server.ServerDialback.createIncomingSession(ServerDialback.java:380)
+	at org.jivesoftware.openfire.session.LocalIncomingServerSession.createSession(LocalIncomingServerSession.java:116)
+	at org.jivesoftware.openfire.net.ServerSocketReader.createSession(ServerSocketReader.java:212)
+	at org.jivesoftware.openfire.net.SocketReader.createSession(SocketReader.java:398)
+	at org.jivesoftware.openfire.net.BlockingReadingMode.run(BlockingReadingMode.java:54)
+	at org.jivesoftware.openfire.net.SocketReader.run(SocketReader.java:120)
+	at java.lang.Thread.run(Thread.java:662)

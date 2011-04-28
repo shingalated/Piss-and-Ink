@@ -1,0 +1,13 @@
+#!/bin/sh
+set -e
+
+if [ "$1" = purge ] && [ -d /etc/vga ]; then
+  rmdir --ignore-fail-on-non-empty /etc/vga
+fi
+
+# Automatically added by dh_makeshlibs
+if [ "$1" = "remove" ]; then
+	ldconfig
+fi
+# End automatically added section
+

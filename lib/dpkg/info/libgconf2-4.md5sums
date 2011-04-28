@@ -1,0 +1,7 @@
+36e3d325ca0cd1801f81e08b40a70218  usr/share/doc/libgconf2-4/copyright
+3a1fad36d3c70d965e9c55641aa42b4d  usr/lib/libgconf-2.so.4.1.5
+c8752e530a00a3ea07aed35e70f5a14a  usr/lib/libgconf2-4/gconfd-2
+fc5a17e6223170322d25f04c16593a9e  usr/lib/libgconf2-4/gconf-sanity-check-2
+ad0c50506dda00999edf00d2cb991991  usr/lib/libgconf2-4/2/libgconfbackend-evoldap.so
+764e67e22031195850b9dec5000a864c  usr/lib/libgconf2-4/2/libgconfbackend-oldxml.so
+84bb0e0a7958359a06b6005fe2a93201  usr/lib/libgconf2-4/2/libgconfbackend-xml.so

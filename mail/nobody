@@ -1,0 +1,934 @@
+From root@ausfahrt.databahn.info  Sun Feb  6 06:02:09 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id C028123D44; Sun,  6 Feb 2011 06:02:09 -0500 (EST)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110206110209.C028123D44@ausfahrt.databahn.info>
+Date: Sun,  6 Feb 2011 06:02:09 -0500 (EST)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Wed Feb 16 06:02:28 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 1482223B0D; Wed, 16 Feb 2011 06:02:28 -0500 (EST)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110216110228.1482223B0D@ausfahrt.databahn.info>
+Date: Wed, 16 Feb 2011 06:02:28 -0500 (EST)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Thu Feb 17 06:02:27 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 55A0523B11; Thu, 17 Feb 2011 06:02:27 -0500 (EST)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110217110227.55A0523B11@ausfahrt.databahn.info>
+Date: Thu, 17 Feb 2011 06:02:27 -0500 (EST)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Fri Feb 18 06:02:27 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id A521B23D29; Fri, 18 Feb 2011 06:02:27 -0500 (EST)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110218110227.A521B23D29@ausfahrt.databahn.info>
+Date: Fri, 18 Feb 2011 06:02:27 -0500 (EST)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sat Feb 19 06:02:28 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 24D5A241F7; Sat, 19 Feb 2011 06:02:28 -0500 (EST)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110219110228.24D5A241F7@ausfahrt.databahn.info>
+Date: Sat, 19 Feb 2011 06:02:28 -0500 (EST)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Tue Mar 15 06:00:08 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 36FDD24406; Tue, 15 Mar 2011 06:00:08 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110315100008.36FDD24406@ausfahrt.databahn.info>
+Date: Tue, 15 Mar 2011 06:00:08 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Wed Mar 16 06:00:09 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id A294F243EC; Wed, 16 Mar 2011 06:00:09 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110316100009.A294F243EC@ausfahrt.databahn.info>
+Date: Wed, 16 Mar 2011 06:00:09 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Thu Mar 17 06:00:09 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 2496F24406; Thu, 17 Mar 2011 06:00:09 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110317100009.2496F24406@ausfahrt.databahn.info>
+Date: Thu, 17 Mar 2011 06:00:09 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Fri Mar 18 06:02:27 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 5CAF62423F; Fri, 18 Mar 2011 06:02:27 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110318100227.5CAF62423F@ausfahrt.databahn.info>
+Date: Fri, 18 Mar 2011 06:02:27 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sat Mar 19 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 5033823F8F; Sat, 19 Mar 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110319100010.5033823F8F@ausfahrt.databahn.info>
+Date: Sat, 19 Mar 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Sun Mar 20 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 70918243AA; Sun, 20 Mar 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110320100010.70918243AA@ausfahrt.databahn.info>
+Date: Sun, 20 Mar 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Mon Mar 21 06:03:47 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 8286F2442D; Mon, 21 Mar 2011 06:03:47 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110321100347.8286F2442D@ausfahrt.databahn.info>
+Date: Mon, 21 Mar 2011 06:03:47 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Tue Mar 22 06:00:11 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 9B0A7244BC; Tue, 22 Mar 2011 06:00:11 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110322100011.9B0A7244BC@ausfahrt.databahn.info>
+Date: Tue, 22 Mar 2011 06:00:11 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Wed Mar 23 06:00:09 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 67AEF243A1; Wed, 23 Mar 2011 06:00:09 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110323100009.67AEF243A1@ausfahrt.databahn.info>
+Date: Wed, 23 Mar 2011 06:00:09 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Thu Mar 24 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 74BF624229; Thu, 24 Mar 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110324100010.74BF624229@ausfahrt.databahn.info>
+Date: Thu, 24 Mar 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Fri Mar 25 06:00:11 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 786C123D96; Fri, 25 Mar 2011 06:00:11 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110325100011.786C123D96@ausfahrt.databahn.info>
+Date: Fri, 25 Mar 2011 06:00:11 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Sat Mar 26 06:02:07 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 50DAE2434A; Sat, 26 Mar 2011 06:02:07 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110326100207.50DAE2434A@ausfahrt.databahn.info>
+Date: Sat, 26 Mar 2011 06:02:07 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Mar 27 06:00:12 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 1E42224408; Sun, 27 Mar 2011 06:00:12 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110327100012.1E42224408@ausfahrt.databahn.info>
+Date: Sun, 27 Mar 2011 06:00:12 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Sun Mar 27 06:30:28 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 464A823D7A; Sun, 27 Mar 2011 06:30:28 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110327103028.464A823D7A@ausfahrt.databahn.info>
+Date: Sun, 27 Mar 2011 06:30:27 -0400 (EDT)
+
+/etc/cron.daily/logrotate:
+[Sun Mar 27 06:30:27 2011] [warn] module proxy_module is already loaded, skipping
+[Sun Mar 27 06:30:27 2011] [warn] module proxy_http_module is already loaded, skipping
+[Sun Mar 27 06:30:27 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+
+From root@ausfahrt.databahn.info  Mon Mar 28 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id ED51824291; Mon, 28 Mar 2011 06:00:09 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110328100009.ED51824291@ausfahrt.databahn.info>
+Date: Mon, 28 Mar 2011 06:00:09 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Tue Mar 29 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 19AD2242D2; Tue, 29 Mar 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110329100010.19AD2242D2@ausfahrt.databahn.info>
+Date: Tue, 29 Mar 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Wed Mar 30 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id B75AE242BE; Wed, 30 Mar 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110330100010.B75AE242BE@ausfahrt.databahn.info>
+Date: Wed, 30 Mar 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Thu Mar 31 06:00:11 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id A283324406; Thu, 31 Mar 2011 06:00:11 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110331100011.A283324406@ausfahrt.databahn.info>
+Date: Thu, 31 Mar 2011 06:00:11 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Fri Apr  1 06:00:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 9345B2442D; Fri,  1 Apr 2011 06:00:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110401100010.9345B2442D@ausfahrt.databahn.info>
+Date: Fri,  1 Apr 2011 06:00:10 -0400 (EDT)
+
+Fatal Error: Backup source host has changed.
+Current hostname: databahn.info
+Previous hostname: ausfahrt.databahn.info
+
+Aborting because you may have accidentally tried to backup two different data sets to the same remote location, or using the same archive directory.  If this is not a mistake, use the --allow-source-mismatch switch to avoid seeing this message
+
+From root@ausfahrt.databahn.info  Sat Apr  2 06:02:10 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 496CD24512; Sat,  2 Apr 2011 06:02:10 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110402100210.496CD24512@ausfahrt.databahn.info>
+Date: Sat,  2 Apr 2011 06:02:10 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr  3 06:02:12 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 3DB5B24561; Sun,  3 Apr 2011 06:02:12 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110403100212.3DB5B24561@ausfahrt.databahn.info>
+Date: Sun,  3 Apr 2011 06:02:12 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr  3 06:44:20 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 6D94C23D41; Sun,  3 Apr 2011 06:44:20 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110403104420.6D94C23D41@ausfahrt.databahn.info>
+Date: Sun,  3 Apr 2011 06:44:19 -0400 (EDT)
+
+/etc/cron.daily/logrotate:
+[Sun Apr 03 06:44:19 2011] [warn] module proxy_module is already loaded, skipping
+[Sun Apr 03 06:44:19 2011] [warn] module proxy_http_module is already loaded, skipping
+[Sun Apr 03 06:44:19 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+[Sun Apr 03 06:44:19 2011] [warn] The Alias directive in /etc/apache2/sites-enabled/000-default at line 15 will probably never match because it overlaps an earlier Alias.
+
+From root@ausfahrt.databahn.info  Mon Apr  4 06:02:12 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 8B9E32428B; Mon,  4 Apr 2011 06:02:12 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110404100212.8B9E32428B@ausfahrt.databahn.info>
+Date: Mon,  4 Apr 2011 06:02:12 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Tue Apr  5 06:02:08 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 32EAC24590; Tue,  5 Apr 2011 06:02:08 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110405100208.32EAC24590@ausfahrt.databahn.info>
+Date: Tue,  5 Apr 2011 06:02:08 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr 10 06:37:53 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 96506203CF; Sun, 10 Apr 2011 06:37:53 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110410103753.96506203CF@ausfahrt.databahn.info>
+Date: Sun, 10 Apr 2011 06:37:52 -0400 (EDT)
+
+/etc/cron.daily/logrotate:
+[Sun Apr 10 06:37:52 2011] [warn] module proxy_module is already loaded, skipping
+[Sun Apr 10 06:37:52 2011] [warn] module proxy_http_module is already loaded, skipping
+[Sun Apr 10 06:37:52 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+[Sun Apr 10 06:37:52 2011] [warn] The Alias directive in /etc/apache2/sites-enabled/000-default at line 15 will probably never match because it overlaps an earlier Alias.
+
+From root@ausfahrt.databahn.info  Fri Apr 15 06:02:02 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 868AD245C0; Fri, 15 Apr 2011 06:02:02 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110415100202.868AD245C0@ausfahrt.databahn.info>
+Date: Fri, 15 Apr 2011 06:02:02 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sat Apr 16 06:02:02 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 6879F245BB; Sat, 16 Apr 2011 06:02:02 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110416100202.6879F245BB@ausfahrt.databahn.info>
+Date: Sat, 16 Apr 2011 06:02:02 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr 17 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 139AE24596; Sun, 17 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110417100203.139AE24596@ausfahrt.databahn.info>
+Date: Sun, 17 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr 17 06:53:18 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 929162422C; Sun, 17 Apr 2011 06:53:18 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110417105318.929162422C@ausfahrt.databahn.info>
+Date: Sun, 17 Apr 2011 06:53:17 -0400 (EDT)
+
+/etc/cron.daily/logrotate:
+[Sun Apr 17 06:53:17 2011] [warn] module proxy_module is already loaded, skipping
+[Sun Apr 17 06:53:17 2011] [warn] module proxy_http_module is already loaded, skipping
+[Sun Apr 17 06:53:17 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+[Sun Apr 17 06:53:17 2011] [warn] The Alias directive in /etc/apache2/sites-enabled/000-default at line 15 will probably never match because it overlaps an earlier Alias.
+
+From root@ausfahrt.databahn.info  Mon Apr 18 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 0A650245CC; Mon, 18 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110418100203.0A650245CC@ausfahrt.databahn.info>
+Date: Mon, 18 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Tue Apr 19 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 33D6D2479E; Tue, 19 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110419100203.33D6D2479E@ausfahrt.databahn.info>
+Date: Tue, 19 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Wed Apr 20 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 76857247B1; Wed, 20 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110420100203.76857247B1@ausfahrt.databahn.info>
+Date: Wed, 20 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Thu Apr 21 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 14899245BD; Thu, 21 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110421100203.14899245BD@ausfahrt.databahn.info>
+Date: Thu, 21 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Fri Apr 22 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 8C84C247AA; Fri, 22 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110422100203.8C84C247AA@ausfahrt.databahn.info>
+Date: Fri, 22 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sat Apr 23 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 8EA672459A; Sat, 23 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110423100203.8EA672459A@ausfahrt.databahn.info>
+Date: Sat, 23 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr 24 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 92F1E247A0; Sun, 24 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110424100203.92F1E247A0@ausfahrt.databahn.info>
+Date: Sun, 24 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Sun Apr 24 06:49:37 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id B977623B9C; Sun, 24 Apr 2011 06:49:37 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110424104937.B977623B9C@ausfahrt.databahn.info>
+Date: Sun, 24 Apr 2011 06:49:26 -0400 (EDT)
+
+/etc/cron.daily/logrotate:
+[Sun Apr 24 06:49:26 2011] [warn] module proxy_module is already loaded, skipping
+[Sun Apr 24 06:49:26 2011] [warn] module proxy_http_module is already loaded, skipping
+[Sun Apr 24 06:49:26 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+[Sun Apr 24 06:49:26 2011] [warn] The Alias directive in /etc/apache2/sites-enabled/000-default at line 15 will probably never match because it overlaps an earlier Alias.
+
+From root@ausfahrt.databahn.info  Mon Apr 25 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id 9A12A24462; Mon, 25 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110425100203.9A12A24462@ausfahrt.databahn.info>
+Date: Mon, 25 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Tue Apr 26 06:02:03 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id DE88724BEC; Tue, 26 Apr 2011 06:02:03 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110426100203.DE88724BEC@ausfahrt.databahn.info>
+Date: Tue, 26 Apr 2011 06:02:03 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+
+From root@ausfahrt.databahn.info  Wed Apr 27 06:02:02 2011
+Return-Path: <root@ausfahrt.databahn.info>
+X-Original-To: root
+Delivered-To: root@ausfahrt.databahn.info
+Received: by ausfahrt.databahn.info (Postfix, from userid 0)
+	id D65D624C42; Wed, 27 Apr 2011 06:02:02 -0400 (EDT)
+From: root@ausfahrt.databahn.info (Cron Daemon)
+To: root@ausfahrt.databahn.info
+Subject: Cron <root@ausfahrt> /home/chris/Scripts/sys_backup.sh
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+X-Cron-Env: <PATH=/usr/sbin:/usr/bin:/sbin:/bin:/home/chris/Scripts>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20110427100202.D65D624C42@ausfahrt.databahn.info>
+Date: Wed, 27 Apr 2011 06:02:02 -0400 (EDT)
+
+BackendException: Error running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local'
+

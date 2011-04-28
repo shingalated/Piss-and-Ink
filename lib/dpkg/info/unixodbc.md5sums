@@ -1,0 +1,15 @@
+cc4c369d5e72a4f29de0d3af58f4acfe  usr/lib/libgtrtst.so.1.0.0
+6b630fa3dfaa7884ad3ed9bb3c416639  usr/lib/libodbc.so.1.0.0
+cac51cb32ed29657741a24170f015a15  usr/lib/libodbccr.so.1.0.0
+58e3d6fa04ff04ecbe347794977530ee  usr/bin/isql
+c9fad1c5f9d864b89d6ddde57d8da5ae  usr/bin/iusql
+3c919e96063cde932e6ab7503d48987f  usr/share/doc/unixodbc/README.MySql/README
+a99541986fb99c87adc3cb0c46b9ef45  usr/share/doc/unixodbc/AUTHORS
+01009b6198995afab7b65cadb2ba83bb  usr/share/doc/unixodbc/README
+3d41115762ac2f2c6efbd172625b01d8  usr/share/doc/unixodbc/README.GTK
+a41a84e564fd9781e7dd465e1693c775  usr/share/doc/unixodbc/copyright
+58a3d561e49e6ddefbafb39dab765eba  usr/share/doc/unixodbc/changelog.gz
+52c87adc40254cf851ba7a2f0a0159bc  usr/share/doc/unixodbc/NEWS.gz
+52bcce1299243789490e825f6da6a79d  usr/share/doc/unixodbc/changelog.Debian.gz
+f83218120f7baf56a96d0b22296a002f  usr/share/man/man1/isql.1.gz
+acd4951d5811a0f0a2d22b05a92efacf  usr/share/lintian/overrides/unixodbc

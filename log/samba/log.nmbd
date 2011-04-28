@@ -1,0 +1,22 @@
+[2011/04/25 11:50:46,  0] nmbd/nmbd.c:71(terminate)
+  Got SIGTERM: going down...
+[2011/04/25 11:51:33,  0] nmbd/nmbd.c:854(main)
+  nmbd version 3.4.7 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2009
+[2011/04/26 06:53:44,  0] nmbd/nmbd.c:130(nmbd_sig_hup_handler)
+  Got SIGHUP dumping debug info.
+[2011/04/26 06:53:44,  0] nmbd/nmbd_workgroupdb.c:281(dump_workgroups)
+  dump_workgroups()
+   dump workgroup on subnet   192.168.1.193: netmask=  255.255.255.0:
+  	WORKGROUP(1) current master browser = PISSMAKER
+  		AUSFAHRT 40819a03 (ausfahrt server (Samba, Ubuntu))
+  		PISSMAKER 40849a03 (PissMaker server (Samba, Ubuntu))
+[2011/04/26 10:49:21,  0] nmbd/nmbd_namequery.c:108(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.1.193 for name WORKGROUP<1d>.
+  This response was from IP 192.168.1.139, reporting an IP address of 192.168.1.139.
+[2011/04/26 18:30:10,  0] nmbd/nmbd_become_lmb.c:395(become_local_master_stage2)
+  *****
+  
+  Samba name server AUSFAHRT is now a local master browser for workgroup WORKGROUP on subnet 192.168.1.193
+  
+  *****

@@ -1,0 +1,16 @@
+#!/bin/sh -e
+
+# fix my previous errors
+
+rm -rf /usr/lib/python2.2/site-packages/duplicity/
+rm -rf /usr/lib/python2.3/site-packages/duplicity/
+
+# Automatically added by dh_pycentral
+case "$1" in
+    install|upgrade)
+	mkdir -p /var/lib/pycentral
+	echo '# the presence of this file allows calling pkgremove on upgrade' \
+	    > /var/lib/pycentral/duplicity.pkgremove
+esac
+# End automatically added section
+

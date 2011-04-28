@@ -1,0 +1,74 @@
+[2011/01/20 20:59:42,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/20 20:59:42,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/24 22:04:17,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/24 22:04:17,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/01/27 21:55:37,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/01/27 21:55:37,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/01 16:09:30,  1] smbd/service.c:676(make_connection_snum)
+  create_connection_server_info failed: NT_STATUS_ACCESS_DENIED
+[2011/02/01 16:09:39,  1] smbd/service.c:1063(make_connection_snum)
+  pissmaker (192.168.1.139) connect to service print$ initially as user ethan (uid=1000, gid=1000) (pid 22679)
+[2011/02/01 18:57:54,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/01 18:57:54,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/01 18:57:54,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/01 18:57:54,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/01 18:57:54,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/01 18:57:54,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/01 18:57:54,  1] smbd/service.c:1240(close_cnum)
+  pissmaker (192.168.1.139) closed connection to service print$
+[2011/02/02 20:23:49,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/02 20:23:49,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/10 13:04:56,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/10 13:04:56,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/02/26 20:54:33,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/26 20:54:33,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/02/26 20:54:33,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+[2011/02/26 20:54:33,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/03/16 16:13:08,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/03/16 16:13:08,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/03/19 01:28:25,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/03/19 01:28:25,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/03/31 16:56:42,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/03/31 16:56:42,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/04/11 23:52:22,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/04/11 23:52:22,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/04/17 12:35:11,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/04/17 12:35:11,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = No route to host.
+[2011/04/19 16:42:53,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/04/19 16:42:53,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.
+[2011/04/20 14:00:02,  0] lib/util_sock.c:539(read_fd_with_timeout)
+[2011/04/20 14:00:02,  0] lib/util_sock.c:1491(get_peer_addr_internal)
+  getpeername failed. Error was Transport endpoint is not connected
+  read_fd_with_timeout: client 0.0.0.0 read error = Connection reset by peer.

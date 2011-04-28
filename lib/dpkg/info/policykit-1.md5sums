@@ -1,0 +1,16 @@
+fa9871c87c4962314f83649ae1bfa065  usr/share/doc/policykit-1/copyright
+c62a54862a5015fe767fe31455e8b573  usr/share/man/man1/pkaction.1.gz
+0a32ae28b733a0e03566d526e7c3e3c5  usr/share/man/man1/pkexec.1.gz
+41eb31bc7a7e66276034a9dee4266d2d  usr/share/man/man1/pkcheck.1.gz
+f466d22d34d5e3df4cc05148c11e4885  usr/share/man/man8/pklocalauthority.8.gz
+135516fe1058c4676999bd95388d0e0a  usr/share/man/man8/polkit.8.gz
+9079c8c49070d81e40d80f8ddcb0f4de  usr/share/man/man8/polkitd.8.gz
+1dda8c3b0fe73304889ad70104fbc580  usr/share/polkit-1/actions/org.freedesktop.policykit.policy
+18f258692f3fc47843f576a156ac3567  usr/share/dbus-1/system-services/org.freedesktop.PolicyKit1.service
+e42d91d62167ff4c6c9f2bc95a1ccc39  usr/bin/pkexec
+a4edf5dabe1a7954aa7561a950e23485  usr/bin/pkcheck
+990fa677c77f92ae1bdf175de7e1c2d0  usr/bin/pkaction
+78a08b158fea33ff0b76ec02c1b48d3b  usr/lib/polkit-1/extensions/libnullbackend.so
+63e8fe2aafaba010a1373ce493997041  usr/lib/polkit-1/extensions/libpkexec-action-lookup.so
+ca29bfaa022745f697510e69f3633252  usr/lib/policykit-1/polkit-agent-helper-1
+93b06bb5d304fb3fcefaa80444965033  usr/lib/policykit-1/polkitd

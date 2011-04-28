@@ -1,0 +1,3 @@
+/etc/hp/hplip.conf
+/etc/sane.d/dll.d/hplip
+/etc/dbus-1/system.d/com.hp.hplip.conf

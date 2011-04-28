@@ -1,0 +1,24 @@
+Apr 24 06:49:37 ausfahrt postfix/pickup[13370]: B977623B9C: uid=0 from=<root>
+Apr 24 06:49:37 ausfahrt postfix/cleanup[13632]: B977623B9C: message-id=<20110424104937.B977623B9C@ausfahrt.databahn.info>
+Apr 24 06:49:37 ausfahrt postfix/qmgr[30443]: B977623B9C: from=<root@ausfahrt.databahn.info>, size=1109, nrcpt=1 (queue active)
+Apr 24 06:49:37 ausfahrt postfix/local[13634]: B977623B9C: to=<root@ausfahrt.databahn.info>, orig_to=<root>, relay=local, delay=11, delays=11/0.01/0/0.02, dsn=2.0.0, status=sent (delivered to command: procmail -a "$EXTENSION")
+Apr 24 06:49:37 ausfahrt postfix/qmgr[30443]: B977623B9C: removed
+Apr 25 06:02:03 ausfahrt postfix/pickup[14380]: 9A12A24462: uid=0 from=<root>
+Apr 25 06:02:03 ausfahrt postfix/cleanup[14442]: 9A12A24462: message-id=<20110425100203.9A12A24462@ausfahrt.databahn.info>
+Apr 25 06:02:03 ausfahrt postfix/qmgr[30443]: 9A12A24462: from=<root@ausfahrt.databahn.info>, size=690, nrcpt=1 (queue active)
+Apr 25 06:02:03 ausfahrt postfix/local[14444]: 9A12A24462: to=<root@ausfahrt.databahn.info>, orig_to=<root>, relay=local, delay=0.09, delays=0.06/0.01/0/0.02, dsn=2.0.0, status=sent (delivered to command: procmail -a "$EXTENSION")
+Apr 25 06:02:03 ausfahrt postfix/qmgr[30443]: 9A12A24462: removed
+Apr 25 11:51:32 databahn postfix/master[893]: daemon started -- version 2.7.0, configuration /etc/postfix
+Apr 25 11:51:33 databahn postfix/master[893]: reload -- version 2.7.0, configuration /etc/postfix
+Apr 25 11:51:33 databahn dovecot: Dovecot v1.2.9 starting up (core dumps disabled)
+Apr 25 11:50:43 databahn dovecot: Fatal: Time just moved backwards by 50 seconds. This might cause a lot of problems, so I'll just kill myself now. http://wiki.dovecot.org/TimeMovedBackwards
+Apr 26 06:02:03 databahn postfix/pickup[4580]: DE88724BEC: uid=0 from=<root>
+Apr 26 06:02:03 databahn postfix/cleanup[4648]: DE88724BEC: message-id=<20110426100203.DE88724BEC@ausfahrt.databahn.info>
+Apr 26 06:02:03 databahn postfix/qmgr[942]: DE88724BEC: from=<root@ausfahrt.databahn.info>, size=690, nrcpt=1 (queue active)
+Apr 26 06:02:03 databahn postfix/local[4650]: DE88724BEC: to=<root@ausfahrt.databahn.info>, orig_to=<root>, relay=local, delay=0.11, delays=0.06/0.03/0/0.02, dsn=2.0.0, status=sent (delivered to command: procmail -a "$EXTENSION")
+Apr 26 06:02:03 databahn postfix/qmgr[942]: DE88724BEC: removed
+Apr 27 06:02:02 databahn postfix/pickup[6355]: D65D624C42: uid=0 from=<root>
+Apr 27 06:02:02 databahn postfix/cleanup[6384]: D65D624C42: message-id=<20110427100202.D65D624C42@ausfahrt.databahn.info>
+Apr 27 06:02:02 databahn postfix/qmgr[942]: D65D624C42: from=<root@ausfahrt.databahn.info>, size=690, nrcpt=1 (queue active)
+Apr 27 06:02:02 databahn postfix/local[6386]: D65D624C42: to=<root@ausfahrt.databahn.info>, orig_to=<root>, relay=local, delay=0.08, delays=0.06/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to command: procmail -a "$EXTENSION")
+Apr 27 06:02:02 databahn postfix/qmgr[942]: D65D624C42: removed

@@ -1,0 +1,10 @@
+Apr 26 10:36:42 databahn kernel: [81964.416081] usb 3-2: USB disconnect, address 2
+Apr 26 10:36:45 databahn kernel: [81966.716033] usb 3-2: new full speed USB device using uhci_hcd and address 3
+Apr 26 10:36:45 databahn kernel: [81966.901500] usb 3-2: configuration #1 chosen from 1 choice
+Apr 26 10:36:45 databahn kernel: [81966.908990] usblp0: USB Bidirectional printer dev 3 if 0 alt 0 proto 2 vid 0x03F0 pid 0x6204
+Apr 26 10:36:45 databahn kernel: [81966.940311] usblp0: removed
+Apr 26 10:37:03 databahn kernel: [81985.000095] usb 3-2: USB disconnect, address 3
+Apr 26 10:37:05 databahn kernel: [81987.272034] usb 3-2: new full speed USB device using uhci_hcd and address 4
+Apr 26 10:37:05 databahn kernel: [81987.456470] usb 3-2: configuration #1 chosen from 1 choice
+Apr 26 10:37:05 databahn kernel: [81987.463545] usblp0: USB Bidirectional printer dev 4 if 0 alt 0 proto 2 vid 0x03F0 pid 0x6204
+Apr 26 10:41:49 databahn kernel: [82271.145490] usblp0: removed

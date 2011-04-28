@@ -1,0 +1,19 @@
+#!/bin/sh
+
+set -e
+
+if [ "$1" = "configure" -a -z "$2" ]; then
+	# Add the imap and imaps options to the protocols line on first install
+	perl -pi.bak -e 'if (/^\s*protocols =/i) { s/none//; s/$/ imap imaps/ unless /imap/; s/[ \t]+/ /g; };'\
+   /etc/dovecot/dovecot.conf
+fi
+
+if [ -x "/etc/init.d/dovecot" ]; then
+	if [ -x /usr/sbin/invoke-rc.d ]; then
+		invoke-rc.d dovecot restart
+	else
+		/etc/init.d/dovecot restart
+	fi
+fi
+
+

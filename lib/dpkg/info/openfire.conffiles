@@ -1,0 +1,10 @@
+/etc/openfire/openfire.xml
+/etc/openfire/security/keystore
+/etc/openfire/security/truststore
+/etc/openfire/security/client.truststore
+/etc/default/openfire
+/etc/init.d/openfire
+/etc/openfire/openfire.xml
+/etc/openfire/security/keystore
+/etc/openfire/security/client.truststore
+/etc/openfire/security/truststore

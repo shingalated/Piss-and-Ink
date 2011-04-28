@@ -1,0 +1,18 @@
+fsck from util-linux-ng 2.17.2
+/dev/sda1: clean, 76398/467712 files, 445066/1870592 blocks
+ * Starting AppArmor profiles       [80G [74G[ OK ]
+ * Setting sensors limits       [80G [74G[ OK ]
+ * Starting domain name service... bind9       [80G [74G[ OK ]
+Starting openfire: openfire.
+ * Starting Postfix Mail Transport Agent postfix       [80G [74G[ OK ]
+ * Starting the Winbind daemon winbind       [128G [122G[ OK ]
+ * Starting IMAP/POP3 mail server dovecot       [128G If you have trouble with authentication failures,
+enable auth_debug setting. See http://wiki.dovecot.org/WhyDoesItNotWork
+This message goes away after the first successful login.
+[122G[ OK ]
+ * Starting Common Unix Printing System: cupsd       [128G [122G[ OK ]
+ * Starting web server apache2       [128G [Mon Apr 25 11:50:43 2011] [warn] module proxy_module is already loaded, skipping
+[Mon Apr 25 11:50:43 2011] [warn] module proxy_http_module is already loaded, skipping
+[Mon Apr 25 11:50:43 2011] [warn] worker http://127.0.0.1:7070/http-bind/ already used by another worker
+[Mon Apr 25 11:50:43 2011] [warn] The Alias directive in /etc/apache2/sites-enabled/000-default at line 15 will probably never match because it overlaps an earlier Alias.
+[122G[ OK ]

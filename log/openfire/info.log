@@ -1,0 +1,44 @@
+2011.03.10 20:31:42 Openfire 3.6.4 [Mar 10, 2011 8:31:42 PM]
+2011.03.10 20:32:35 Admin console listening at http://127.0.0.1:9090
+2011.03.11 05:39:27 Server halted
+2011.03.11 05:39:30 Openfire 3.6.4 [Mar 11, 2011 5:39:30 AM]
+2011.03.11 05:40:07 Server halted
+2011.03.11 05:40:09 Openfire 3.6.4 [Mar 11, 2011 5:40:09 AM]
+2011.03.11 05:42:20 Admin console listening at http://127.0.0.1:9090
+2011.03.11 05:42:41 Server halted
+2011.03.11 05:42:53 Openfire 3.6.4 [Mar 11, 2011 5:42:53 AM]
+2011.03.11 05:45:25 Admin console listening at http://127.0.0.1:9090
+2011.03.11 06:19:20 Publish-Subscribe domain: pubsub.databahn.info
+2011.03.11 06:19:20 Multi User Chat domain: conference.databahn.info
+2011.03.11 06:19:25 Started server (unencrypted) socket on port: 5269
+2011.03.11 06:19:25 Started plain (unencrypted) socket on port: 5222
+2011.03.11 06:19:25 Started SSL (encrypted) socket on port: 5223
+2011.03.11 06:22:14 Openfire stopped
+2011.03.11 06:22:14 Server halted
+2011.03.11 06:22:19 Publish-Subscribe domain: pubsub.databahn.info
+2011.03.11 06:22:19 Multi User Chat domain: conference.databahn.info
+2011.03.11 06:22:21 Openfire 3.6.4 [Mar 11, 2011 6:22:21 AM]
+2011.03.11 06:22:27 Admin console listening at:
+  http://databahn.info:9090
+  https://databahn.info:9091
+2011.03.11 06:22:27 Started server (unencrypted) socket on port: 5269
+2011.03.11 06:22:27 Started plain (unencrypted) socket on port: 5222
+2011.03.11 06:22:27 Started SSL (encrypted) socket on port: 5223
+2011.03.11 08:30:30 User Login Failed. PLAIN authentication failed
+2011.03.11 08:42:15 User Login Failed. PLAIN authentication failed
+2011.03.11 08:42:21 User Login Failed. PLAIN authentication failed
+2011.03.14 21:16:47 User Login Failed. PLAIN authentication failed
+2011.03.14 21:16:49 User Login Failed. PLAIN authentication failed
+2011.04.08 09:31:07 User Login Failed. PLAIN authentication failed
+2011.04.08 09:31:16 User Login Failed. PLAIN authentication failed
+2011.04.25 11:50:48 Openfire stopped
+2011.04.25 11:50:48 Server halted
+2011.04.25 11:50:50 Publish-Subscribe domain: pubsub.databahn.info
+2011.04.25 11:50:50 Multi User Chat domain: conference.databahn.info
+2011.04.25 11:50:52 Openfire 3.6.4 [Apr 25, 2011 11:50:52 AM]
+2011.04.25 11:50:59 Admin console listening at:
+  http://databahn.info:9090
+  https://databahn.info:9091
+2011.04.25 11:51:00 Started server (unencrypted) socket on port: 5269
+2011.04.25 11:51:00 Started plain (unencrypted) socket on port: 5222
+2011.04.25 11:51:00 Started SSL (encrypted) socket on port: 5223

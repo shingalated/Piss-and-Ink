@@ -1,0 +1,8 @@
+3cd17f60c1c645488824d62e59a1c01c  usr/sbin/fancontrol
+5ba61cd5ae22eaa237ae49f1f3e459c8  usr/sbin/pwmconfig
+379dea44d5ca3bf99eb680d56c5be757  usr/share/man/man8/fancontrol.8.gz
+1565d928203194b0296723c8809c6a4c  usr/share/man/man8/pwmconfig.8.gz
+b6634a5a2b1efad179fd5c6ab2222f2b  usr/share/doc/fancontrol/changelog.gz
+ab7bb60145dfc0d8f89934e4526008bc  usr/share/doc/fancontrol/copyright
+c707f77f3d7e4f635c4d1124b514377e  usr/share/doc/fancontrol/changelog.Debian.gz
+3d0d55d68839c4336d5254388ce11f91  usr/share/doc/fancontrol/fancontrol.txt.gz

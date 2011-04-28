@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libavahi-core6
+/usr/share/doc/libavahi-core6/README
+/usr/share/doc/libavahi-core6/copyright
+/usr/share/doc/libavahi-core6/changelog.gz
+/usr/share/doc/libavahi-core6/NEWS.gz
+/usr/share/doc/libavahi-core6/changelog.Debian.gz
+/usr/lib
+/usr/lib/libavahi-core.so.6.0.1
+/usr/lib/libavahi-core.so.6

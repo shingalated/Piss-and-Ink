@@ -1,0 +1,33 @@
+#!/bin/sh
+set -e
+# Automatically added by dh_pycentral
+if which pycentral >/dev/null 2>&1 && pycentral --help 2>/dev/null | grep -q '^ *version'; then
+	pycentral pkgprepare python-xmpp <<PYEOF
+[python-package]
+format = 1
+python-version = all
+[pycentral]
+version = 0.6.7
+[files]
+/usr/share/pyshared/xmpp=d
+/usr/share/pyshared/xmpp/__init__.py=f
+/usr/share/pyshared/xmpp/auth.py=f
+/usr/share/pyshared/xmpp/browser.py=f
+/usr/share/pyshared/xmpp/client.py=f
+/usr/share/pyshared/xmpp/commands.py=f
+/usr/share/pyshared/xmpp/debug.py=f
+/usr/share/pyshared/xmpp/dispatcher.py=f
+/usr/share/pyshared/xmpp/features.py=f
+/usr/share/pyshared/xmpp/filetransfer.py=f
+/usr/share/pyshared/xmpp/jep0106.py=f
+/usr/share/pyshared/xmpp/protocol.py=f
+/usr/share/pyshared/xmpp/roster.py=f
+/usr/share/pyshared/xmpp/session.py=f
+/usr/share/pyshared/xmpp/simplexml.py=f
+/usr/share/pyshared/xmpp/transports.py=f
+PYEOF
+else
+	mkdir -p /var/lib/pycentral
+	echo python-xmpp >> /var/lib/pycentral/delayed-pkgs
+fi
+# End automatically added section

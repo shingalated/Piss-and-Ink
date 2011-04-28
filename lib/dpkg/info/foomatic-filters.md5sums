@@ -1,0 +1,13 @@
+0c919a3706835790a18ecf9cec080951  usr/bin/foomatic-rip
+70026a8f8379bfa72c56f81a4a206fa7  usr/share/foomatic/parseconfig.pl
+50ee2fc58faa718ae4f42159ab9d3b4c  usr/share/man/man1/foomatic-rip.1.gz
+b16f2e020554ec772f9318e29bfb4adc  usr/share/apport/package-hooks/source_foomatic-filters.py
+f5129ce8e4bf3b9c7eb6e4b417e27216  usr/share/doc/foomatic-filters/changelog.gz
+77c767bebcd1728359be7728756eb161  usr/share/doc/foomatic-filters/README.gz
+5c2348345f5a56dadc47479591b028d9  usr/share/doc/foomatic-filters/USAGE.gz
+ee9131c00ef77286d133a6b5733fb492  usr/share/doc/foomatic-filters/TODO
+69a3c037e32a1a5d3d951a3d8c951399  usr/share/doc/foomatic-filters/README.Debian
+529432990dde7e119e21aa9f9d10f7b9  usr/share/doc/foomatic-filters/copyright
+c6f87d357f5180c968bb98bd58234291  usr/share/doc/foomatic-filters/examples/filter.conf
+4d98b7dd7aaf268fa4416a347f6c4e05  usr/share/doc/foomatic-filters/changelog.Debian.gz
+4d7634b10691e890af00cc442661bcdd  usr/lib/cups/backend/beh

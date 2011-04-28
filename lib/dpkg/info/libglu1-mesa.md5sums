@@ -1,0 +1,4 @@
+d37d13d3f504d8d10b98214bf3d43f55  usr/share/doc/libglu1-mesa/copyright
+f9da47daaea1ba6045d7baf32848254c  usr/share/doc/libglu1-mesa/changelog.Debian.gz
+495e7585b28a03a35c6842dbbea9a730  usr/share/lintian/overrides/libglu1-mesa
+5d7048771c5eb6bee6fbb076b05472a7  usr/lib/libGLU.so.1.3.070701

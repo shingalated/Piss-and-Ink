@@ -1,0 +1,11 @@
+Remote file or directory does not exist in command='mkdir "/media/Files/Backups/Ausfahrt"'
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #1)
+Remote file or directory does not exist in command='mkdir "/media/Files/Backups/Ausfahrt"'
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #2)
+Remote file or directory does not exist in command='mkdir "/media/Files/Backups/Ausfahrt"'
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #3)
+Remote file or directory does not exist in command='mkdir "/media/Files/Backups/Ausfahrt"'
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #4)
+Remote file or directory does not exist in command='mkdir "/media/Files/Backups/Ausfahrt"'
+Running 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' failed (attempt #5)
+Giving up trying to execute 'sftp  -oServerAliveInterval=15 -oServerAliveCountMax=1 chris@turbotobi.local' after 5 attempts

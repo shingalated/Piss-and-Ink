@@ -1,0 +1,15 @@
+/etc/java-6-sun/security/java.policy
+/etc/java-6-sun/security/java.security
+/etc/java-6-sun/security/cacerts
+/etc/java-6-sun/management/jmxremote.access
+/etc/java-6-sun/management/jmxremote.password
+/etc/java-6-sun/management/management.properties
+/etc/java-6-sun/management/snmp.acl
+/etc/java-6-sun/calendars.properties
+/etc/java-6-sun/content-types.properties
+/etc/java-6-sun/logging.properties
+/etc/java-6-sun/sound.properties
+/etc/java-6-sun/flavormap.properties
+/etc/java-6-sun/net.properties
+/etc/java-6-sun/fontconfig.properties
+/etc/java-6-sun/jvm.cfg

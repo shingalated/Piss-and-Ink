@@ -1,0 +1,111 @@
+Package: rabbitvcs-cli
+Source: rabbitvcs
+Priority: optional
+Section: devel
+Installed-Size: 52
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: all
+Version: 0.14.2.1-1~lucid
+Depends: python (>= 2.5), rabbitvcs-core (>= 0.13.1)
+Filename: pool/main/r/rabbitvcs/rabbitvcs-cli_0.14.2.1-1~lucid_all.deb
+Size: 4448
+MD5sum: 595010399d2e95e91b533c958e323604
+SHA1: 246fede90365cd2cf7192853942b37a33c0638c1
+Description: Command line interface for RabbitVCS
+ RabbitVCS is a set of graphical tools written to provide simple and
+ straightforward access to the version control systems you use. This is the
+ command-line interface.
+
+Package: rabbitvcs-core
+Source: rabbitvcs
+Priority: optional
+Section: devel
+Installed-Size: 3748
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: all
+Version: 0.14.2.1-1~lucid
+Replaces: nautilussvn
+Depends: python (>= 2.5), python-support (>= 0.90.0), python-gtk2 (>= 2.12.1), python-glade2 (>= 2.12.1), python-gobject (>= 2.14.1), python-svn (>= 1.5.2), python-dbus (>= 0.82.4), python-configobj (>= 4.4.0), subversion (>= 1.4.6), meld (>= 1.1.2), ipython (>= 0.7.1), hicolor-icon-theme (>= 0.10-2), python-dulwich
+Conflicts: nautilussvn, rabbitvcs
+Filename: pool/main/r/rabbitvcs/rabbitvcs-core_0.14.2.1-1~lucid_all.deb
+Size: 518752
+MD5sum: 17f4bb2d77a0d6cc3597fc16b98c1ecb
+SHA1: 5ac431c81564e3c2321e186d0110df33962b90ac
+Description: Easy version control
+ RabbitVCS is a set of graphical tools written to provide simple and
+ straightforward access to the version control systems you use. There are
+ extensions for Nautilus, Thunar and GEdit, and a simple command-line interface.
+ .
+ RabbitVCS currently only supports Subversion.
+
+Package: rabbitvcs-gedit
+Source: rabbitvcs
+Priority: optional
+Section: devel
+Installed-Size: 84
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: all
+Version: 0.14.2.1-1~lucid
+Depends: gedit, rabbitvcs-core (>= 0.13.1)
+Filename: pool/main/r/rabbitvcs/rabbitvcs-gedit_0.14.2.1-1~lucid_all.deb
+Size: 8616
+MD5sum: a0f13861422ce9a27ffabbd4cf46648d
+SHA1: ea9bb763ad651940de47a4dbc7982e6da1a5c95f
+Description: Gedit extension for RabbitVCS
+ RabbitVCS is a set of graphical tools written to provide simple and
+ straightforward access to the version control systems you use. This is the
+ extension for gedit text editor.
+
+Package: rabbitvcs-nautilus
+Source: rabbitvcs
+Priority: optional
+Section: devel
+Installed-Size: 72
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: all
+Version: 0.14.2.1-1~lucid
+Depends: nautilus, python-nautilus (>= 0.5.0), rabbitvcs-core (>= 0.13.1)
+Filename: pool/main/r/rabbitvcs/rabbitvcs-nautilus_0.14.2.1-1~lucid_all.deb
+Size: 8696
+MD5sum: 887d13f06508512dce4afe27e2c83a00
+SHA1: efb34f4275fc4ca88018dd72e89f2421cd4e7900
+Description: Nautilus extension for RabbitVCS
+ RabbitVCS is a set of graphical tools written to provide simple and
+ straightforward access to the version control systems you use. This is the
+ extension for the Nautilus file manager.
+
+Package: rabbitvcs-thunar
+Source: rabbitvcs
+Priority: optional
+Section: devel
+Installed-Size: 76
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: all
+Version: 0.14.2.1-1~lucid
+Depends: thunar (>= 0.4.0), thunarx-python (>= 0.2.0), rabbitvcs-core (>= 0.13.1)
+Filename: pool/main/r/rabbitvcs/rabbitvcs-thunar_0.14.2.1-1~lucid_all.deb
+Size: 7144
+MD5sum: 2ebd5130957701e5065ac57cfb7ca418
+SHA1: e42d3b065f641b1349869b73fd889f218f35265c
+Description: Thunar extension for RabbitVCS
+ RabbitVCS is a set of graphical tools written to provide simple and
+ straightforward access to the version control systems you use. This is the
+ extension for the Thunar file manager.
+
+Package: thunarx-python
+Source: thunarx-python
+Priority: optional
+Section: xfce
+Installed-Size: 144
+Maintainer: Jason Heeris <jason.heeris@gmail.com>
+Architecture: i386
+Version: 0.2.0-2~lucid
+Depends: libatk1.0-0 (>= 1.29.3), libc6 (>= 2.3.6-6~), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.8.0), libpango1.0-0 (>= 1.14.0), libpython2.6 (>= 2.6), libthunar-vfs-1-2 (>= 1.0.0), thunar (>= 0.4.0), python-gtk2 (>= 2.6.0), python-gobject (>= 2.15), python-gnome2 (>= 2.12.0)
+Filename: pool/main/t/thunarx-python/thunarx-python_0.2.0-2~lucid_i386.deb
+Size: 22814
+MD5sum: b636e20e283b6bd85a2ae7de3a928e35
+SHA1: 4b09991545c078940e70c33214e5dcc437d82339
+Description: Python bindings for the Thunar file manager
+ Python bindings for the Thunar file manager, allowing property page and menu
+ extensions to be written in Python.
+

@@ -1,0 +1,12 @@
+199febe15d8ff7a14e42e754373db070  usr/share/doc/libgphoto2-port0/AUTHORS
+1157caa5c6cfa2e0f18ac5faf7ffe99b  usr/share/doc/libgphoto2-port0/README
+366899e3eaf2d04bf69cbf59194c0585  usr/share/doc/libgphoto2-port0/copyright
+51862be29e2aa8cdd0262cab98b154c6  usr/share/doc/libgphoto2-port0/changelog.gz
+4eab4dde5364f5b74cc9803201c3493d  usr/share/doc/libgphoto2-port0/NEWS.gz
+d5c88a9352a7a929c3343b8962f56242  usr/share/doc/libgphoto2-port0/changelog.Debian.gz
+efbf139485e29adda495d4bca2d04b84  usr/lib/libgphoto2_port.so.0.8.0
+43edcf7661a2b140c15499a8606dfc60  usr/lib/libgphoto2_port/0.8.0/serial.so
+cc27cbfec7f9affde00791786edd98f4  usr/lib/libgphoto2_port/0.8.0/usb.so
+242c520a60601a516ea0e297e7dd233a  usr/lib/libgphoto2_port/0.8.0/disk.so
+0f4ca3371d5771bf47ade6588fefb2d8  usr/lib/libgphoto2_port/0.8.0/ptpip.so
+f8f03cd97a940414016551396151c3f1  lib/udev/check-mtp-device

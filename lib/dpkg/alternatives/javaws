@@ -1,0 +1,9 @@
+auto
+/usr/bin/javaws
+javaws.1.gz
+/usr/share/man/man1/javaws.1.gz
+
+/usr/lib/jvm/java-6-sun/jre/bin/javaws
+63
+/usr/lib/jvm/java-6-sun/jre/man/man1/javaws.1.gz
+

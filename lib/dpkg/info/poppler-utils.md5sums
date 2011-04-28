@@ -1,0 +1,16 @@
+67065d241797f9b65d725150fe8c7c80  usr/share/doc/poppler-utils/copyright
+276e1850f28094e0c5285513e02eff4b  usr/share/man/man1/pdfinfo.1.gz
+ee54622c6de89908bb4f8dd41046ff0c  usr/share/man/man1/pdftops.1.gz
+abecb1f58538b71f7e17a3148eef6860  usr/share/man/man1/pdftotext.1.gz
+9c747a5ba9dfb05f22ce5de96df0f68e  usr/share/man/man1/pdftohtml.1.gz
+da46ebd894e5862a45283e53c0f7da61  usr/share/man/man1/pdftoppm.1.gz
+a952cf6b787d6311aea93ca0145f4ba7  usr/share/man/man1/pdffonts.1.gz
+ec89a08e92a43e95881fea75f597ab2d  usr/share/man/man1/pdfimages.1.gz
+459d88f3d811633fcd743492b1fd337f  usr/bin/pdffonts
+2713da6a4fc2c0bc193095b96f039a63  usr/bin/pdfimages
+46caf6700224a0aad6a85e6b7413253a  usr/bin/pdfinfo
+c04c48bcf02172c5e76772fd6f9459bf  usr/bin/pdftops
+35ce2e64a4116182dd5cff7cf0069097  usr/bin/pdftotext
+d69f0f44460c069410a7dfbe7dac321c  usr/bin/pdftohtml
+0e90d1b212cecfb21115ad3e9d6b2185  usr/bin/pdftoppm
+f7a9b20aaf80aa1a74a088cc6db4a999  usr/bin/pdftoabw

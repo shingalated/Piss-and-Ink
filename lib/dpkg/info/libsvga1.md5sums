@@ -1,0 +1,17 @@
+29677518144712195fe6cbb7eef81bb8  usr/lib/libvga.so.1.4.3
+410defd249636868bd528b618e0466d0  usr/lib/libvgagl.so.1.4.3
+77a69b40b15a1bcd56595ab201023946  usr/share/doc/libsvga1/changelog.gz
+4a847d7c0c6cefc5749c4d169dbdbd71  usr/share/doc/libsvga1/0-README.gz
+44e061e07d0e4ba1029d2345b3c3bd05  usr/share/doc/libsvga1/CHANGES.mach64
+66caa101d8e999f9c6ffc662f8f50f65  usr/share/doc/libsvga1/README.vesa
+43c53a151ec319628c974f1d6602bac1  usr/share/doc/libsvga1/TODO
+2429042685cb7eab7d93613e946b1670  usr/share/doc/libsvga1/copyright
+2ae354a9f853edf3f5c357b4614f55fa  usr/share/doc/libsvga1/changelog.Debian.gz
+be1d3465a20f92582b5fbfd20a58f4cd  usr/share/doc/libsvga1/README.keymap.gz
+f52f8cfc33595d74f14521c3a3a61108  usr/share/man/man5/libvga.config.5.gz
+cbf5ab1fcd86e6629bcbd039d9bf844b  usr/share/man/man7/svgalib.et4000.7.gz
+f330e742545ab0702de6238d942f80fe  usr/share/man/man7/svgalib.faq.7.gz
+fe34c70dff3061bcb366780d8f31afcd  usr/share/man/man7/svgalib.mach32.7.gz
+0117d503825a41ca069f1573a7904586  usr/share/man/man7/vgagl.7.gz
+b00ea8f54159f7588deb53bae112528f  usr/share/man/man7/svgalib.7.gz
+cf81b1be01688c8603b7c8cb2d878611  usr/share/man/man7/svgalib.chips.7.gz
