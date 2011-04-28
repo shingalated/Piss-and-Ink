@@ -1,0 +1,44 @@
+@pinstripe-color: #323232;
+
+html {
+        background-color: #646464;
+        background-image:
+        -webkit-gradient(linear, 100% 0%, 0% 100%,
+                from(transparent),
+                color-stop(0.15, transparent),
+                color-stop(0.15, @pinstripe-color),
+                color-stop(0.50, @pinstripe-color),
+                color-stop(0.50, transparent),
+                color-stop(0.65, transparent),
+                color-stop(0.65, @pinstripe-color),
+                to(@pinstripe-color));
+        background-image:
+        -moz-linear-gradient(100% 0%, 
+                transparent 0.15,
+                @pinstripe-color 0.15,
+                @pinstripe-color 0.50,
+                transparent 0.50,
+                transparent 0.65,
+                @pinstripe-color 0.65);
+        .background-size(100px, 100px);
+        background-attachment: fixed;
+        overflow-y: scroll;
+}
+
+.background-size(@x, @y) {
+        -webkit-background-size: @x @y;
+        -moz-background-size: @x @y;
+        -o-background-size: @x @y;
+        background-size: @x @y;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+font-family: 'Ubuntu', arial, serif; 
+line-height:.3em;
+}
+
+.warning {
+font-family: 'Ubuntu', arial, serif;
+font-size: 4pt;
+color: color:red;
+}

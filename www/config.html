@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>Piss and INK - Configure</title>
+	<link href="media/thrColLiqHdr.css" rel="stylesheet" type="text/css">
+	<link href="media/chrome.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 0.19.1" />
+</head>
+
+<body>
+<div class=nslink>
+	<ul class="toolbar" style="background-color: Gray">
+		<li><a style="text-decoration:none" href="config">Configuration</a></li><!--
+		--><li><a style="text-decoration:none" href="chat">Messages</a></li><!--
+		--><li><a style="text-decoration:none" href="home">Home</a></li><!--
+		--><li><a style="text-decoration:none" href="logout">Log off</a></li>
+	</ul>
+</div>
+
+	<h1>Welcome {{user}}</h1>	
+	<form action="" method="post">
+	<h4>Enter your configuration settings below</h4>
+	{% csrf_token %}
+	<p /><br />
+<div class=config>
+	<h1>General:</h1>
+	{{bm}}
+	<h3>Zipcode:</h3>
+	<input type="text" name="zipcode" size="5">
+	
+	{%comment%}<h2>Choose your modules</h2>
+	<p>Please check the modules you would like to load and uncheck the ones you don't want</p>
+	<input type="checkbox" name="mod1" id="{{forloop.counter}}" size="5" value="{{modOnOff}}" checked>{%endcomment%}
+	
+	<h2>Page Layout:</h2>
+	<p>Please enter your page layout, think of the numbers inside as<br /><p/>
+	<p>the modules and the text boxes they are in are where they will be positioned on the page</p>
+	<p>1 is weather , 	 	 	5 is News feeds   ,       9 is nothing for now</p>   
+	<p>2 is events ,    	 	    6 is nothing for now,	 10 is nothing for now</p>
+	<p>3 is nothing right now, 7 is nothing for now ,11 is nothing for now</p>
+	<input type="text" name="choice1" size="5" value={%if choice1%}{{choice1}}{%else%}1{%endif%}><input type="text" name="choice5" size="5" value={%if choice5%}{{choice5}}{%else%}5{%endif%}><input type="text" name="choice9" size="5" value={%if choice9%}{{choice9}}{%else%}9{%endif%}><br />
+	<input type="text" name="choice2" size="5" value={%if choice2%}{{choice2}}{%else%}2{%endif%}><input type="text" name="choice6" size="5" value={%if choice6%}{{choice6}}{%else%}6{%endif%}><input type="text" name="choice10" size="5" value={%if choice10%}{{choice10}}{%else%}10{%endif%}><br />
+	<input type="text" name="choice3" size="5" value={%if choice3%}{{choice3}}{%else%}3{%endif%}><input type="text" name="choice7" size="5" value={%if choice7%}{{choice7}}{%else%}7{%endif%}><input type="text" name="choice11" size="5" value={%if choice11%}{{choice11}}{%else%}11{%endif%}><br />
+	<input type="text" name="choice4" size="5" value={%if choice4%}{{choice4}}{%else%}4{%endif%}><input type="text" name="choice8" size="5" value={%if choice8%}{{choice8}}{%else%}8{%endif%}><input type="text" name="choice12" size="5" value={%if choice12%}{{choice12}}{%else%}12{%endif%}><br />
+	<input type = 'submit' onclick = "sleep(10000) reload()" value = 'Change'>
+</div>
+	<br />
+	<p />
+<div class=config>
+	<h1>Basic modules:</h1>
+	<h2>Bookmarks:</h2>
+	<p>Please enter a url you would like to save, such as www.google.com</p>
+	<input type="text" name="bookmark1" size="50" value = {{bm_list.0}}><br />
+	<input type="text" name="bookmark2" size="50" value = {{bm_list.1}}><br />
+	<input type="text" name="bookmark3" size="50" value = {{bm_list.2}}><br />
+	<p />
+	<input type="submit" value="Update">
+	<h2>RSS:</h2>
+	<input type="text" name="rss1" size="50" value="whatever is stored for rss1 in the DB"><br />
+	<input type="text" name="rss2" size="50" value="whatever is stored for rss2 in the DB"><br />
+	<input type="text" name="rss3" size="50" value="whatever is stored for rss3 in the DB"><br />
+	<p />
+	<input type="submit" value="Update">
+	</form>
+	<h2>Upload custom module:</h2>
+	<form id="uploader" action="uploads/" enctype="multipart/form-data" method="post">
+		{% csrf_token %}
+	      <input type="file" name="uploaded"/>
+	      <input type="submit" value="Upload"/>
+	 </form>
+	</div>
+	{% csrf_token %}
+	<br />
+	<p />
+<div class=config>
+	<form name="password" action="" method="post">
+	<h1>User:</h1>
+	<h2>Change password:</h2>
+	<h3>Enter old password:</h3>
+	<input type="password" name="oldpassword" value="Satan hates bagels">
+	<h3>Enter new password:</h3>
+	<input type="password" name="newpassword1">
+	<h3>Confirm new password:</h3>
+	<input type="password" name="newpassword2">
+	<br />
+	<input type="submit" value="Change password">
+	</form>
+
+	{% if warning %}
+	<div class=warning>{{warning}}</div>
+	{% endif %}	
+<!--
+	{{dbzip}}
+-->
+	</div>
+</body>
+
+</html>
+

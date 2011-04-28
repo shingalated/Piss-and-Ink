@@ -1,0 +1,7 @@
+
+<p>The temperature in {{city}} is {{temperature}}&deg;<br /> Current conditions: {{results.current_conditions.condition}} <img src="http://www.google.com{{results.current_conditions.icon}}" alt="{{results.current_conditions.condition}}"></p>
+<b>Forcast:</b><br /> 
+{%for index in results.forecasts%}
+	{{index.day_of_week}}: high of {{index.high}}&deg;, low of {{index.low}}&deg;<br />
+	<p><img src="http://www.google.com{{index.icon}}">{{index.condition}}</p>
+{%endfor%}

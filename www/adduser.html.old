@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Piss and INK - Add user</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link href="media/thrColLiqHdr.css" rel="stylesheet" type="text/css">
+	<link href="media/chrome.css" rel="stylesheet" type="text/css">
+	<SCRIPT LANGUAGE="JavaScript">
+	<!-- Begin
+	function validatePwd() {
+	var invalid1 = " ";
+	var invalid2 = "\\";
+	var invalid3 = "\'";
+	var invalid4 = "\"";
+	var invalid5 = "\;";
+	var minLength = 6;
+	var passwd1 = document.input.passwd.value;
+	var passwd2 = document.input.passwd2.value;
+	var zipcode = document.input.zip_code.value;
+	// check for a value in both fields.
+	if (passwd1 == '' || passwd2 == '') {
+	alert('Please enter your password twice.');
+	return false;
+	}
+	// check for minimum length
+	if (document.input.passwd1.value.length < minLength) {
+	alert('Your password must be at least ' + minLength + ' characters long. Try again.');
+	return false;
+	}
+	// check for spaces
+	if (document.input.passwd1.value.indexOf(invalid1||invalid2||invalid3||invalid4||invalid5) > -1) {
+	alert("Sorry, spaces are not allowed.");
+	return false;
+	}
+	else {
+	if (passwd1 != passwd2) {
+	alert ("You did not enter the same new password twice. Please re-enter your password.");
+	return false;
+	}
+	else {
+	alert('Nice job.');
+	return true;
+		  }
+	   }
+	}
+	</script>
+</head>
+
+<body>
+	
+	<div class=nslink>
+	<ul class="toolbar" style="background-color: Gray">
+		<li><a style="text-decoration:none" href="config">Configuration</a></li><!--
+		--><li><a style="text-decoration:none" href="chat">Messages</a></li><!--
+		--><li><a style="text-decoration:none" href="home">Home</a></li><!--
+		--><li><a style="text-decoration:none" href="logout">Log off</a></li>
+	</ul>
+	</div>
+	
+	You are about to add a user on this Piss and INK system. <br>
+	<b>You will not regret it.</b><br>
+	<p>
+	</p><p>
+	</p><div class="adduser">
+	<p><h2>Let's get started,</h2></p></p>
+	<table width="55%" border="0" cellspacing="1" cellpadding="1" class="center">
+	<form name="input" action="/" method="post" onsubmit="return validatePwd()">
+	  <tr>
+	    <td>Username:</td>
+	    <td><input type="text" name="user_name"></td>
+      </tr>
+	  <tr>
+	    <td>First name: </td>
+	    <td><input type="text" name="first_name"></td>
+      </tr>
+	  <tr>
+	    <td>Last name: </td>
+	    <td><input type="text" name="last_name"></td>
+      </tr>
+	  <tr>
+	    <td>Zip code:</td>
+	    <td><input type="text" name="zip_code"></td>
+      </tr>
+	  <tr>
+	    <td>E-mail: </td>
+	    <td><input type="text" name="email"></td>
+      </tr>
+	  <tr>
+	    <td>Password:</td>
+	    <td><input type="password" name="passwd" maxlength="24"></td>
+      </tr>
+	  <tr>
+	    <td colspan="2"><p><br>Please confirm your password, (for science)....</p></td>
+      </tr>
+	  <tr>
+	    <td>Password:</td>
+	    <td><input type="password" name="passwd2" maxlength="24"></td>
+      </tr>
+	  </table>
+	<br><br>
+	<br><br><br><table>
+		<tbody><tr><td></td></tr><tr></tr>
+		<tr></tr> 
+		</tbody></table>
+		<input type="submit" value="add" />
+		</div>
+	</form>
+	</tbody></table>
+</body>
+
+
+</html>

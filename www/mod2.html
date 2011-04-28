@@ -1,0 +1,33 @@
+<script type="text/javascript">
+	function updatelist(){
+		window.location.reload()
+		window.location.reload()
+</script>
+
+<form method="post">
+		{%csrf_token%}
+		{% if new_event %}
+			<b><p>Latest event: {{new_event}}</p></b>
+		{% endif %}
+		{% if delete_error %}
+			<p>{{delete_error}}</p>
+		{% endif %}						
+			<label for="event">Enter your event</label>
+			<input type="text" name="event" size="15" id="event" />
+			</p>			
+			
+		<form action="" method="post">
+		{% for event in event_list%}
+			{%csrf_token%}
+			<input type="checkbox" name="event_check" id="event{{ forloop.counter }}" value = "{{ event.event_id }}"/>
+			<label for="event{{ forloop.counter }}">{{ event.title }}<br /> date :{%if event.date == None%} Anytime{%else%}{{event.date}}{%endif%}</label></p>			
+			{%comment%}<form method = "post">
+			<label for="date">Select a date</label>
+			<input type="text" name="date" value="{{todaysdate}}" id="rangeA" />			
+			</form>{%endcomment%}
+		{%empty%}
+			<p>You haven't entered any events yet</p>
+		{% endfor %}
+		<input type = 'submit' onclick = "updatelist()" value = 'add'>
+		<input type = 'submit' onclick = "reload()" value = 'delete'>
+		</form>			
